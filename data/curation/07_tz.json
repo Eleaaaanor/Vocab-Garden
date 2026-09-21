@@ -1,0 +1,385 @@
+{
+  "words": {
+    "inertial": {
+      "example": {
+        "sentence": "Institutional inertial resistance outlasted three successive reform commissions.",
+        "translation": "制度上的惯性阻力比接连三届改革委员会都更持久。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "tantalizing": {
+      "synonyms": ["tempting", "enticing", "alluring", "teasing"],
+      "example": {
+        "sentence": "The archive offered a tantalizing hint of what the missing chapters contained.",
+        "translation": "这批档案给出了一个撩人的暗示，令人猜测缺失的章节写了什么。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "tantamount": {
+      "synonyms": ["equivalent", "equal", "commensurate", "as good as"],
+      "notes": ["GRE 固定搭配：be tantamount to（等同于），后接名词或动名词。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "task force": {
+      "synonyms": ["working group", "panel", "committee"],
+      "notes": ["政府、军队或企业为特定任务临时组成的专门小组，属篇章词汇。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "tautology": {
+      "synonyms": ["redundancy", "pleonasm", "repetition", "circularity"],
+      "notes": ["GRE 逻辑语境中指“同义反复”，即谓词未增添任何新信息的命题。"]
+    },
+    "tendentious": {
+      "confusables": [
+        {"term": "tenuous", "distinction": "tendentious 指带有倾向性、有偏见的；tenuous 指薄弱的、站不住脚的。拼写相近，词义不同。"}
+      ],
+      "notes": ["GRE 常考：tendentious 含贬义，指论述为特定立场服务而非中立求真。"]
+    },
+    "tenet": {
+      "synonyms": ["principle", "doctrine", "precept", "dogma"],
+      "example": {
+        "sentence": "The study challenged a central tenet of the discipline.",
+        "translation": "这项研究挑战了该学科的一项核心信条。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "tenor": {
+      "chinese": ["（讲话、事件的）要旨，基调；男高音"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "The general meaning, drift, or tone of something spoken or written."},
+        {"pos": "noun", "definition": "A high male singing voice."}
+      ],
+      "synonyms": ["gist", "drift", "purport", "substance"],
+      "notes": ["GRE 常考抽象义“要旨、总体基调”，如 the tenor of the debate。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "tenure": {
+      "synonyms": ["incumbency", "term", "occupancy", "possession"],
+      "example": {
+        "sentence": "During his tenure as chairman, the department doubled in size.",
+        "translation": "在他担任主席期间，该系的规模扩大了一倍。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "terrible bore": {
+      "example": {
+        "sentence": "The guest of honor turned out to be a terrible bore who recounted his travels at length.",
+        "translation": "这位主宾原来是个极其乏味的人，长篇大论地讲述自己的旅行。"
+      },
+      "notes": ["篇章中的口语化描写用语，用于刻画人物，不属于需要辨析的词汇。"],
+      "clear_flags": ["api_mismatch", "missing_example"]
+    },
+    "thwarted": {
+      "lemma": "thwart",
+      "synonyms": ["foiled", "frustrated", "obstructed", "balked", "defeated"],
+      "example": {
+        "sentence": "Their plan was thwarted less by opposition than by indifference.",
+        "translation": "他们的计划与其说是被反对所阻，不如说是被冷漠所阻。"
+      },
+      "clear_flags": ["missing_example", "missing_definition"]
+    },
+    "torpor": {
+      "example": {
+        "sentence": "After the harvest, the town sank into its customary winter torpor.",
+        "translation": "收割之后，小镇又陷入惯常的冬日沉寂。"
+      },
+      "confusables": [
+        {"term": "stupor", "distinction": "torpor 指迟钝、懒散、缺乏活力；stupor 指近乎无意识的麻木状态，程度更重。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "transcendent": {
+      "synonyms": ["surpassing", "supreme", "sublime", "transcendental"],
+      "example": {
+        "sentence": "The late quartets were praised as transcendent, as if written for no audience at all.",
+        "translation": "晚期四重奏被赞为超凡脱俗，仿佛根本不为任何听众而作。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "transgress": {
+      "example": {
+        "sentence": "The author transgresses the conventions of the genre without abandoning them entirely.",
+        "translation": "作者逾越了该体裁的成规，却未将其完全抛弃。"
+      },
+      "confusables": [
+        {"term": "transcend", "distinction": "transgress 指违犯、越界（含违规意味）；transcend 指超越、胜过（含褒义）。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "trenchant": {
+      "chinese": ["（言辞）犀利的，深刻的，一针见血的"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Keen, incisive, and forcefully expressed; penetrating."}
+      ],
+      "confusables": [
+        {"term": "trite", "distinction": "trenchant 指犀利深刻；trite 指陈腐老套。二者在批评语境中几乎相反。"}
+      ],
+      "clear_flags": ["missing_definition"]
+    },
+    "truism": {
+      "example": {
+        "sentence": "The essay opens with a truism and never quite moves beyond it.",
+        "translation": "这篇文章以一句老生常谈开篇，此后也始终未能超越它。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "tweak": {
+      "synonyms": ["adjust", "fine-tune", "modify", "tinker with"]
+    },
+    "ubiquitous": {
+      "derivatives": [{"term": "ubiquity", "relation": "noun form"}],
+      "notes": ["GRE 常考：ubiquitous 与 omnipresent 同义，与 rare、scarce 反义。"]
+    },
+    "umbrage": {
+      "notes": ["GRE 固定搭配：take umbrage at（对…感到不悦、生气），其他用法罕见。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "unassuming": {
+      "synonyms": ["modest", "unpretentious", "unassertive", "retiring"],
+      "example": {
+        "sentence": "His unassuming manner gave no hint of his influence.",
+        "translation": "他谦和的举止丝毫看不出他的影响力。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "unblemished": {
+      "synonyms": ["immaculate", "spotless", "flawless", "untainted"],
+      "example": {
+        "sentence": "The record was not unblemished, but it was better than his rivals'.",
+        "translation": "这份履历并非毫无瑕疵，但比他的对手们要好。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "uncanny": {
+      "synonyms": ["eerie", "weird", "preternatural", "extraordinary"],
+      "notes": ["GRE 常考搭配：an uncanny resemblance/ability（离奇相似的、近乎超常的）。"]
+    },
+    "underwrite": {
+      "synonyms": ["fund", "finance", "sponsor", "insure", "guarantee"],
+      "example": {
+        "sentence": "The foundation agreed to underwrite the expedition's costs.",
+        "translation": "该基金会同意承担这次考察的费用。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "undiscriminating": {
+      "synonyms": ["indiscriminate", "uncritical", "unselective"],
+      "example": {
+        "sentence": "His undiscriminating enthusiasm for every new theory made him easy to impress.",
+        "translation": "他对每一种新理论都不加区别地热衷，因此很容易被打动。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "unexceptional": {
+      "example": {
+        "sentence": "The results were unexceptional, which in that laboratory was itself notable.",
+        "translation": "结果平平无奇，而在这间实验室里，这本身就值得注意。"
+      },
+      "confusables": [
+        {"term": "unexceptionable", "distinction": "unexceptional 指普通的、不出色的；unexceptionable 指无可指摘的、挑不出毛病的。GRE 高频陷阱词。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "unfruitfulness": {
+      "synonyms": ["barrenness", "fruitlessness", "sterility"],
+      "example": {
+        "sentence": "Decades of unfruitfulness did not persuade him to abandon the hypothesis.",
+        "translation": "数十年的毫无成果并未使他说服自己放弃这一假设。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "unimpeachable": {
+      "synonyms": ["irreproachable", "blameless", "unquestionable", "impeccable"],
+      "notes": ["GRE 常考：unimpeachable 多修饰 integrity、character、evidence 等，指“无可非议的”。"]
+    },
+    "unostentatious": {
+      "synonyms": ["unpretentious", "modest", "understated", "subdued"],
+      "example": {
+        "sentence": "Their wealth was real but unostentatious.",
+        "translation": "他们的富有是实实在在的，却毫不张扬。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "unpretentious": {
+      "synonyms": ["modest", "unassuming", "plain", "unostentatious"],
+      "example": {
+        "sentence": "The restaurant is unpretentious and all the better for it.",
+        "translation": "这家餐馆不事铺张，也因此更胜一筹。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "unruliness": {
+      "synonyms": ["disorderliness", "waywardness", "rebelliousness", "insubordination"],
+      "example": {
+        "sentence": "The teacher's authority was undermined by the unruliness of a single class.",
+        "translation": "仅一个班级的难以管束就削弱了这位教师的威信。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "unscrupulous": {
+      "synonyms": ["unprincipled", "dishonorable", "immoral", "ruthless"],
+      "notes": ["GRE 常考：unscrupulous 指为达目的不择手段，与 scrupulous（一丝不苟、有道德顾虑的）反义。"]
+    },
+    "unsentimental": {
+      "example": {
+        "sentence": "Her unsentimental account of the war has been criticized as cold.",
+        "translation": "她对这场战争不动感情的叙述被批评为冷漠。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "untethered": {
+      "synonyms": ["unrestrained", "unfettered", "unmoored", "detached"],
+      "example": {
+        "sentence": "Untethered from any evidence, the theory became unfalsifiable.",
+        "translation": "这一理论脱离了任何证据，变得无法证伪。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "unwarranted": {
+      "synonyms": ["unjustified", "unfounded", "groundless", "baseless"],
+      "example": {
+        "sentence": "The conclusion draws an unwarranted inference from a single case.",
+        "translation": "这一结论从单一案例得出了没有根据的推论。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "unwonted": {
+      "synonyms": ["unusual", "uncommon", "atypical", "unaccustomed"],
+      "confusables": [
+        {"term": "unwanted", "distinction": "unwonted 指不寻常的、少见的；unwanted 指不需要的、多余的。拼写仅差一个字母。"}
+      ]
+    },
+    "usage": {
+      "synonyms": ["practice", "convention", "custom", "employment"],
+      "notes": ["GRE 语言学语境指“（词语的）用法惯例”，也可指“使用量、消耗量”。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "utilitarian": {
+      "synonyms": ["practical", "functional", "pragmatic", "useful"],
+      "example": {
+        "sentence": "The building is utilitarian rather than beautiful, but it works.",
+        "translation": "这座建筑讲求实用而非美观，但确实好用。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "vacillation": {
+      "example": {
+        "sentence": "His vacillation between the two options cost him the support of both camps.",
+        "translation": "他在两种选择之间摇摆不定，结果失去了两个阵营的支持。"
+      },
+      "notes": ["GRE 常考：vacillation 与 wavering、indecision 同义，与 resolve、decisiveness 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "vapid": {
+      "example": {
+        "sentence": "The interview was vapid, yielding nothing but platitudes.",
+        "translation": "这次访谈空洞乏味，除了套话什么也没有。"
+      },
+      "confusables": [
+        {"term": "rapid", "distinction": "vapid 指乏味无生气的；rapid 指迅速的。拼写仅差一个字母。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "vehemence": {
+      "synonyms": ["intensity", "fervor", "passion", "force", "ardor"],
+      "notes": ["GRE 常考：vehemence 指情感或表达之猛烈，常暗含缺乏克制之意。"]
+    },
+    "verbose": {
+      "example": {
+        "sentence": "The report is verbose precisely where precision matters most.",
+        "translation": "这份报告恰在最需要精确的地方冗长啰嗦。"
+      },
+      "notes": ["GRE 常考对立：verbose、prolix（冗长）对 laconic、succinct（简洁）。"],
+      "clear_flags": ["missing_example"]
+    },
+    "versatile": {
+      "synonyms": ["adaptable", "flexible", "resourceful", "multifaceted"],
+      "notes": ["GRE 常考义为“多才多艺的、用途广泛的”，而非字面的“可变的”。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "viable": {
+      "chinese": ["可行的，可实施的；能存活的"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Capable of working successfully; feasible."},
+        {"pos": "adjective", "definition": "Able to survive or develop independently."}
+      ],
+      "synonyms": ["feasible", "workable", "practicable", "sustainable"],
+      "notes": ["GRE 阅读与填空中的常考义是“可行的”，而非生物学的“能存活的”。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "vigilance": {
+      "synonyms": ["watchfulness", "alertness", "attentiveness", "wariness"],
+      "example": {
+        "sentence": "Constant vigilance is the price of an accurate accounting.",
+        "translation": "准确的账目以时刻警惕为代价。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "vilify": {
+      "example": {
+        "sentence": "The campaign vilified him for a vote he had actually opposed.",
+        "translation": "这场竞选活动因一次他其实投了反对票的表决而诋毁他。"
+      },
+      "confusables": [
+        {"term": "venerate", "distinction": "vilify 指诋毁、诽谤；venerate 指尊崇、敬奉。二者含义相反。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "vindicate": {
+      "confusables": [
+        {"term": "vindictive", "distinction": "vindicate 是动词“证明…正确、洗清冤屈”；vindictive 是形容词“怀恨在心的、报复心重的”。"}
+      ],
+      "notes": ["GRE 常考：vindicate 与 exonerate、absolve 同向，指通过证据证明无罪或正确。"]
+    },
+    "visionary": {
+      "synonyms": ["farsighted", "idealistic", "prophetic", "utopian"],
+      "notes": ["GRE 常考双面义：可指有远见卓识的（褒），也可指耽于幻想的（贬）。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "vituperation": {
+      "example": {
+        "sentence": "The review descends into vituperation in its final paragraph.",
+        "translation": "这篇书评在最后一段沦为辱骂。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "warble": {
+      "synonyms": ["trill", "chirp", "carol", "sing"],
+      "example": {
+        "sentence": "A single bird warbled somewhere in the dark orchard.",
+        "translation": "黑暗的果园里，某处有一只鸟在婉转鸣唱。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "waver": {
+      "synonyms": ["vacillate", "falter", "hesitate", "fluctuate"],
+      "notes": ["GRE 常考：waver 与 vacillate、falter 同义，与 persevere、persist 反义。"]
+    },
+    "whim": {
+      "chinese": ["一时的兴致，突发的念头"],
+      "example": {
+        "sentence": "The policy was reversed on a minister's whim rather than after review.",
+        "translation": "这项政策是被一位大臣的心血来潮推翻的，而不是经过审议。"
+      },
+      "notes": ["GRE 常考搭配：on a whim（兴之所至、一时兴起）、at the whim of（任凭…摆布）。"],
+      "derivatives": [{"term": "whimsical", "relation": "adjective derived from whim"}],
+      "clear_flags": ["missing_example", "possible_wrong_synonym"]
+    },
+    "whimsical": {
+      "chinese": ["异想天开的，怪诞多变的，反复无常的"],
+      "example": {
+        "sentence": "His whimsical designs were dismissed by engineers as unbuildable.",
+        "translation": "他异想天开的设计被工程师们认为无法建造。"
+      },
+      "derivatives": [{"term": "whim", "relation": "noun: a sudden, capricious idea"}],
+      "notes": ["与名词 whim 属同一词族，但并非同义词：whim 指突发的念头，whimsical 形容人或事物异想天开。"],
+      "clear_flags": ["missing_example", "possible_wrong_synonym"]
+    },
+    "zenith": {
+      "confusables": [
+        {"term": "nadir", "distinction": "zenith 指顶点、最高点；nadir 指最低点、最糟的时刻。二者常作为反义对出现。"}
+      ],
+      "notes": ["GRE 常考比喻义“（事业、声望的）鼎盛期”。"]
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "words": {
+    "abstruse": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Difficult to comprehend; obscure and recondite."}
+      ]
+    },
+    "acquiescence": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "Silent or passive assent; acceptance without protest."}
+      ]
+    },
+    "captious": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Given to finding fault unreasonably; apt to raise petty objections."}
+      ]
+    },
+    "contract": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "A legally binding agreement between two or more parties."},
+        {"pos": "verb", "definition": "To become smaller or narrower; to shrink."}
+      ],
+      "notes": ["GRE 一词两义并重：名词“合同”，动词“收缩”。动词义常与 expand、dilate 反义。"]
+    },
+    "counterpart": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "A person or thing that corresponds to or closely resembles another."}
+      ]
+    },
+    "cronyism": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "Favoritism shown to friends and associates, especially in appointments, without regard to merit."}
+      ]
+    },
+    "defraud": {
+      "english_definitions": [
+        {"pos": "verb", "definition": "To obtain money or property from (a person) by deception; to swindle."}
+      ]
+    },
+    "demise": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "The end or failure of an institution, practice, or enterprise."},
+        {"pos": "noun", "definition": "A person's death."}
+      ]
+    },
+    "didactic": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Intended to instruct or moralize, especially in a way that is heavy-handed."}
+      ]
+    },
+    "diffident": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Lacking self-confidence; hesitant and reserved."}
+      ]
+    },
+    "discomfiture": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "A state of embarrassment, unease, or frustration."}
+      ]
+    },
+    "elucidate": {
+      "english_definitions": [
+        {"pos": "verb", "definition": "To make (something) clear and understandable; to explain."}
+      ]
+    },
+    "expiation": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "The act of making atonement for guilt or wrongdoing."}
+      ]
+    },
+    "flagrant": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Conspicuously and offensively wrong; glaringly bad."}
+      ]
+    },
+    "grimy": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Covered with grime; dirty or sooty."}
+      ]
+    },
+    "hackneyed": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Made commonplace or stale by overuse; banal."}
+      ]
+    },
+    "harbinger": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "A sign or person that signals the approach of what is to come."}
+      ]
+    },
+    "hindsight": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "Understanding of an event only after it has happened."}
+      ]
+    },
+    "incredulity": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "Unwillingness or inability to believe; skepticism."}
+      ]
+    },
+    "incursion": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "A sudden, brief invasion or hostile entry into a place or domain."}
+      ]
+    },
+    "inductive": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Relating to reasoning that derives general principles from particular observations."}
+      ]
+    },
+    "intricate": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Having many interrelated parts; complicated and hard to follow."}
+      ]
+    },
+    "lucrative": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Producing a great deal of profit; highly remunerative."}
+      ]
+    },
+    "meddle": {
+      "english_definitions": [
+        {"pos": "verb", "definition": "To interfere in something that is not one's concern; to tamper."}
+      ]
+    },
+    "officious": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Volunteering one's services or advice where they are not wanted; meddlesome."}
+      ]
+    },
+    "perforce": {
+      "english_definitions": [
+        {"pos": "adverb", "definition": "By necessity; unavoidably."}
+      ]
+    },
+    "predation": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "The act of preying on or plundering others."}
+      ]
+    },
+    "purview": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "The scope or range of a document, activity, or authority."}
+      ]
+    },
+    "resentment": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "Bitter indignation at having been treated unfairly."}
+      ]
+    },
+    "retard": {
+      "english_definitions": [
+        {"pos": "verb", "definition": "To delay or slow the progress of; to hinder."}
+      ],
+      "pos": ["verb"]
+    },
+    "rote": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "Mechanical repetition or memorization without understanding."}
+      ]
+    },
+    "somnolent": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Drowsy or inclined to sleep; inducing sleepiness."}
+      ]
+    },
+    "stratification": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "The formation of layers or strata; division into hierarchical levels."}
+      ]
+    },
+    "strew": {
+      "english_definitions": [
+        {"pos": "verb", "definition": "To scatter or spread (things) loosely over a surface."}
+      ]
+    },
+    "trump": {
+      "english_definitions": [
+        {"pos": "verb", "definition": "To surpass or outdo; to get the better of."},
+        {"pos": "noun", "definition": "A decisive overriding factor or advantage."}
+      ],
+      "notes": ["GRE 常考动词义“胜过、压过”，如 trump a rival's objection。"]
+    },
+    "unwonted": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Not customary or usual; unaccustomed."}
+      ]
+    },
+    "upshot": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "The final outcome or result of a series of events."}
+      ]
+    },
+    "verbose": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Using more words than are needed; long-winded."}
+      ]
+    },
+    "whim": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "A sudden, arbitrary impulse or desire."}
+      ]
+    }
+  }
+}

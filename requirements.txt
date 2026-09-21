@@ -1,0 +1,4 @@
+-r diction_lookup/requirements.txt
+jsonschema>=4.23,<5
+openai>=2.41,<3
+pydantic>=2.10,<3

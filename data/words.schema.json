@@ -1,0 +1,124 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.example/gre-wordbank.schema.json",
+  "title": "GRE vocabulary wordbank",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "words"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "words": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/word" }
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": ["name", "url", "license"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "url": { "type": ["string", "null"] },
+        "license": { "type": ["string", "null"] },
+        "retrieved_at": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "example": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sentence", "translation", "source_type", "author", "url", "license"],
+      "properties": {
+        "sentence": { "type": "string", "minLength": 1 },
+        "translation": { "type": ["string", "null"] },
+        "source_type": { "type": "string", "minLength": 1 },
+        "author": { "type": ["string", "null"] },
+        "url": { "type": ["string", "null"] },
+        "license": { "type": ["string", "null"] }
+      }
+    },
+    "word": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id", "term", "lemma", "pos", "chinese", "english_definitions",
+        "synonyms", "examples", "derivatives", "confusables", "personal_notes",
+        "sources", "review_flags"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1, "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "term": { "type": "string", "minLength": 1 },
+        "lemma": { "type": "string", "minLength": 1 },
+        "pos": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "noun", "verb", "adjective", "adverb", "preposition", "conjunction",
+              "pronoun", "determiner", "interjection", "phrase", "other"
+            ]
+          }
+        },
+        "chinese": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "english_definitions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["pos", "definition"],
+            "properties": {
+              "pos": { "type": "string", "minLength": 1 },
+              "definition": { "type": "string", "minLength": 1 }
+            }
+          }
+        },
+        "synonyms": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "examples": { "type": "array", "items": { "$ref": "#/$defs/example" } },
+        "derivatives": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["term", "relation"],
+            "properties": {
+              "term": { "type": "string", "minLength": 1 },
+              "relation": { "type": "string", "minLength": 1 }
+            }
+          }
+        },
+        "confusables": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["term", "distinction"],
+            "properties": {
+              "term": { "type": "string", "minLength": 1 },
+              "distinction": { "type": "string", "minLength": 1 }
+            }
+          }
+        },
+        "personal_notes": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "sources": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["dictionary", "synonyms", "translation", "examples"],
+          "properties": {
+            "dictionary": { "type": "array", "items": { "$ref": "#/$defs/source" } },
+            "synonyms": { "type": "array", "items": { "$ref": "#/$defs/source" } },
+            "translation": { "type": "array", "items": { "$ref": "#/$defs/source" } },
+            "examples": { "type": "array", "items": { "$ref": "#/$defs/source" } }
+          }
+        },
+        "review_flags": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

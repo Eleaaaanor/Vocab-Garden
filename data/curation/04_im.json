@@ -1,0 +1,515 @@
+{
+  "words": {
+    "idiosyncratic": {
+      "synonyms": ["peculiar", "distinctive", "quirky", "individualistic", "eccentric"],
+      "example": {
+        "sentence": "His idiosyncratic notation made the notebooks nearly unusable to anyone else.",
+        "translation": "他独特的记号法使这些笔记对其他人几乎无法使用。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "illusory": {
+      "synonyms": ["deceptive", "unreal", "imaginary", "misleading", "illusive"]
+    },
+    "illustrious": {
+      "example": {
+        "sentence": "The journal's most illustrious contributor later renounced his own early work.",
+        "translation": "该刊最著名的撰稿人后来否定了自己早期的作品。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "impair": {
+      "synonyms": ["damage", "weaken", "diminish", "undermine", "harm"],
+      "example": {
+        "sentence": "Chronic underfunding impaired the laboratory's ability to replicate its own results.",
+        "translation": "长期资金不足削弱了该实验室复现自身结果的能力。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "impassive": {
+      "example": {
+        "sentence": "She listened to the verdict with an impassive face.",
+        "translation": "她面无表情地听完了判决。"
+      },
+      "notes": ["与 apathetic（缺乏关心）不同：impassive 只指不流露情感，并不表示漠不关心。"],
+      "clear_flags": ["missing_example"]
+    },
+    "impeccable": {
+      "chinese": ["无可指摘的，完美无瑕的"]
+    },
+    "impervious": {
+      "synonyms": ["impermeable", "unaffected", "immune", "impenetrable", "insusceptible"],
+      "notes": ["GRE 常考搭配：impervious to（不受…影响的），宾语多为批评、压力或证据。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "imprecise": {
+      "synonyms": ["vague", "inexact", "ambiguous", "loose", "indefinite"],
+      "example": {
+        "sentence": "The instructions were too imprecise to be followed consistently.",
+        "translation": "这些指示过于笼统，无法被一致地执行。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "impunity": {
+      "synonyms": ["exemption", "immunity", "freedom from punishment"],
+      "example": {
+        "sentence": "For a decade the syndicate operated with apparent impunity.",
+        "translation": "十年来，这个犯罪集团似乎可以不受惩罚地运作。"
+      },
+      "confusables": [
+        {"term": "immunity", "distinction": "impunity 指免受惩罚，几乎只用于固定搭配 with impunity；immunity 指（法律上或生理上的）免疫力、豁免权。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "inaccurate": {
+      "chinese": ["不准确的，错误的"],
+      "synonyms": ["incorrect", "erroneous", "inexact", "mistaken", "off the mark"],
+      "example": {
+        "sentence": "The widely cited figure turned out to be inaccurate by an order of magnitude.",
+        "translation": "那个被广泛引用的数字后来证明错了一个数量级。"
+      },
+      "clear_flags": ["possible_wrong_synonym", "missing_example"]
+    },
+    "incidental": {
+      "chinese": ["附带的，次要的，偶然发生的"],
+      "notes": ["GRE 常考搭配：incidental to（伴随…而发生的），以及 incidental expenses（杂费）。"]
+    },
+    "incised": {
+      "synonyms": ["cut", "carved", "engraved", "etched"],
+      "example": {
+        "sentence": "The names incised on the monument have weathered better than the plaque beneath.",
+        "translation": "刻在纪念碑上的名字比下方的铭牌保存得更好。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "incisive": {
+      "chinese": ["犀利的，深刻的，一针见血的"]
+    },
+    "incongruous": {
+      "confusables": [
+        {"term": "congruous", "distinction": "incongruous 指不相称、不协调的；congruous 指协调一致的。"}
+      ],
+      "notes": ["GRE 常用义：inconsistent with the surroundings or expectations，如 an incongruous detail。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "incredulity": {
+      "synonyms": ["disbelief", "skepticism", "doubt", "unbelief"],
+      "example": {
+        "sentence": "The announcement was received with incredulity even by loyal supporters.",
+        "translation": "就连忠实支持者也对这一声明表示难以置信。"
+      },
+      "confusables": [
+        {"term": "incredibility", "distinction": "incredulity 指听者的“不相信”；incredibility 指事情本身的“难以置信性”。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "incredulous": {
+      "synonyms": ["skeptical", "disbelieving", "doubtful", "unconvinced"],
+      "confusables": [
+        {"term": "incredible", "distinction": "incredulous 形容人“不轻信的”；incredible 形容事物“难以置信的”。"}
+      ]
+    },
+    "incremental": {
+      "synonyms": ["gradual", "step-by-step", "piecemeal", "progressive"],
+      "example": {
+        "sentence": "Progress came in incremental gains that no single study could demonstrate.",
+        "translation": "进展体现为逐次的微小改进，任何单项研究都无法证明。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "incursion": {
+      "synonyms": ["raid", "invasion", "foray", "encroachment", "inroad"],
+      "example": {
+        "sentence": "The treaty did little to deter further incursions across the border.",
+        "translation": "该条约几乎未能阻止对方进一步越界侵入。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "indebted to": {
+      "synonyms": ["obliged to", "beholden to", "owing to", "in debt to"],
+      "example": {
+        "sentence": "The field is indebted to her for a method that took thirty years to be accepted.",
+        "translation": "该领域受惠于她提出的一种方法，而这一方法用了三十年才被接受。"
+      },
+      "clear_flags": ["api_mismatch", "missing_example"]
+    },
+    "indefatigably": {
+      "synonyms": ["tirelessly", "relentlessly", "unflaggingly", "persistently"],
+      "example": {
+        "sentence": "She campaigned indefatigably for a cause that most colleagues had written off.",
+        "translation": "她为一项多数同事已放弃的事业不知疲倦地奔走。"
+      },
+      "derivatives": [{"term": "indefatigable", "relation": "adjective form"}],
+      "clear_flags": ["missing_example"]
+    },
+    "inductive": {
+      "synonyms": ["inferential", "empirical"],
+      "notes": ["GRE 常考对立：inductive reasoning（归纳推理，由个别到一般）与 deductive reasoning（演绎推理，由一般到个别）。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "indulgence": {
+      "synonyms": ["gratification", "leniency", "tolerance", "permissiveness", "pampering"],
+      "example": {
+        "sentence": "The essay treats the period as one of collective indulgence rather than hardship.",
+        "translation": "这篇文章把那一时期描述为集体放纵而非艰苦的时期。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "inert": {
+      "example": {
+        "sentence": "The committee remained inert while the crisis gathered force.",
+        "translation": "危机日益加剧，委员会却始终无所作为。"
+      },
+      "notes": ["GRE 常考引申义“迟钝的、无行动的”，与 active、dynamic 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "inertial": {
+      "derivatives": [{"term": "inertia", "relation": "noun form"}],
+      "notes": ["物理语境指“惯性的”；GRE 阅读中也常借 inertial 表达“因循惰性、抗拒改变”的引申义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "inexhaustible": {
+      "synonyms": ["limitless", "unlimited", "tireless", "unfailing", "boundless"],
+      "example": {
+        "sentence": "Her patience with the students seemed inexhaustible.",
+        "translation": "她对学生的耐心似乎无穷无尽。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "inexpedient": {
+      "synonyms": ["inadvisable", "unwise", "imprudent", "ill-advised"],
+      "example": {
+        "sentence": "The board concluded that further litigation would be inexpedient.",
+        "translation": "董事会认为继续诉讼并不明智。"
+      },
+      "confusables": [
+        {"term": "expedient", "distinction": "二者为反义：expedient 指权宜可行的；inexpedient 指不适宜的、不可取的。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "inexplicable": {
+      "example": {
+        "sentence": "The manuscript's disappearance remained inexplicable for a century.",
+        "translation": "这份手稿的失踪一个世纪以来都无法解释。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "inextricable": {
+      "synonyms": ["inseparable", "indivisible", "entangled", "inescapable"],
+      "example": {
+        "sentence": "In the novel, personal grief and political failure are inextricable.",
+        "translation": "在这部小说中，个人的悲痛与政治的失败密不可分。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "inflammatory": {
+      "synonyms": ["provocative", "incendiary", "seditious", "rabble-rousing"],
+      "notes": ["GRE 常用义为“煽动性的、激化矛盾的”，而非医学上的“发炎的”。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "infringement": {
+      "synonyms": ["violation", "breach", "transgression", "contravention"],
+      "example": {
+        "sentence": "The court found no infringement of the patent.",
+        "translation": "法院认定并未侵犯该专利。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "ingenuity": {
+      "synonyms": ["inventiveness", "creativity", "resourcefulness", "cleverness"],
+      "confusables": [
+        {"term": "ingenuousness", "distinction": "ingenuity 指善于发明创造的巧思；ingenuousness 指天真坦率、不设防。"}
+      ],
+      "notes": ["GRE 高频混淆：ingenious（灵巧的）/ ingenuous（天真的）/ disingenuous（不坦诚的）。"]
+    },
+    "ingenuousness": {
+      "synonyms": ["innocence", "candor", "naivety", "artlessness"],
+      "confusables": [
+        {"term": "ingenuity", "distinction": "ingenuousness 是名词“天真、坦率”；ingenuity 是名词“巧思、独创性”。"},
+        {"term": "disingenuous", "distinction": "disingenuous 指不坦诚、故作单纯的；与 ingenuous 含义相反。"}
+      ]
+    },
+    "inimical": {
+      "confusables": [
+        {"term": "inimitable", "distinction": "inimical 指有敌意的、有害的；inimitable 指无法模仿的、独一无二的。"}
+      ],
+      "notes": ["GRE 常考搭配：inimical to（对…有害/不利），如 practices inimical to free inquiry。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "insouciance": {
+      "synonyms": ["nonchalance", "indifference", "unconcern", "carefreeness"],
+      "notes": ["GRE 常考：insouciance 指漫不经心的洒脱，与 anxiety、solicitude 反义。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "instantaneous": {
+      "example": {
+        "sentence": "The response was not instantaneous; it took several seconds to register.",
+        "translation": "反应并非瞬时发生，而是花了几秒钟才显现。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "intercept": {
+      "synonyms": ["seize", "stop", "cut off", "interrupt", "waylay"]
+    },
+    "interdependent": {
+      "synonyms": ["mutually dependent", "symbiotic", "reciprocal"],
+      "example": {
+        "sentence": "The two economies are too interdependent for either to act unilaterally.",
+        "translation": "两个经济体相互依赖太深，任何一方都无法单独行动。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "interminable": {
+      "synonyms": ["endless", "unending", "ceaseless", "never-ending", "boundless"],
+      "example": {
+        "sentence": "The committee's interminable deliberations outlasted two chairmen.",
+        "translation": "委员会的审议没完没了，历经两任主席仍未结束。"
+      },
+      "notes": ["含轻微贬义，暗示冗长得令人厌烦，与 endless 相比更强调难以忍受。"],
+      "clear_flags": ["missing_example"]
+    },
+    "interminably": {
+      "synonyms": ["endlessly", "ceaselessly", "without end"],
+      "example": {
+        "sentence": "The case dragged on interminably, outliving both parties' patience.",
+        "translation": "这场官司拖得漫无止境，双方的耐心都被耗尽了。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "introspective": {
+      "synonyms": ["self-examining", "contemplative", "inward-looking", "reflective"],
+      "example": {
+        "sentence": "The later poems are introspective to the point of self-absorption.",
+        "translation": "后期诗作内省到了自我沉溺的程度。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "irascibility": {
+      "synonyms": ["irritability", "testiness", "peevishness", "petulance"],
+      "example": {
+        "sentence": "His irascibility grew with each round of revisions.",
+        "translation": "随着一轮轮修改，他的易怒程度也在加剧。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "irenic": {
+      "example": {
+        "sentence": "The essay's irenic tone concealed a pointed critique.",
+        "translation": "这篇文章平和息争的语气掩盖了其中尖锐的批评。"
+      },
+      "confusables": [
+        {"term": "ironic", "distinction": "irenic 指促进和平的、息争的；ironic 指讽刺的。拼写相近，词义无关。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "ironic": {
+      "synonyms": ["wry", "sardonic", "mocking", "satirical"],
+      "notes": ["GRE 注意区分：ironic 指与预期相反的或反讽的；sarcastic 指带有伤害意图的讥讽。"]
+    },
+    "jaded": {
+      "example": {
+        "sentence": "Jaded by a decade of scandals, readers ignored the story entirely.",
+        "translation": "十年丑闻已使读者厌倦，他们完全无视了这则报道。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "jejune": {
+      "example": {
+        "sentence": "The reviewer dismissed the analysis as jejune.",
+        "translation": "评论者认为这份分析浅薄幼稚而不予考虑。"
+      },
+      "notes": ["GRE 常用义为“（思想、论述）贫乏幼稚的”，也可指内容空洞无物。"],
+      "clear_flags": ["missing_example"]
+    },
+    "jettison": {
+      "pos": ["verb", "noun"],
+      "chinese": ["抛弃，丢弃（不需要的东西）；（名词）投弃的货物"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To abandon or discard (something no longer wanted or needed)."},
+        {"pos": "noun", "definition": "Cargo thrown overboard to lighten a ship or aircraft."}
+      ],
+      "synonyms": ["discard", "abandon", "dump", "shed", "scrap"],
+      "notes": ["GRE 常考抽象义“抛弃（计划、原则、候选人）”，不限于航空航海语境。"],
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "jovial": {
+      "example": {
+        "sentence": "His jovial manner made the interrogation seem almost friendly.",
+        "translation": "他快活的举止使这场审问几乎显得友好。"
+      },
+      "confusables": [
+        {"term": "jocular", "distinction": "jovial 指性情快活开朗；jocular 指言谈诙谐逗趣。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "judicious": {
+      "synonyms": ["prudent", "sensible", "sagacious", "discerning", "wise"],
+      "example": {
+        "sentence": "A judicious use of quotation can carry an argument further than paraphrase.",
+        "translation": "恰当地使用引文比转述更能推进论证。"
+      },
+      "confusables": [
+        {"term": "judicial", "distinction": "judicious 指明智有判断力的；judicial 指司法的、法庭的。"},
+        {"term": "judgmental", "distinction": "judgmental 指爱评判他人、动辄下断语的（贬义）；judicious 是褒义。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "kilt": {
+      "pos": ["noun"],
+      "chinese": ["苏格兰短褶裙"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "A knee-length pleated skirt, traditionally worn by men in the Scottish Highlands."}
+      ],
+      "example": {
+        "sentence": "The regiment still parades in kilt and full dress on state occasions.",
+        "translation": "该团在国事场合仍穿着短褶裙与全套礼服列队行进。"
+      },
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "labyrinthine": {
+      "example": {
+        "sentence": "The regulations are labyrinthine enough to defeat most applicants.",
+        "translation": "这些规章繁复曲折，足以让大多数申请人望而却步。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "laconic": {
+      "confusables": [
+        {"term": "taciturn", "distinction": "laconic 指说话简短精炼；taciturn 指性格沉默寡言、不爱开口。"}
+      ],
+      "notes": ["GRE 常考对：laconic（简洁的）与 prolix、verbose（冗长的）反义。"]
+    },
+    "lethal": {
+      "synonyms": ["deadly", "fatal", "mortal", "pernicious"],
+      "example": {
+        "sentence": "The combination of two otherwise benign drugs proved lethal.",
+        "translation": "两种本身无害的药物合用却造成了致命后果。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "lexical": {
+      "derivatives": [{"term": "lexicon", "relation": "noun: the vocabulary of a language"}],
+      "notes": ["GRE 阅读语言学语境常见：lexical 指“词汇层面的”，与 syntactic（句法的）相对。"],
+      "clear_flags": ["missing_example"]
+    },
+    "liability": {
+      "synonyms": ["obligation", "debt", "responsibility", "drawback", "handicap"],
+      "notes": ["GRE 常考双义：法律/财务上的“责任、债务”，以及“不利因素、累赘”。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "liken": {
+      "synonyms": ["compare", "equate", "analogize", "parallel"]
+    },
+    "lucid": {
+      "example": {
+        "sentence": "The best introductions are lucid without being simplistic.",
+        "translation": "最好的导论清晰明白，却又不流于简单化。"
+      },
+      "notes": ["GRE 常考：lucid 与 pellucid 同义，均指清晰易懂；与 opaque、abstruse 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "lucrative": {
+      "synonyms": ["profitable", "remunerative", "gainful", "moneymaking"],
+      "example": {
+        "sentence": "The contract proved more lucrative than any of his earlier ventures.",
+        "translation": "这份合同比他此前任何一项业务都更为赚钱。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "lucubration": {
+      "synonyms": ["laborious study", "painstaking scholarship"],
+      "example": {
+        "sentence": "The volume reads like the lucubration of a solitary scholar.",
+        "translation": "这部书读来像是一位孤独学者刻苦钻研的产物。"
+      },
+      "notes": ["含轻微戏谑意味：指（常为深夜进行的）苦读苦写，也可指这类学究气的作品。"],
+      "clear_flags": ["missing_example"]
+    },
+    "lyricism": {
+      "chinese": ["抒情性，抒情的表达"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "An intense, expressive quality of writing or music; the character of being lyrical."}
+      ],
+      "synonyms": ["expressiveness", "lyrical quality", "melodiousness"],
+      "clear_flags": ["missing_definition"]
+    },
+    "maladroit": {
+      "synonyms": ["clumsy", "inept", "awkward", "bungling", "unskillful"],
+      "example": {
+        "sentence": "His maladroit handling of the question turned a minor issue into a scandal.",
+        "translation": "他对这个问题的笨拙处理，把一件小事变成了丑闻。"
+      },
+      "confusables": [
+        {"term": "adroit", "distinction": "maladroit 意为笨拙不灵巧的；adroit 意为灵巧娴熟的。mal- 前缀表否定。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "manifest": {
+      "pos": ["adjective", "verb"],
+      "chinese": ["明显的，显而易见的；（动词）显示，表明；（名词）货物清单"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Clear and obvious to the eye or the mind; plainly apparent."},
+        {"pos": "verb", "definition": "To display or show (a quality or feeling) by one's acts or appearance."}
+      ],
+      "notes": ["GRE 常考形容词义“显而易见的”，常与 latent、implicit 反义呼应。"],
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "mendacity": {
+      "synonyms": ["lying", "dishonesty", "untruthfulness", "duplicity"],
+      "confusables": [
+        {"term": "mendicancy", "distinction": "mendacity 指说谎、虚假；mendicancy 指行乞。拼写相近，词义无关。"}
+      ],
+      "notes": ["GRE 常考：mendacity 与 veracity（诚实）构成经典反义对。"]
+    },
+    "mien": {
+      "synonyms": ["demeanor", "bearing", "air", "manner", "countenance"],
+      "notes": ["多指通过神态举止流露出的气质，常与 grave、haughty 等搭配。"]
+    },
+    "mimicry": {
+      "synonyms": ["imitation", "impersonation", "simulation", "aping"],
+      "notes": ["GRE 阅读生物学语境指“拟态”，即一种生物模仿另一种生物的形态或行为。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "mirthful": {
+      "synonyms": ["merry", "jovial", "gleeful", "joyful"],
+      "example": {
+        "sentence": "The mirthful tone of the letter puzzled its recipients.",
+        "translation": "这封信欢快的语气让收信人感到困惑。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "mix-up": {
+      "synonyms": ["confusion", "muddle", "mistake", "misunderstanding"],
+      "example": {
+        "sentence": "A clerical mix-up left two students with the same result sheet.",
+        "translation": "一次文书疏漏使两名学生拿到了同一份成绩单。"
+      }
+    },
+    "mixed": {
+      "pos": ["adjective", "verb"],
+      "chinese": ["混杂的，矛盾的（褒贬不一）；（动词）mix 的过去式与过去分词"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Composed of different kinds or elements; showing both favorable and unfavorable qualities."}
+      ],
+      "confusables": [
+        {"term": "mixed feelings", "distinction": "固定搭配，指同时怀有相互矛盾的情感（既欣慰又遗憾）。"}
+      ],
+      "clear_flags": ["missing_definition"]
+    },
+    "mockery": {
+      "synonyms": ["ridicule", "derision", "scorn", "taunting", "lampoon"],
+      "notes": ["GRE 常考搭配：make a mockery of（使…显得荒唐可笑、使…形同虚设）。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "myriad": {
+      "pos": ["adjective", "noun"],
+      "chinese": ["无数的，大量的；（名词）无数，极大数量"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Countless; very numerous; of an indefinitely great number."},
+        {"pos": "noun", "definition": "A countless or extremely great number of people or things."}
+      ],
+      "synonyms": ["countless", "innumerable", "multitudinous", "numberless"],
+      "clear_flags": ["missing_definition"]
+    }
+  }
+}

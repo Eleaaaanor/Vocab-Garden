@@ -1,0 +1,83 @@
+{
+  "words": {
+    "abound": {
+      "synonyms": ["teem", "swarm", "proliferate", "be plentiful", "bristle"],
+      "notes": ["GRE 常考搭配：abound in/with（富于、充满），如 the region abounds with myths。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "augur": {
+      "synonyms": ["portend", "presage", "foretell", "bode", "foreshadow"]
+    },
+    "avatar": {
+      "synonyms": ["embodiment", "incarnation", "manifestation", "personification"]
+    },
+    "calculated": {
+      "pos": ["adjective"],
+      "chinese": ["蓄意的，精心策划的；计算得出的"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Deliberately planned or intended, especially with an eye to a desired effect."},
+        {"pos": "adjective", "definition": "Determined by calculation rather than by chance."}
+      ],
+      "synonyms": ["deliberate", "intentional", "premeditated", "designed", "studied"],
+      "notes": ["GRE 常考义为“蓄意的、有意为之的”，如 a calculated insult（有意为之的侮辱）。"],
+      "clear_flags": ["missing_definition", "multiple_possible_pos"]
+    },
+    "conviviality": {
+      "synonyms": ["joviality", "festivity", "sociability", "merriment", "geniality"],
+      "clear_flags": ["missing_definition"]
+    },
+    "eccentricity": {
+      "synonyms": ["oddity", "quirk", "peculiarity", "idiosyncrasy", "unconventionality"],
+      "clear_flags": ["missing_definition"]
+    },
+    "founder": {
+      "synonyms": ["sink", "capsize", "collapse", "fail", "flounder"],
+      "notes": ["GRE 高频一词两义：名词“创始人”；动词“（船）沉没、（计划）失败”。动词义与 founder on 同源。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "ideology": {
+      "synonyms": ["belief system", "doctrine", "creed", "worldview"],
+      "notes": ["GRE 常含贬义暗示：指成体系却可能僵化的信念框架。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "purport": {
+      "synonyms": ["claim", "profess", "allege", "profess to be"],
+      "notes": ["GRE 常考：purport 指“自称、表面声称”，常暗含实际并非如此，如 a document purporting to prove the case。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "rote": {
+      "synonyms": ["routine", "repetition", "memorization", "mechanical learning"],
+      "notes": ["GRE 固定搭配：by rote / rote learning（死记硬背），与 understanding 相对。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "veer": {
+      "synonyms": ["swerve", "deviate", "diverge", "shift sharply"],
+      "notes": ["GRE 常考引申义：观点或政策的突然转向，如 the debate veered into personal attack。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "thwarted": {
+      "lemma": "thwart",
+      "english_definitions": [
+        {"pos": "verb", "definition": "Prevented from accomplishing something; obstructed or defeated."}
+      ]
+    },
+    "calumny": {
+      "chinese": ["诽谤，中伤"]
+    },
+    "compunction": {
+      "chinese": ["悔恨，良心不安，顾虑"]
+    },
+    "factitious": {
+      "chinese": ["人为的，虚假的，不自然的"]
+    },
+    "paucity": {
+      "chinese": ["缺乏，不足，少量"]
+    },
+    "prolixity": {
+      "chinese": ["冗长，啰嗦"]
+    },
+    "supercilious": {
+      "chinese": ["高傲的，傲慢的，目空一切的"]
+    }
+  }
+}

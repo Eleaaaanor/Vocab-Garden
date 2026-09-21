@@ -1,0 +1,433 @@
+{
+  "words": {
+    "querulous": {
+      "example": {
+        "sentence": "The querulous tone of the review said more about the reviewer than the book.",
+        "translation": "这篇书评抱怨的语气，反映评论者自身多于反映这本书。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "quibbler": {
+      "synonyms": ["nitpicker", "caviler", "faultfinder", "pedant"],
+      "example": {
+        "sentence": "Only a quibbler would insist on the distinction in this context.",
+        "translation": "只有吹毛求疵的人才会在这种语境下坚持这一区分。"
+      },
+      "derivatives": [{"term": "quibble", "relation": "verb/noun: to raise petty objections"}],
+      "clear_flags": ["missing_example"]
+    },
+    "quixotic": {
+      "synonyms": ["idealistic", "impractical", "romantic", "visionary", "utopian"],
+      "example": {
+        "sentence": "His quixotic campaign for reform amused the very legislators it targeted.",
+        "translation": "他那不切实际的改革运动，反倒让被针对的议员们觉得有趣。"
+      },
+      "notes": ["源自堂吉诃德（Don Quixote），含“虽有理想却不切实际”的贬义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "quizzical": {
+      "synonyms": ["puzzled", "questioning", "bemused", "inquiring"],
+      "example": {
+        "sentence": "She gave the proposal a quizzical look and asked for the evidence.",
+        "translation": "她带着疑惑的神情看了看这份提案，要求拿出证据。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "quotidian": {
+      "example": {
+        "sentence": "The diary records the quotidian details that historians usually discard.",
+        "translation": "这本日记记录了历史学家通常会舍弃的日常琐事。"
+      },
+      "notes": ["GRE 常考：quotidian 与 mundane、everyday 同义，与 extraordinary、exceptional 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "ramification": {
+      "synonyms": ["consequence", "implication", "repercussion", "offshoot"],
+      "example": {
+        "sentence": "The ruling's ramifications for local government were not anticipated.",
+        "translation": "这一裁决对地方政府的影响并未被预料到。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "rapacity": {
+      "chinese": ["贪婪，掠夺成性"],
+      "example": {
+        "sentence": "The report described the company's rapacity in exploiting the tax code.",
+        "translation": "报告描述了该公司利用税法进行盘剥的贪婪行径。"
+      },
+      "confusables": [
+        {"term": "reciprocity", "distinction": "rapacity 指贪婪掠夺；reciprocity 指互惠、对等。拼写相近，含义对立。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "rationalize": {
+      "synonyms": ["justify", "explain away", "account for", "vindicate"],
+      "notes": ["GRE 常考贬义用法“为…寻找借口、自圆其说”，与 justify 相比更强调掩饰真实动机。"]
+    },
+    "rattle": {
+      "synonyms": ["unsettle", "unnerve", "fluster", "disconcert", "agitate"],
+      "notes": ["GRE 常考抽象义“使慌乱、使不安”，与 calm、reassure 反义。"]
+    },
+    "rebound": {
+      "synonyms": ["recoil", "bounce back", "ricochet", "recover"]
+    },
+    "recant": {
+      "confusables": [
+        {"term": "recount", "distinction": "recant 指公开撤回（先前的言论或信仰）；recount 指详细叙述或重新计数。"}
+      ],
+      "notes": ["GRE 常考：recant 的对象多为信仰、证词或公开主张，常与 retract、repudiate 同向。"]
+    },
+    "receptivity": {
+      "synonyms": ["openness", "responsiveness", "receptiveness", "susceptibility"]
+    },
+    "reductive": {
+      "synonyms": ["oversimplifying", "simplistic"],
+      "notes": ["含贬义：指把复杂事物强行简化到失真的程度，如 a reductive reading。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "related": {
+      "chinese": ["相关的，有联系的；有亲属关系的"]
+    },
+    "reminiscences": {
+      "lemma": "reminiscence",
+      "english_definitions": [
+        {"pos": "noun", "definition": "A story, account, or recollection of past events."}
+      ],
+      "synonyms": ["recollections", "memories", "anecdotes"],
+      "clear_flags": ["missing_definition"]
+    },
+    "renounce": {
+      "pos": ["verb"],
+      "chinese": ["（正式）放弃，抛弃；断绝关系"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To formally give up or abandon (a claim, right, belief, or practice)."}
+      ],
+      "synonyms": ["abandon", "relinquish", "repudiate", "forswear", "disown"],
+      "notes": ["GRE 常考三词辨析：renounce（放弃）、denounce（公开谴责）、announce（宣布）。"],
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "represent": {
+      "synonyms": ["depict", "portray", "stand for", "symbolize", "act for"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "repudiate": {
+      "example": {
+        "sentence": "The author later repudiated the conclusion that had made her famous.",
+        "translation": "作者后来否定了那个使她成名的结论。"
+      },
+      "notes": ["GRE 高频：repudiate 与 reject、disown 同向，与 embrace、affirm 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "repute": {
+      "synonyms": ["reputation", "standing", "renown", "esteem"],
+      "notes": ["GRE 常考搭配：of good/ill repute（名声好的/坏的）、by repute（据传闻）。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "restive": {
+      "example": {
+        "sentence": "The troops grew restive after weeks of waiting.",
+        "translation": "等待数周之后，部队变得焦躁不安。"
+      },
+      "confusables": [
+        {"term": "restful", "distinction": "restive 意为焦躁不安、难以管束；restful 意为宁静安适的。二者含义相反，与“休息”均无直接关系。"}
+      ],
+      "notes": ["GRE 高频陷阱词：restive 不等于“休息的”，而指 impatient under restraint。"],
+      "clear_flags": ["missing_example"]
+    },
+    "retrenchment": {
+      "example": {
+        "sentence": "The university's retrenchment eliminated programs it had built for decades.",
+        "translation": "这所大学的经费削减裁撤了它用几十年建立起来的项目。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "retribution": {
+      "synonyms": ["punishment", "retaliation", "vengeance", "requital", "reprisal"],
+      "example": {
+        "sentence": "The sanctions were framed as retribution, not deterrence.",
+        "translation": "这些制裁被表述为报复，而非威慑。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "retrospective": {
+      "synonyms": ["retroactive", "backward-looking", "hindsight-based"],
+      "example": {
+        "sentence": "The museum mounted a retrospective of her earliest work.",
+        "translation": "博物馆为她最早期的作品举办了一次回顾展。"
+      },
+      "confusables": [
+        {"term": "prospective", "distinction": "retrospective 指回顾过去的；prospective 指未来的、有希望的。"}
+      ],
+      "clear_flags": ["possible_wrong_synonym", "missing_example"]
+    },
+    "revanchism": {
+      "synonyms": ["irredentism", "revenge politics"],
+      "example": {
+        "sentence": "The treaty's harsh terms fed a revanchism that lasted a generation.",
+        "translation": "条约的苛刻条款助长了持续一代人的复仇主义。"
+      },
+      "notes": ["源自法语 revanche（复仇），指以收复失地为名的复仇政治。"],
+      "clear_flags": ["missing_example"]
+    },
+    "rhetoric": {
+      "pos": ["noun"],
+      "chinese": ["修辞，修辞学；（贬）华而不实的辞令"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "The art of effective or persuasive speaking or writing."},
+        {"pos": "noun", "definition": "Language designed to persuade, often lacking sincerity or substance."}
+      ],
+      "synonyms": ["oratory", "eloquence", "bombast", "grandiloquence"],
+      "clear_flags": ["missing_definition", "multiple_possible_pos"]
+    },
+    "ruthless": {
+      "example": {
+        "sentence": "She was ruthless in pruning arguments that could not be supported.",
+        "translation": "她毫不留情地删去了所有无法证成的论证。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "sagacious": {
+      "example": {
+        "sentence": "The sagacious investor sold before the market turned.",
+        "translation": "这位睿智的投资者在市场转向之前就已卖出。"
+      },
+      "confusables": [
+        {"term": "sage", "distinction": "sagacious 是形容词“睿智明断的”；sage 可作名词“智者”或形容词“贤明的”。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "sanguine": {
+      "confusables": [
+        {"term": "sanguinary", "distinction": "sanguine 指乐观自信的；sanguinary 指血腥的、残暴的。拼写相近，含义截然不同。"}
+      ],
+      "notes": ["GRE 常考义为“乐观的、充满信心的”，与 pessimistic、despondent 反义。"]
+    },
+    "seditious": {
+      "example": {
+        "sentence": "The pamphlet was prosecuted as seditious although it advocated only reform.",
+        "translation": "这本小册子虽只主张改革，却以煽动叛乱罪被起诉。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "segregation": {
+      "synonyms": ["separation", "isolation", "division", "partition"],
+      "example": {
+        "sentence": "De facto segregation persisted long after the statute was struck down.",
+        "translation": "在相关法规被废除之后，事实上的隔离仍然长期存在。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "simultaneous": {
+      "example": {
+        "sentence": "The two discoveries were simultaneous and entirely independent.",
+        "translation": "这两项发现是同时发生的，而且完全彼此独立。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "slighted": {
+      "synonyms": ["snubbed", "insulted", "offended", "disregarded"],
+      "example": {
+        "sentence": "Feeling slighted, he stopped attending the meetings altogether.",
+        "translation": "由于觉得受了轻慢，他索性不再参加会议。"
+      },
+      "clear_flags": ["missing_definition"]
+    },
+    "slumber": {
+      "synonyms": ["sleep", "repose", "dormancy", "torpor"],
+      "example": {
+        "sentence": "The dispute lay in slumber for years before flaring up again.",
+        "translation": "这场争端沉睡多年之后再度爆发。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "snobbery": {
+      "synonyms": ["condescension", "elitism", "pretension", "haughtiness"],
+      "example": {
+        "sentence": "The memoir is less about music than about the snobbery of its patrons.",
+        "translation": "这部回忆录与其说是关于音乐的，不如说是关于其赞助人的势利。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "solidify": {
+      "synonyms": ["harden", "strengthen", "consolidate", "cement", "firm up"],
+      "example": {
+        "sentence": "The crisis solidified an alliance that had been tentative for years.",
+        "translation": "这场危机使一个多年来不稳固的联盟得以巩固。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "solve": {
+      "chinese": ["解决，解答，破解"],
+      "confusables": [
+        {"term": "address", "distinction": "solve 指彻底解决、使问题消失；address 指着手应对、处理问题，不保证解决。"}
+      ],
+      "clear_flags": ["ambiguous_term"]
+    },
+    "somnolent": {
+      "example": {
+        "sentence": "The somnolent village woke only when the harvest began.",
+        "translation": "这个昏昏欲睡的小村只在收割开始时才苏醒过来。"
+      },
+      "confusables": [
+        {"term": "soporific", "distinction": "somnolent 指困倦的、昏昏欲睡的；soporific 指使人昏昏欲睡的（多形容事物）。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "spate": {
+      "synonyms": ["flood", "deluge", "surge", "rash", "outpouring"],
+      "example": {
+        "sentence": "A spate of retractions prompted a review of the journal's practices.",
+        "translation": "一连串的撤稿促使人们重新审视该期刊的做法。"
+      },
+      "notes": ["GRE 常考搭配：a spate of（一连串、接踵而来的），多指负面事件。"],
+      "clear_flags": ["missing_example"]
+    },
+    "specious": {
+      "chinese": ["似是而非的，貌似有理实则谬误的"]
+    },
+    "speculative": {
+      "synonyms": ["conjectural", "theoretical", "hypothetical", "suppositional"],
+      "notes": ["GRE 常考两义：(1) 推测性的、缺乏证据的；(2) 投机性的（speculative investment）。"],
+      "clear_flags": ["ambiguous_term"]
+    },
+    "spike": {
+      "pos": ["noun", "verb"],
+      "chinese": ["尖刺，长钉；（数量的）骤增；使突然上升"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "A sharp increase in amount, level, or rate."},
+        {"pos": "noun", "definition": "A sharp pointed object."},
+        {"pos": "verb", "definition": "To rise or cause to rise sharply and suddenly."}
+      ],
+      "example": {
+        "sentence": "A spike in demand caught the utility unprepared.",
+        "translation": "需求骤增使这家公用事业公司措手不及。"
+      },
+      "clear_flags": ["missing_definition"]
+    },
+    "spur": {
+      "chinese": ["刺激，激励；（名词）马刺，激励因素"],
+      "notes": ["GRE 常考搭配：spur innovation/growth（刺激创新、增长）、on the spur of the moment（一时冲动）。"]
+    },
+    "spurn": {
+      "synonyms": ["reject", "scorn", "rebuff", "disdain", "repudiate"],
+      "confusables": [
+        {"term": "spur", "distinction": "spurn 指轻蔑地拒绝；spur 指刺激、激励。拼写相近，含义相反。"}
+      ],
+      "clear_flags": ["missing_definition"]
+    },
+    "statute": {
+      "synonyms": ["law", "act", "ordinance", "regulation", "legislation"],
+      "notes": ["statute 指成文法，与 common law（判例法）相对；statute of limitations 指诉讼时效。"]
+    },
+    "stratification": {
+      "synonyms": ["layering", "hierarchy", "division", "gradation"],
+      "example": {
+        "sentence": "The excavation revealed a stratification undisturbed for millennia.",
+        "translation": "这次发掘揭示出数千年来未经扰动的层理。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "stratified": {
+      "synonyms": ["layered", "hierarchical", "graded", "tiered"],
+      "example": {
+        "sentence": "The society was rigidly stratified, with almost no mobility between ranks.",
+        "translation": "这个社会阶层森严，各等级之间几乎没有流动。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "streamline": {
+      "pos": ["verb", "noun"],
+      "chinese": ["精简，使更高效；（名词）流线"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To make (a system or process) simpler and more efficient."},
+        {"pos": "noun", "definition": "A line along which fluid flows smoothly."}
+      ],
+      "synonyms": ["simplify", "rationalize", "optimize", "trim"],
+      "example": {
+        "sentence": "The agency streamlined its approval process without loosening any standard.",
+        "translation": "该机构精简了审批流程，却没有放宽任何标准。"
+      },
+      "clear_flags": ["missing_example", "multiple_possible_pos"]
+    },
+    "stupefaction": {
+      "synonyms": ["astonishment", "bewilderment", "daze", "torpor", "numbness"],
+      "example": {
+        "sentence": "The audience watched in stupefaction as the machine dismantled itself.",
+        "translation": "观众目瞪口呆地看着那台机器自己拆解开来。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "sublime": {
+      "synonyms": ["exalted", "lofty", "magnificent", "awe-inspiring", "transcendent"],
+      "notes": ["GRE 美学语境高频词：the sublime 指令人敬畏的崇高感，常与 beautiful、picturesque 并提。"]
+    },
+    "subsidiary": {
+      "synonyms": ["auxiliary", "secondary", "subordinate", "supplemental"],
+      "notes": ["GRE 常考形容词义“次要的、附属的”，与 principal、primary 反义。"]
+    },
+    "subversion": {
+      "synonyms": ["overthrow", "destabilization", "sabotage", "undermining"],
+      "example": {
+        "sentence": "The novel was banned on the pretext that it encouraged subversion.",
+        "translation": "这部小说以煽动颠覆为由被查禁。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "supercilious": {
+      "example": {
+        "sentence": "His supercilious dismissal of the question alienated the whole panel.",
+        "translation": "他对这个问题的傲慢轻视使整个评审团都与他疏远。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "support": {
+      "synonyms": ["sustain", "uphold", "bolster", "corroborate", "maintain"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "supremacy": {
+      "synonyms": ["dominance", "primacy", "ascendancy", "sovereignty", "preeminence"]
+    },
+    "surreptitious": {
+      "synonyms": ["stealthy", "furtive", "covert", "clandestine", "secretive"],
+      "example": {
+        "sentence": "A surreptitious glance at the notes was enough to settle the question.",
+        "translation": "偷偷瞥一眼笔记就足以确定这个问题。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "surveying": {
+      "chinese": ["测量，测绘；勘测"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "The applied science of determining the positions and areas of land."}
+      ],
+      "synonyms": ["measurement", "mapping", "land measurement"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "swindle": {
+      "chinese": ["诈骗，骗取；（名词）骗局"],
+      "example": {
+        "sentence": "The scheme swindled hundreds of small investors before regulators noticed.",
+        "translation": "这一骗局在监管者察觉之前已骗取了数百名小投资者的钱财。"
+      },
+      "confusables": [
+        {"term": "dwindle", "distinction": "swindle 指诈骗、骗取；dwindle 指逐渐减少。拼写相近，词义无关。"}
+      ],
+      "clear_flags": ["ambiguous_term", "missing_example"]
+    },
+    "sycophantic": {
+      "example": {
+        "sentence": "The biography is sycophantic to the point of uselessness.",
+        "translation": "这部传记阿谀奉承到毫无用处的程度。"
+      },
+      "notes": ["GRE 常考：sycophantic 与 obsequious、servile、fawning 同向，与 imperious 等形容支配性的词反义呼应。"],
+      "clear_flags": ["missing_example"]
+    },
+    "synopsis": {
+      "example": {
+        "sentence": "The synopsis omits the very complication on which the plot turns.",
+        "translation": "这份提要恰恰略去了情节所依赖的那个纠葛。"
+      },
+      "clear_flags": ["missing_example"]
+    }
+  }
+}

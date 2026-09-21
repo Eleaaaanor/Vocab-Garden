@@ -1,0 +1,763 @@
+{"source_file": "verbalword.md", "source_line": 5, "raw_term": "unsympathetic", "raw_note": "冷漠的", "normalized_terms": ["unsympathetic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 6, "raw_term": "sycophantic", "raw_note": "阿谀的", "normalized_terms": ["sycophantic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 7, "raw_term": "unsentimental", "raw_note": "不感情用事的", "normalized_terms": ["unsentimental"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 8, "raw_term": "censorious", "raw_note": "挑剔的", "normalized_terms": ["censorious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 9, "raw_term": "pedantic", "raw_note": "迂腐的", "normalized_terms": ["pedantic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 10, "raw_term": "scrutiny", "raw_note": "仔细审查", "normalized_terms": ["scrutiny"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 11, "raw_term": "censure", "raw_note": "责难", "normalized_terms": ["censure"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 12, "raw_term": "spike", "raw_note": "n. 猛增", "normalized_terms": ["spike"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 13, "raw_term": "portent", "raw_note": "预兆", "normalized_terms": ["portent"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 14, "raw_term": "encyclopedic", "raw_note": "百科全书式的，渊博的", "normalized_terms": ["encyclopedic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 15, "raw_term": "exhaustive", "raw_note": "全面的，详尽的", "normalized_terms": ["exhaustive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 16, "raw_term": "undiscriminating", "raw_note": "不加区别的", "normalized_terms": ["undiscriminating"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 22, "raw_term": "contentious", "raw_note": "引起争论的，爱争论的", "normalized_terms": ["contentious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 23, "raw_term": "concur", "raw_note": "v. 同意", "normalized_terms": ["concur"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 24, "raw_term": "chronology", "raw_note": "年代学，年表", "normalized_terms": ["chronology"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 25, "raw_term": "synopsis (pl. synopses)", "raw_note": "摘要", "normalized_terms": ["synopsis"], "relation": "inflection_note", "lemmas": {"synopses": "synopsis"}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 26, "raw_term": "awry", "raw_note": "歪的，错误的", "normalized_terms": ["awry"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 27, "raw_term": "jettison", "raw_note": "抛弃", "normalized_terms": ["jettison"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 28, "raw_term": "high-minded", "raw_note": "高尚的", "normalized_terms": ["high-minded"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 29, "raw_term": "unimpeachable", "raw_note": "可靠的，无懈可击的 (blameless)", "normalized_terms": ["unimpeachable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 30, "raw_term": "allege", "raw_note": "断言，宣称，指责", "normalized_terms": ["allege"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 31, "raw_term": "unassuming", "raw_note": "谦和的", "normalized_terms": ["unassuming"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 32, "raw_term": "acerbic", "raw_note": "酸的，尖刻的", "normalized_terms": ["acerbic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 33, "raw_term": "tenet", "raw_note": "教条 (dogma)", "normalized_terms": ["tenet"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 34, "raw_term": "arcane", "raw_note": "秘密的，神秘的，晦涩的", "normalized_terms": ["arcane"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 35, "raw_term": "quixotic", "raw_note": "不切实际的 (idealistic)", "normalized_terms": ["quixotic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 36, "raw_term": "prescient", "raw_note": "有先见之明的", "normalized_terms": ["prescient"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 37, "raw_term": "banal", "raw_note": "平庸的，陈腐的", "normalized_terms": ["banal"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 38, "raw_term": "viable", "raw_note": "能活下去的", "normalized_terms": ["viable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 39, "raw_term": "spartan", "raw_note": "斯巴达的，简朴的", "normalized_terms": ["spartan"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 40, "raw_term": "altruistic", "raw_note": "利他的", "normalized_terms": ["altruistic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 41, "raw_term": "illusory", "raw_note": "虚幻的", "normalized_terms": ["illusory"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 42, "raw_term": "proclivity", "raw_note": "倾向，癖性", "normalized_terms": ["proclivity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 43, "raw_term": "vacillation", "raw_note": "优柔寡断", "normalized_terms": ["vacillation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 44, "raw_term": "eccentricity", "raw_note": "反常，怪癖", "normalized_terms": ["eccentricity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 45, "raw_term": "waver", "raw_note": "摇摆，动摇", "normalized_terms": ["waver"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 46, "raw_term": "apathetic", "raw_note": "冷漠的", "normalized_terms": ["apathetic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 47, "raw_term": "restive", "raw_note": "躁动不安的", "normalized_terms": ["restive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 48, "raw_term": "cynical", "raw_note": "愤世嫉俗的", "normalized_terms": ["cynical"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 49, "raw_term": "compliant", "raw_note": "易驾驭的，温顺的", "normalized_terms": ["compliant"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 50, "raw_term": "snag", "raw_note": "n. 障碍；v. 阻碍", "normalized_terms": ["snag"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 51, "raw_term": "hitch", "raw_note": "拴住，小故障", "normalized_terms": ["hitch"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 52, "raw_term": "upshot", "raw_note": "结果", "normalized_terms": ["upshot"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 53, "raw_term": "impassive", "raw_note": "冷漠的", "normalized_terms": ["impassive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 54, "raw_term": "hallmark", "raw_note": "标志，特征", "normalized_terms": ["hallmark"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 55, "raw_term": "tenure", "raw_note": "终身职位，占有期", "normalized_terms": ["tenure"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 56, "raw_term": "spur", "raw_note": "激励", "normalized_terms": ["spur"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 57, "raw_term": "foster", "raw_note": "促进，收养", "normalized_terms": ["foster"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 63, "raw_term": "perfunctory", "raw_note": "敷衍的", "normalized_terms": ["perfunctory"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 64, "raw_term": "egregious", "raw_note": "极坏的", "normalized_terms": ["egregious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 65, "raw_term": "inductive", "raw_note": "诱导的，归纳的", "normalized_terms": ["inductive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 66, "raw_term": "prognosis", "raw_note": "[医] 预后", "normalized_terms": ["prognosis"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 67, "raw_term": "auspicious", "raw_note": "吉兆的", "normalized_terms": ["auspicious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 68, "raw_term": "spontaneous", "raw_note": "自发的", "normalized_terms": ["spontaneous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 69, "raw_term": "distortion", "raw_note": "扭曲，曲解", "normalized_terms": ["distortion"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 70, "raw_term": "incursion", "raw_note": "袭击，侵入", "normalized_terms": ["incursion"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 71, "raw_term": "expedite", "raw_note": "加速", "normalized_terms": ["expedite"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 72, "raw_term": "utilitarian", "raw_note": "功利的，实利的", "normalized_terms": ["utilitarian"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 73, "raw_term": "speculative / conjectural", "raw_note": "推测的，猜测的", "normalized_terms": ["speculative", "conjectural"], "relation": "slash_group", "lemmas": {}, "review_flags": ["ambiguous_term"]}
+{"source_file": "verbalword.md", "source_line": 74, "raw_term": "pragmatic", "raw_note": "重实效的，务实的", "normalized_terms": ["pragmatic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 75, "raw_term": "vapid", "raw_note": "无生气的", "normalized_terms": ["vapid"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 76, "raw_term": "jejune", "raw_note": "(思想) 浅薄、幼稚的", "normalized_terms": ["jejune"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 77, "raw_term": "didactic", "raw_note": "教学的；(人) 迂腐的", "normalized_terms": ["didactic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 78, "raw_term": "tendentious", "raw_note": "宣传性的，有偏向性的", "normalized_terms": ["tendentious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 79, "raw_term": "arcane", "raw_note": "秘密的", "normalized_terms": ["arcane"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 80, "raw_term": "forbear", "raw_note": "克制，忍耐", "normalized_terms": ["forbear"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 81, "raw_term": "purport", "raw_note": "声称", "normalized_terms": ["purport"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 82, "raw_term": "erratic", "raw_note": "古怪的，反复无常的", "normalized_terms": ["erratic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 83, "raw_term": "simultaneous", "raw_note": "同时的", "normalized_terms": ["simultaneous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 84, "raw_term": "cynicism", "raw_note": "讽刺，愤世嫉俗 (sarcasm)", "normalized_terms": ["cynicism"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 85, "raw_term": "preclude", "raw_note": "排除，防止", "normalized_terms": ["preclude"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 86, "raw_term": "manifest", "raw_note": "显然的，展现", "normalized_terms": ["manifest"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 87, "raw_term": "faculty", "raw_note": "能力，教职员", "normalized_terms": ["faculty"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 88, "raw_term": "primate", "raw_note": "灵长类动物；大主教", "normalized_terms": ["primate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 89, "raw_term": "rudimentary", "raw_note": "基本的，初步的", "normalized_terms": ["rudimentary"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 90, "raw_term": "conjure", "raw_note": "用魔术变出，使出现", "normalized_terms": ["conjure"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 91, "raw_term": "paucity", "raw_note": "缺乏", "normalized_terms": ["paucity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 92, "raw_term": "inert", "raw_note": "惰性的，无生气的", "normalized_terms": ["inert"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 93, "raw_term": "circumscribe", "raw_note": "局限，在周围划线", "normalized_terms": ["circumscribe"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 94, "raw_term": "circumvent", "raw_note": "欺诈，以计胜过，回避", "normalized_terms": ["circumvent"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 95, "raw_term": "concession", "raw_note": "让步，妥协", "normalized_terms": ["concession"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 96, "raw_term": "subversion", "raw_note": "颠覆", "normalized_terms": ["subversion"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 97, "raw_term": "abnegation", "raw_note": "自我放弃，不承认，自我克制", "normalized_terms": ["abnegation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 98, "raw_term": "repudiation", "raw_note": "拒绝，否认，断绝关系", "normalized_terms": ["repudiation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 99, "raw_term": "acquiescence", "raw_note": "默认，默许", "normalized_terms": ["acquiescence"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 100, "raw_term": "somnolent", "raw_note": "瞌睡的", "normalized_terms": ["somnolent"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 101, "raw_term": "lethargic", "raw_note": "无精打采的", "normalized_terms": ["lethargic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 102, "raw_term": "befuddled", "raw_note": "困惑的", "normalized_terms": ["befuddled"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 108, "raw_term": "dispersal", "raw_note": "n. 疏散，散开", "normalized_terms": ["dispersal"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 109, "raw_term": "unexceptional", "raw_note": "无例外的，普通的", "normalized_terms": ["unexceptional"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 110, "raw_term": "inveterate", "raw_note": "根深蒂固的", "normalized_terms": ["inveterate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 111, "raw_term": "conjectural", "raw_note": "推测的", "normalized_terms": ["conjectural"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 112, "raw_term": "premeditated", "raw_note": "预谋的", "normalized_terms": ["premeditated"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 113, "raw_term": "balanced reflection", "raw_note": "公正的反映", "normalized_terms": ["balanced reflection"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 114, "raw_term": "entail / entailed", "raw_note": "带来，限定继承", "normalized_terms": ["entail", "entailed"], "relation": "related_forms", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 115, "raw_term": "antithetical", "raw_note": "相反的，对立的", "normalized_terms": ["antithetical"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 116, "raw_term": "antecedent", "raw_note": "先行的，前情", "normalized_terms": ["antecedent"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 117, "raw_term": "exacerbate", "raw_note": "使恶化，加重", "normalized_terms": ["exacerbate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 118, "raw_term": "demise", "raw_note": "死亡", "normalized_terms": ["demise"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 119, "raw_term": "deterioration", "raw_note": "恶化，变坏，退化，堕落", "normalized_terms": ["deterioration"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 120, "raw_term": "shackle", "raw_note": "加桎梏，束缚", "normalized_terms": ["shackle"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 121, "raw_term": "admonish", "raw_note": "警告，劝告提醒", "normalized_terms": ["admonish"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 122, "raw_term": "stifle", "raw_note": "扼杀，抑制", "normalized_terms": ["stifle"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 123, "raw_term": "enliven", "raw_note": "使有活力", "normalized_terms": ["enliven"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 129, "raw_term": "roil", "raw_note": "搅浑，使烦恼", "normalized_terms": ["roil"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 130, "raw_term": "ebb", "raw_note": "退潮，衰退", "normalized_terms": ["ebb"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 131, "raw_term": "virgin", "raw_note": "n. 处女，未开发的", "normalized_terms": ["virgin"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 132, "raw_term": "anthropogenic", "raw_note": "人为的，人类起源论的", "normalized_terms": ["anthropogenic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 133, "raw_term": "condone", "raw_note": "宽恕", "normalized_terms": ["condone"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 134, "raw_term": "rote", "raw_note": "死记硬背", "normalized_terms": ["rote"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 135, "raw_term": "entail", "raw_note": "n.-v. 使蒙受，产生，带来", "normalized_terms": ["entail"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 136, "raw_term": "expansionist", "raw_note": "扩张主义的", "normalized_terms": ["expansionist"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 137, "raw_term": "heterogeneous", "raw_note": "异类的，不同的", "normalized_terms": ["heterogeneous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 138, "raw_term": "stratified", "raw_note": "分层的", "normalized_terms": ["stratified"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 139, "raw_term": "stagnation", "raw_note": "淤塞，停滞，不景气", "normalized_terms": ["stagnation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 140, "raw_term": "repudiate", "raw_note": "批判，拒绝", "normalized_terms": ["repudiate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 141, "raw_term": "recant", "raw_note": "撤回，放弃", "normalized_terms": ["recant"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 147, "raw_term": "concede", "raw_note": "承认", "normalized_terms": ["concede"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 148, "raw_term": "grant", "raw_note": "承认；(法律) 同意", "normalized_terms": ["grant"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 149, "raw_term": "rosy", "raw_note": "美好、乐观的", "normalized_terms": ["rosy"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 150, "raw_term": "tribute", "raw_note": "贡品，称赞", "normalized_terms": ["tribute"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 151, "raw_term": "encomium", "raw_note": "赞美词，颂词", "normalized_terms": ["encomium"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 152, "raw_term": "exalt", "raw_note": "称赞，提升", "normalized_terms": ["exalt"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 153, "raw_term": "transcendent", "raw_note": "卓越的", "normalized_terms": ["transcendent"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 154, "raw_term": "feign", "raw_note": "伪装", "normalized_terms": ["feign"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 155, "raw_term": "slump", "raw_note": "大幅下降", "normalized_terms": ["slump"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 156, "raw_term": "ensuing", "raw_note": "a. 接着发生的", "normalized_terms": ["ensuing"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 157, "raw_term": "spate", "raw_note": "大量，发洪水", "normalized_terms": ["spate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 158, "raw_term": "futility", "raw_note": "无用，无益", "normalized_terms": ["futility"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 159, "raw_term": "dictator", "raw_note": "独裁者", "normalized_terms": ["dictator"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 160, "raw_term": "paraphernalia", "raw_note": "随身物品", "normalized_terms": ["paraphernalia"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 161, "raw_term": "unostentatious", "raw_note": "不夸耀，朴素的", "normalized_terms": ["unostentatious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 162, "raw_term": "august", "raw_note": "令人敬畏的，威严的", "normalized_terms": ["august"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 168, "raw_term": "presuppose", "raw_note": "预先假定", "normalized_terms": ["presuppose"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 169, "raw_term": "flout", "raw_note": "嘲弄，蔑视", "normalized_terms": ["flout"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 170, "raw_term": "eloquence", "raw_note": "雄辩", "normalized_terms": ["eloquence"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 171, "raw_term": "parity", "raw_note": "平等，同等", "normalized_terms": ["parity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 172, "raw_term": "stratification", "raw_note": "层化，分层", "normalized_terms": ["stratification"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 173, "raw_term": "elucidation", "raw_note": "阐明", "normalized_terms": ["elucidation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 174, "raw_term": "obfuscation", "raw_note": "困惑，昏迷，发暗", "normalized_terms": ["obfuscation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 175, "raw_term": "distortion", "raw_note": "曲解，失真", "normalized_terms": ["distortion"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 176, "raw_term": "disparities", "raw_note": "不同，悬殊", "normalized_terms": ["disparities"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 177, "raw_term": "vacillation", "raw_note": "优柔寡断", "normalized_terms": ["vacillation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 178, "raw_term": "spurn", "raw_note": "一脚踢开，拒绝接受", "normalized_terms": ["spurn"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 179, "raw_term": "intricate", "raw_note": "复杂的", "normalized_terms": ["intricate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 180, "raw_term": "elusive", "raw_note": "难懂的，捕风捉影的", "normalized_terms": ["elusive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 186, "raw_term": "paleontologist", "raw_note": "古生物学家", "normalized_terms": ["paleontologist"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 187, "raw_term": "continuity", "raw_note": "(时间上的) 连续性，连贯性", "normalized_terms": ["continuity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 188, "raw_term": "specious", "raw_note": "似是而非的", "normalized_terms": ["specious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 189, "raw_term": "afresh", "raw_note": "重新", "normalized_terms": ["afresh"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 190, "raw_term": "belied (belie)", "raw_note": "证明为假", "normalized_terms": ["belie"], "relation": "inflection_note", "lemmas": {"belied": "belie"}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 191, "raw_term": "conflate", "raw_note": "合并，混合", "normalized_terms": ["conflate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 192, "raw_term": "divulge", "raw_note": "吐露", "normalized_terms": ["divulge"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 193, "raw_term": "premeditated", "raw_note": "预谋的，预先策划的", "normalized_terms": ["premeditated"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 194, "raw_term": "ideology", "raw_note": "意识形态", "normalized_terms": ["ideology"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 195, "raw_term": "primate", "raw_note": "灵长类动物", "normalized_terms": ["primate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 196, "raw_term": "grimy", "raw_note": "沾满污垢的", "normalized_terms": ["grimy"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 197, "raw_term": "murky", "raw_note": "昏暗的，朦胧的，脏的，浓的", "normalized_terms": ["murky"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 198, "raw_term": "unblemished", "raw_note": "无瑕的，洁白的", "normalized_terms": ["unblemished"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 199, "raw_term": "pristine", "raw_note": "原始的，未破坏的", "normalized_terms": ["pristine"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 200, "raw_term": "dour", "raw_note": "严厉的，阴沉的，顽强不屈的", "normalized_terms": ["dour"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 201, "raw_term": "mirthful", "raw_note": "愉快的", "normalized_terms": ["mirthful"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 202, "raw_term": "jovial", "raw_note": "快活的", "normalized_terms": ["jovial"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 203, "raw_term": "tepid", "raw_note": "微温的", "normalized_terms": ["tepid"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 209, "raw_term": "insouciance", "raw_note": "不注意，不在乎", "normalized_terms": ["insouciance"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 210, "raw_term": "abstemiousness", "raw_note": "适中，有节制", "normalized_terms": ["abstemiousness"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 211, "raw_term": "irascibility", "raw_note": "易怒", "normalized_terms": ["irascibility"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 212, "raw_term": "boggle / bog down", "raw_note": "沼泽；使陷入泥沼，阻碍", "normalized_terms": ["boggle", "bog down"], "relation": "slash_group", "lemmas": {}, "review_flags": ["ambiguous_term"]}
+{"source_file": "verbalword.md", "source_line": 213, "raw_term": "deference", "raw_note": "尊重，顺从，敬意", "normalized_terms": ["deference"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 214, "raw_term": "provocative", "raw_note": "挑拨的，煽动的", "normalized_terms": ["provocative"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 215, "raw_term": "exhilarating", "raw_note": "爽快的，使人愉悦的", "normalized_terms": ["exhilarating"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 216, "raw_term": "contentious", "raw_note": "controversial，引起争论的", "normalized_terms": ["contentious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 217, "raw_term": "perplexing", "raw_note": "使人困惑的", "normalized_terms": ["perplexing"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 218, "raw_term": "mundane", "raw_note": "平凡的", "normalized_terms": ["mundane"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 219, "raw_term": "intriguing", "raw_note": "吸引人的，引起兴趣的", "normalized_terms": ["intriguing"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 220, "raw_term": "sketchy", "raw_note": "粗略的", "normalized_terms": ["sketchy"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 221, "raw_term": "delusive", "raw_note": "欺骗的，迷惑的，误解的", "normalized_terms": ["delusive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 227, "raw_term": "dissent", "raw_note": "异议", "normalized_terms": ["dissent"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 228, "raw_term": "dictum", "raw_note": "格言", "normalized_terms": ["dictum"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 229, "raw_term": "authoritarianism", "raw_note": "独裁主义，威权主义", "normalized_terms": ["authoritarianism"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 230, "raw_term": "jettison", "raw_note": "抛弃", "normalized_terms": ["jettison"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 231, "raw_term": "objection", "raw_note": "反对", "normalized_terms": ["objection"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 232, "raw_term": "virtually", "raw_note": "实际上 (actually)", "normalized_terms": ["virtually"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 233, "raw_term": "incised", "raw_note": "用雕刻", "normalized_terms": ["incised"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 234, "raw_term": "circulatory", "raw_note": "循环系统", "normalized_terms": ["circulatory"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 235, "raw_term": "myriad", "raw_note": "许多，无数", "normalized_terms": ["myriad"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 236, "raw_term": "attest", "raw_note": "证实，证明", "normalized_terms": ["attest"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 237, "raw_term": "epoch", "raw_note": "新纪元，时代", "normalized_terms": ["epoch"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 238, "raw_term": "heterogeneity", "raw_note": "异质性，不纯一性", "normalized_terms": ["heterogeneity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 239, "raw_term": "downplay", "raw_note": "贬低，轻视", "normalized_terms": ["downplay"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 240, "raw_term": "hamstring", "raw_note": "伤害...腿筋，使瘫痪", "normalized_terms": ["hamstring"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 241, "raw_term": "impair", "raw_note": "损伤，削弱", "normalized_terms": ["impair"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 242, "raw_term": "inflammatory", "raw_note": "令人激动的，煽动性的", "normalized_terms": ["inflammatory"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 243, "raw_term": "usage", "raw_note": "对待，用法", "normalized_terms": ["usage"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 244, "raw_term": "efficacy", "raw_note": "功效，效力", "normalized_terms": ["efficacy"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 245, "raw_term": "fallibility", "raw_note": "易错，不可靠", "normalized_terms": ["fallibility"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 246, "raw_term": "cynicism", "raw_note": "愤世嫉俗，玩世不恭", "normalized_terms": ["cynicism"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 247, "raw_term": "detestation", "raw_note": "憎恨，嫌恶", "normalized_terms": ["detestation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 248, "raw_term": "vilify", "raw_note": "中伤，诽谤", "normalized_terms": ["vilify"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 249, "raw_term": "exhaustive, comprehensive", "raw_note": "全面的", "normalized_terms": ["exhaustive", "comprehensive"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 250, "raw_term": "mien", "raw_note": "风采，态度，举止", "normalized_terms": ["mien"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 251, "raw_term": "disparage", "raw_note": "贬低，蔑视，批评非难", "normalized_terms": ["disparage"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 252, "raw_term": "stupefaction", "raw_note": "麻木，惊呆", "normalized_terms": ["stupefaction"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 253, "raw_term": "mockery", "raw_note": "戏弄，嘲弄", "normalized_terms": ["mockery"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 254, "raw_term": "incredulity", "raw_note": "怀疑，不相信", "normalized_terms": ["incredulity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 255, "raw_term": "derision", "raw_note": "嘲弄", "normalized_terms": ["derision"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 256, "raw_term": "ophthalmology", "raw_note": "眼科学", "normalized_terms": ["ophthalmology"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 257, "raw_term": "retrenchment", "raw_note": "节省，删除", "normalized_terms": ["retrenchment"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 263, "raw_term": "hortatory", "raw_note": "劝告的，激励的", "normalized_terms": ["hortatory"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 264, "raw_term": "disquieting", "raw_note": "令人不安的", "normalized_terms": ["disquieting"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 265, "raw_term": "endowment", "raw_note": "捐赠，资助的财物，保险", "normalized_terms": ["endowment"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 266, "raw_term": "eloquence", "raw_note": "雄辩", "normalized_terms": ["eloquence"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 267, "raw_term": "rhetoric", "raw_note": "修辞学", "normalized_terms": ["rhetoric"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 268, "raw_term": "undermine", "raw_note": "侵蚀，渐渐破坏", "normalized_terms": ["undermine"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 269, "raw_term": "ebb", "raw_note": "退潮，衰退", "normalized_terms": ["ebb"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 270, "raw_term": "subvert", "raw_note": "颠覆，破坏", "normalized_terms": ["subvert"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 271, "raw_term": "interminable", "raw_note": "没完没了的", "normalized_terms": ["interminable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 272, "raw_term": "bootless", "raw_note": "无用的，无益的", "normalized_terms": ["bootless"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 273, "raw_term": "abeyant", "raw_note": "暂缓执行的", "normalized_terms": ["abeyant"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 274, "raw_term": "christen", "raw_note": "在洗礼时命名", "normalized_terms": ["christen"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 275, "raw_term": "ubiquitous", "raw_note": "无所不在的", "normalized_terms": ["ubiquitous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 276, "raw_term": "plastic", "raw_note": "可塑的，能变形的", "normalized_terms": ["plastic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 277, "raw_term": "ingenuity", "raw_note": "独出心裁，心灵手巧", "normalized_terms": ["ingenuity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 278, "raw_term": "discretion", "raw_note": "判断力，慎重", "normalized_terms": ["discretion"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 279, "raw_term": "flagrant", "raw_note": "臭名昭著的", "normalized_terms": ["flagrant"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 280, "raw_term": "crass", "raw_note": "愚笨的，粗鲁的", "normalized_terms": ["crass"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 281, "raw_term": "bolster", "raw_note": "支持", "normalized_terms": ["bolster"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 282, "raw_term": "vindicate", "raw_note": "澄清，证实", "normalized_terms": ["vindicate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 283, "raw_term": "belligerence", "raw_note": "好战，好胜", "normalized_terms": ["belligerence"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 284, "raw_term": "pugnacity", "raw_note": "好斗，好战", "normalized_terms": ["pugnacity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 285, "raw_term": "exhaustive, comprehensive", "raw_note": "彻底的，全面的，无遗漏的", "normalized_terms": ["exhaustive", "comprehensive"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 286, "raw_term": "tempestuous", "raw_note": "暴风雨的，狂暴的", "normalized_terms": ["tempestuous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 287, "raw_term": "taciturn", "raw_note": "沉默寡言的", "normalized_terms": ["taciturn"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 288, "raw_term": "ascetic", "raw_note": "苦行的", "normalized_terms": ["ascetic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 289, "raw_term": "laconic", "raw_note": "简洁的", "normalized_terms": ["laconic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 290, "raw_term": "vapid", "raw_note": "没气的，乏味的", "normalized_terms": ["vapid"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 291, "raw_term": "sagacious", "raw_note": "睿智的", "normalized_terms": ["sagacious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 292, "raw_term": "quibbler", "raw_note": "吹毛求疵的人", "normalized_terms": ["quibbler"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 293, "raw_term": "sophist", "raw_note": "诡辩家", "normalized_terms": ["sophist"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 294, "raw_term": "rally", "raw_note": "恢复，回升，集合", "normalized_terms": ["rally"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 295, "raw_term": "founder / foundering", "raw_note": "创始人 / 沉没，失败", "normalized_terms": ["founder", "foundering"], "relation": "related_forms", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 296, "raw_term": "acclaimed", "raw_note": "受人欢迎的", "normalized_terms": ["acclaimed"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 297, "raw_term": "incisive", "raw_note": "深刻的，尖锐的", "normalized_terms": ["incisive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 298, "raw_term": "demur", "raw_note": "踌躇，抗议", "normalized_terms": ["demur"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 299, "raw_term": "acquiesce", "raw_note": "默许", "normalized_terms": ["acquiesce"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 300, "raw_term": "versatile", "raw_note": "通用，可塑可变形的", "normalized_terms": ["versatile"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 301, "raw_term": "animus", "raw_note": "仇恨", "normalized_terms": ["animus"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 302, "raw_term": "bias, orientation", "raw_note": "偏见，倾向", "normalized_terms": ["bias", "orientation"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 303, "raw_term": "tantalizing", "raw_note": "挑逗性的，引人入胜的", "normalized_terms": ["tantalizing"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 304, "raw_term": "trenchant, incisive", "raw_note": "犀利的，深刻的", "normalized_terms": ["trenchant", "incisive"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 305, "raw_term": "derision", "raw_note": "嘲弄", "normalized_terms": ["derision"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 306, "raw_term": "resentment", "raw_note": "忿恨", "normalized_terms": ["resentment"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 307, "raw_term": "dismissal", "raw_note": "解雇，驳回", "normalized_terms": ["dismissal"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 308, "raw_term": "didactic", "raw_note": "教学的，教导的", "normalized_terms": ["didactic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 309, "raw_term": "vengeful", "raw_note": "报复心重的", "normalized_terms": ["vengeful"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 310, "raw_term": "remedy", "raw_note": "药物治疗，补救", "normalized_terms": ["remedy"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 311, "raw_term": "visionary", "raw_note": "有幻想的，有远见的", "normalized_terms": ["visionary"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 312, "raw_term": "tether", "raw_note": "栓住，挂住", "normalized_terms": ["tether"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 313, "raw_term": "untethered", "raw_note": "不受束缚的", "normalized_terms": ["untethered"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 314, "raw_term": "divorced", "raw_note": "分离的，不相关的", "normalized_terms": ["divorced"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 315, "raw_term": "exact (= demand)", "raw_note": "苛求，强迫，要求", "normalized_terms": ["exact"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 316, "raw_term": "cordiality", "raw_note": "热诚", "normalized_terms": ["cordiality"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 317, "raw_term": "irascibility", "raw_note": "易怒，肝火", "normalized_terms": ["irascibility"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 318, "raw_term": "conviviality", "raw_note": "欢愉，高兴，欢乐", "normalized_terms": ["conviviality"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 319, "raw_term": "exasperation", "raw_note": "恼怒", "normalized_terms": ["exasperation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 325, "raw_term": "paucity", "raw_note": "lack (缺乏)", "normalized_terms": ["paucity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 326, "raw_term": "precede", "raw_note": "be before, earlier than (在...之前)", "normalized_terms": ["precede"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 327, "raw_term": "diminish", "raw_note": "decrease (减少)", "normalized_terms": ["diminish"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 328, "raw_term": "extirpate, eliminate", "raw_note": "消灭，灭绝", "normalized_terms": ["extirpate", "eliminate"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 329, "raw_term": "devalue", "raw_note": "贬值", "normalized_terms": ["devalue"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 330, "raw_term": "underrate", "raw_note": "评价过低", "normalized_terms": ["underrate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 331, "raw_term": "deflate", "raw_note": "(物价) 下降，通缩", "normalized_terms": ["deflate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 332, "raw_term": "rationalize", "raw_note": "使合理化", "normalized_terms": ["rationalize"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 333, "raw_term": "aberrant", "raw_note": "离开正路，异常的", "normalized_terms": ["aberrant"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 334, "raw_term": "efficacious", "raw_note": "effective (有效的)", "normalized_terms": ["efficacious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 335, "raw_term": "hackneyed", "raw_note": "陈腐的", "normalized_terms": ["hackneyed"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 336, "raw_term": "uncanny", "raw_note": "神秘的，离奇的", "normalized_terms": ["uncanny"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 337, "raw_term": "dictate", "raw_note": "规定，命令", "normalized_terms": ["dictate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 338, "raw_term": "transgress", "raw_note": "超越，违背", "normalized_terms": ["transgress"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 339, "raw_term": "exacerbate", "raw_note": "恶化", "normalized_terms": ["exacerbate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 340, "raw_term": "anthropomorphism", "raw_note": "拟人论", "normalized_terms": ["anthropomorphism"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 341, "raw_term": "petty", "raw_note": "琐碎的，小气的", "normalized_terms": ["petty"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 342, "raw_term": "incongruous", "raw_note": "不一致的", "normalized_terms": ["incongruous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 343, "raw_term": "encyclopedic", "raw_note": "百科全书般的", "normalized_terms": ["encyclopedic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 344, "raw_term": "premise", "raw_note": "前提", "normalized_terms": ["premise"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 345, "raw_term": "provocative", "raw_note": "煽动的", "normalized_terms": ["provocative"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 346, "raw_term": "stingy, parsimonious", "raw_note": "吝啬的", "normalized_terms": ["stingy", "parsimonious"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 347, "raw_term": "rehash", "raw_note": "改头换面，重提", "normalized_terms": ["rehash"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 348, "raw_term": "felicitous", "raw_note": "措辞恰当的", "normalized_terms": ["felicitous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 349, "raw_term": "astringent", "raw_note": "严厉的，收敛的", "normalized_terms": ["astringent"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 350, "raw_term": "hyperbolic", "raw_note": "双曲线的，夸张的", "normalized_terms": ["hyperbolic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 351, "raw_term": "founder on", "raw_note": "失败于...", "normalized_terms": ["founder on"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 352, "raw_term": "candid", "raw_note": "坦白直率的", "normalized_terms": ["candid"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 353, "raw_term": "flustered", "raw_note": "慌张的", "normalized_terms": ["flustered"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 354, "raw_term": "unexceptional", "raw_note": "非例外的，普通的", "normalized_terms": ["unexceptional"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 355, "raw_term": "conspicuous", "raw_note": "显著的", "normalized_terms": ["conspicuous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 356, "raw_term": "nondescript", "raw_note": "无明显特征的，难以归类的", "normalized_terms": ["nondescript"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 357, "raw_term": "at odds with", "raw_note": "相悖", "normalized_terms": ["at odds with"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 358, "raw_term": "flummoxed, confounded", "raw_note": "困惑的，慌乱的", "normalized_terms": ["flummoxed", "confounded"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 359, "raw_term": "tantamount", "raw_note": "等于，相当", "normalized_terms": ["tantamount"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 360, "raw_term": "perplexing", "raw_note": "使人困惑的，难解的", "normalized_terms": ["perplexing"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 361, "raw_term": "obtrusive", "raw_note": "爱管闲事的，显眼的", "normalized_terms": ["obtrusive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 362, "raw_term": "surreptitious", "raw_note": "私下的，秘密的", "normalized_terms": ["surreptitious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 363, "raw_term": "infringement", "raw_note": "侵权，违反", "normalized_terms": ["infringement"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 364, "raw_term": "comportment", "raw_note": "举止，行为", "normalized_terms": ["comportment"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 365, "raw_term": "receptivity", "raw_note": "感受力", "normalized_terms": ["receptivity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 366, "raw_term": "impotence", "raw_note": "无能为力，软弱", "normalized_terms": ["impotence"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 367, "raw_term": "enterprising", "raw_note": "有事业心，进取心的", "normalized_terms": ["enterprising"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 368, "raw_term": "rote", "raw_note": "死记硬背", "normalized_terms": ["rote"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 369, "raw_term": "task force", "raw_note": "特别工作组", "normalized_terms": ["task force"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 370, "raw_term": "backwater", "raw_note": "落后，死水", "normalized_terms": ["backwater"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 371, "raw_term": "coveted", "raw_note": "令人垂涎的", "normalized_terms": ["coveted"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 372, "raw_term": "lucrative", "raw_note": "有利可图的", "normalized_terms": ["lucrative"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 373, "raw_term": "seditious", "raw_note": "煽动性的", "normalized_terms": ["seditious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 374, "raw_term": "accommodating", "raw_note": "乐于助人的", "normalized_terms": ["accommodating"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 375, "raw_term": "proficient", "raw_note": "精通的", "normalized_terms": ["proficient"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 376, "raw_term": "opprobrium", "raw_note": "耻辱", "normalized_terms": ["opprobrium"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 377, "raw_term": "vituperation", "raw_note": "辱骂，责骂", "normalized_terms": ["vituperation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 378, "raw_term": "adulation", "raw_note": "阿谀奉承", "normalized_terms": ["adulation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 379, "raw_term": "lucubration", "raw_note": "刻苦钻研", "normalized_terms": ["lucubration"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 380, "raw_term": "reverence", "raw_note": "尊敬", "normalized_terms": ["reverence"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 381, "raw_term": "culprit", "raw_note": "被告人，犯人，罪魁祸首", "normalized_terms": ["culprit"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 387, "raw_term": "indulgence", "raw_note": "放纵，放任", "normalized_terms": ["indulgence"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 388, "raw_term": "dispel", "raw_note": "驱散", "normalized_terms": ["dispel"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 389, "raw_term": "feat", "raw_note": "功绩", "normalized_terms": ["feat"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 390, "raw_term": "contingent, circumstantial", "raw_note": "可能发生的，依情况而定的", "normalized_terms": ["contingent", "circumstantial"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 391, "raw_term": "proliferate", "raw_note": "增殖，激增", "normalized_terms": ["proliferate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 392, "raw_term": "spurious", "raw_note": "假的", "normalized_terms": ["spurious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 393, "raw_term": "disparity", "raw_note": "不同，差距", "normalized_terms": ["disparity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 394, "raw_term": "vacillation", "raw_note": "优柔寡断", "normalized_terms": ["vacillation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 395, "raw_term": "bemoan", "raw_note": "为...抱怨/悲叹", "normalized_terms": ["bemoan"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 396, "raw_term": "constituent", "raw_note": "成为构成部分的；选民", "normalized_terms": ["constituent"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 397, "raw_term": "altar", "raw_note": "祭坛", "normalized_terms": ["altar"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 398, "raw_term": "confer, conference", "raw_note": "商谈，赋予；会议", "normalized_terms": ["confer", "conference"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 399, "raw_term": "entail", "raw_note": "使...产生，带来", "normalized_terms": ["entail"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 400, "raw_term": "rote", "raw_note": "死记硬背", "normalized_terms": ["rote"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 401, "raw_term": "condone", "raw_note": "宽恕", "normalized_terms": ["condone"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 402, "raw_term": "equivocal, specious", "raw_note": "模棱两可的，似是而非的", "normalized_terms": ["equivocal", "specious"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 403, "raw_term": "superfluous", "raw_note": "多余的", "normalized_terms": ["superfluous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 404, "raw_term": "contract", "raw_note": "收缩；合同", "normalized_terms": ["contract"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 405, "raw_term": "unimpeachable", "raw_note": "无可指摘的", "normalized_terms": ["unimpeachable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 406, "raw_term": "notwithstanding", "raw_note": "尽管，虽然", "normalized_terms": ["notwithstanding"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 407, "raw_term": "vehement", "raw_note": "猛烈的，热烈的", "normalized_terms": ["vehement"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 408, "raw_term": "insipid", "raw_note": "淡而无味的", "normalized_terms": ["insipid"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 409, "raw_term": "captious", "raw_note": "吹毛求疵的", "normalized_terms": ["captious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 410, "raw_term": "cliquish", "raw_note": "小集团的，排外性的", "normalized_terms": ["cliquish"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 411, "raw_term": "solidarity, camaraderie", "raw_note": "团结，情谊", "normalized_terms": ["solidarity", "camaraderie"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 412, "raw_term": "bemuse", "raw_note": "使困惑", "normalized_terms": ["bemuse"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 413, "raw_term": "abound", "raw_note": "充满，富于", "normalized_terms": ["abound"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 414, "raw_term": "dispassionately", "raw_note": "平心静气地，客观地", "normalized_terms": ["dispassionately"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 415, "raw_term": "evocative", "raw_note": "唤起的，激起的", "normalized_terms": ["evocative"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 416, "raw_term": "obtrusive", "raw_note": "多管闲事的，显眼的", "normalized_terms": ["obtrusive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 417, "raw_term": "conspicuous", "raw_note": "显眼的，显著的", "normalized_terms": ["conspicuous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 418, "raw_term": "heterogeneous", "raw_note": "异质的，不同的", "normalized_terms": ["heterogeneous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 419, "raw_term": "extraneous", "raw_note": "外来的，无关的", "normalized_terms": ["extraneous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 420, "raw_term": "paltry", "raw_note": "无价值的，微小的", "normalized_terms": ["paltry"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 421, "raw_term": "meager", "raw_note": "缺乏的，不足的", "normalized_terms": ["meager"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 422, "raw_term": "copious", "raw_note": "丰富的，大量的", "normalized_terms": ["copious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 423, "raw_term": "gaiety", "raw_note": "愉悦，快乐", "normalized_terms": ["gaiety"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 424, "raw_term": "mirthful", "raw_note": "愉快的", "normalized_terms": ["mirthful"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 425, "raw_term": "heterogeneity", "raw_note": "异质性", "normalized_terms": ["heterogeneity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 426, "raw_term": "provenance", "raw_note": "起源，出处", "normalized_terms": ["provenance"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 427, "raw_term": "cougar", "raw_note": "美洲狮", "normalized_terms": ["cougar"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 428, "raw_term": "carnivores", "raw_note": "食肉动物", "normalized_terms": ["carnivores"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 429, "raw_term": "bobcat", "raw_note": "山猫", "normalized_terms": ["bobcat"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 430, "raw_term": "obscure", "raw_note": "使模糊不清，掩盖", "normalized_terms": ["obscure"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 431, "raw_term": "preclude", "raw_note": "阻止", "normalized_terms": ["preclude"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 432, "raw_term": "abate", "raw_note": "减少，减弱", "normalized_terms": ["abate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 433, "raw_term": "artificial", "raw_note": "虚假的，造作的，人造的", "normalized_terms": ["artificial"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 434, "raw_term": "entity", "raw_note": "存在物，实体", "normalized_terms": ["entity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 435, "raw_term": "exacting", "raw_note": "苛求的，严厉的 (dour)", "normalized_terms": ["exacting"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 436, "raw_term": "rule out, preclude", "raw_note": "排除，阻止", "normalized_terms": ["rule out", "preclude"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 437, "raw_term": "ingenuousness", "raw_note": "正直，坦率", "normalized_terms": ["ingenuousness"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 438, "raw_term": "duplicity", "raw_note": "表里不一，奸诈", "normalized_terms": ["duplicity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 439, "raw_term": "dissimulation / dissemblance", "raw_note": "虚饰伪装", "normalized_terms": ["dissimulation", "dissemblance"], "relation": "slash_group", "lemmas": {}, "review_flags": ["ambiguous_term"]}
+{"source_file": "verbalword.md", "source_line": 440, "raw_term": "cronyism, nepotism", "raw_note": "任人唯亲，裙带关系", "normalized_terms": ["cronyism", "nepotism"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 441, "raw_term": "probity", "raw_note": "正直", "normalized_terms": ["probity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 442, "raw_term": "generates, originate", "raw_note": "均有“产生”之意", "normalized_terms": ["generates", "originate"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 443, "raw_term": "husband", "raw_note": "节俭地使用", "normalized_terms": ["husband"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 444, "raw_term": "abdicate", "raw_note": "放弃，退位", "normalized_terms": ["abdicate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 445, "raw_term": "fastidious", "raw_note": "苛刻的，吹毛求疵的", "normalized_terms": ["fastidious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 446, "raw_term": "abstruse", "raw_note": "深奥的", "normalized_terms": ["abstruse"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 447, "raw_term": "ironic", "raw_note": "讽刺的", "normalized_terms": ["ironic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 448, "raw_term": "impeccable", "raw_note": "无瑕的", "normalized_terms": ["impeccable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 449, "raw_term": "esoteric", "raw_note": "密传的，深奥的", "normalized_terms": ["esoteric"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 450, "raw_term": "impervious", "raw_note": "不可渗透的，不受影响的", "normalized_terms": ["impervious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 451, "raw_term": "specious", "raw_note": "似是而非的", "normalized_terms": ["specious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 452, "raw_term": "imprecise", "raw_note": "不精确的", "normalized_terms": ["imprecise"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 453, "raw_term": "dwell", "raw_note": "居住", "normalized_terms": ["dwell"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 454, "raw_term": "mimicry", "raw_note": "(生物) 拟态", "normalized_terms": ["mimicry"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 455, "raw_term": "predation", "raw_note": "掠夺行为，捕食", "normalized_terms": ["predation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 456, "raw_term": "cling", "raw_note": "附着于", "normalized_terms": ["cling"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 457, "raw_term": "twig", "raw_note": "嫩枝", "normalized_terms": ["twig"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 458, "raw_term": "strategy", "raw_note": "战略学，策略", "normalized_terms": ["strategy"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 459, "raw_term": "vigilance", "raw_note": "警戒，警惕", "normalized_terms": ["vigilance"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 460, "raw_term": "agility", "raw_note": "敏捷", "normalized_terms": ["agility"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 461, "raw_term": "camouflage", "raw_note": "伪装", "normalized_terms": ["camouflage"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 462, "raw_term": "conflate", "raw_note": "混淆，合并", "normalized_terms": ["conflate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 463, "raw_term": "defunct", "raw_note": "死的，失效的", "normalized_terms": ["defunct"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 464, "raw_term": "sublime", "raw_note": "庄严的，崇高的", "normalized_terms": ["sublime"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 465, "raw_term": "idiosyncratic", "raw_note": "乖僻的，特异的", "normalized_terms": ["idiosyncratic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 466, "raw_term": "doleful", "raw_note": "悲哀的", "normalized_terms": ["doleful"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 467, "raw_term": "lugubrious", "raw_note": "悲哀的，阴郁的", "normalized_terms": ["lugubrious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 468, "raw_term": "whimper", "raw_note": "啜泣，呜咽", "normalized_terms": ["whimper"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 469, "raw_term": "tenor", "raw_note": "趋向，男高音", "normalized_terms": ["tenor"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 470, "raw_term": "wail", "raw_note": "哭号", "normalized_terms": ["wail"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 471, "raw_term": "veer", "raw_note": "突然改变方向", "normalized_terms": ["veer"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 472, "raw_term": "nebulous", "raw_note": "朦胧的，含糊的", "normalized_terms": ["nebulous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 473, "raw_term": "unwonted", "raw_note": "不寻常的", "normalized_terms": ["unwonted"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 474, "raw_term": "dubious", "raw_note": "怀疑的", "normalized_terms": ["dubious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 475, "raw_term": "quotidian", "raw_note": "平凡的，日常的", "normalized_terms": ["quotidian"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 476, "raw_term": "aloof", "raw_note": "冷淡的", "normalized_terms": ["aloof"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 477, "raw_term": "taciturn", "raw_note": "沉默寡言的", "normalized_terms": ["taciturn"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 478, "raw_term": "officious", "raw_note": "好管闲事的", "normalized_terms": ["officious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 479, "raw_term": "irenic", "raw_note": "和平的", "normalized_terms": ["irenic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 480, "raw_term": "punctilious", "raw_note": "拘谨的，小心的", "normalized_terms": ["punctilious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 481, "raw_term": "conflicting", "raw_note": "相矛盾的", "normalized_terms": ["conflicting"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 482, "raw_term": "degradation", "raw_note": "退化，降级", "normalized_terms": ["degradation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 483, "raw_term": "segregation", "raw_note": "隔离", "normalized_terms": ["segregation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 484, "raw_term": "dictum, aphorism", "raw_note": "格言", "normalized_terms": ["dictum", "aphorism"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 485, "raw_term": "entrenched", "raw_note": "(权利、传统等) 确立的，根深蒂固的", "normalized_terms": ["entrenched"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 486, "raw_term": "tweak", "raw_note": "拧，捏，稍稍调整", "normalized_terms": ["tweak"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 487, "raw_term": "elaborate", "raw_note": "精心的，详细的，精巧的", "normalized_terms": ["elaborate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 488, "raw_term": "supersede, supplant", "raw_note": "取代", "normalized_terms": ["supersede", "supplant"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 489, "raw_term": "expedient", "raw_note": "权宜的，方便的", "normalized_terms": ["expedient"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 490, "raw_term": "defraud", "raw_note": "欺诈", "normalized_terms": ["defraud"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 491, "raw_term": "dwindle / swindle", "raw_note": "减少 / 骗局", "normalized_terms": ["dwindle", "swindle"], "relation": "slash_group", "lemmas": {}, "review_flags": ["ambiguous_term"]}
+{"source_file": "verbalword.md", "source_line": 492, "raw_term": "defame", "raw_note": "诽谤", "normalized_terms": ["defame"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 498, "raw_term": "fastidious", "raw_note": "苛求的，吹毛求疵的", "normalized_terms": ["fastidious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 499, "raw_term": "abstruse", "raw_note": "深奥的，难解的", "normalized_terms": ["abstruse"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 500, "raw_term": "impervious", "raw_note": "不可渗透的，不受影响的", "normalized_terms": ["impervious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 501, "raw_term": "specious", "raw_note": "seeming right or true but actually wrong or false (似是而非的)", "normalized_terms": ["specious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 502, "raw_term": "false, hollow, erroneous, inaccurate, fallacious", "raw_note": "虚假的，错误的", "normalized_terms": ["false", "hollow", "erroneous", "inaccurate", "fallacious"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 503, "raw_term": "pernicious, lethal", "raw_note": "有害的，致命的", "normalized_terms": ["pernicious", "lethal"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 504, "raw_term": "overthrow", "raw_note": "推翻，覆灭", "normalized_terms": ["overthrow"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 505, "raw_term": "cur", "raw_note": "野狗，无赖", "normalized_terms": ["cur"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 506, "raw_term": "placate", "raw_note": "抚慰，平息", "normalized_terms": ["placate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 507, "raw_term": "expiation", "raw_note": "赎罪，补偿", "normalized_terms": ["expiation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 508, "raw_term": "umbrage", "raw_note": "生气，愤怒", "normalized_terms": ["umbrage"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 509, "raw_term": "torpor", "raw_note": "迟钝，不活泼", "normalized_terms": ["torpor"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 510, "raw_term": "obscure", "raw_note": "隐藏，模糊；朦胧的，晦涩的", "normalized_terms": ["obscure"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 511, "raw_term": "dissemble", "raw_note": "假装，掩饰", "normalized_terms": ["dissemble"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 512, "raw_term": "mendacity", "raw_note": "谎言", "normalized_terms": ["mendacity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 513, "raw_term": "miserliness", "raw_note": "吝啬 (from miserly: mean, stingy, tightfisted, miserable, penny-pinching)", "normalized_terms": ["miserliness"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 514, "raw_term": "discount", "raw_note": "折扣，不全信，持怀疑态度", "normalized_terms": ["discount"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 515, "raw_term": "revelatory", "raw_note": "启示性的", "normalized_terms": ["revelatory"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 516, "raw_term": "abound", "raw_note": "充满，富于", "normalized_terms": ["abound"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 517, "raw_term": "bulwark", "raw_note": "防御，堡垒", "normalized_terms": ["bulwark"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 518, "raw_term": "disenchanted", "raw_note": "不再抱幻想的，不再着迷的", "normalized_terms": ["disenchanted"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 519, "raw_term": "corroborate", "raw_note": "支持，证实", "normalized_terms": ["corroborate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 520, "raw_term": "indebted (to)", "raw_note": "欠债的，受深远影响的", "normalized_terms": ["indebted to"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 521, "raw_term": "conundrum", "raw_note": "谜，猜不透的难题", "normalized_terms": ["conundrum"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 522, "raw_term": "ephemera", "raw_note": "蜉蝣，生命短暂之物", "normalized_terms": ["ephemera"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 523, "raw_term": "candid, frank", "raw_note": "坦白的，直率的", "normalized_terms": ["candid", "frank"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 524, "raw_term": "faithful, loyal, devoted, trustworthy, dependable", "raw_note": "忠诚的，可靠的", "normalized_terms": ["faithful", "loyal", "devoted", "trustworthy", "dependable"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 525, "raw_term": "rigorous", "raw_note": "严格的，严密的", "normalized_terms": ["rigorous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 526, "raw_term": "sober", "raw_note": "清醒的", "normalized_terms": ["sober"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 527, "raw_term": "unsentimental", "raw_note": "不动感情的", "normalized_terms": ["unsentimental"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 528, "raw_term": "humble", "raw_note": "谦逊的", "normalized_terms": ["humble"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 529, "raw_term": "supercilious", "raw_note": "arrogant, contemptuous, disdainful, pompous, condescending (高傲的，傲慢的)", "normalized_terms": ["supercilious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 530, "raw_term": "prolixity", "raw_note": "prolix, wordy, verbose, protracted, flowery, long-winded (冗长)", "normalized_terms": ["prolixity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 531, "raw_term": "aplomb", "raw_note": "自信 (composure, cool, assurance)", "normalized_terms": ["aplomb"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 532, "raw_term": "oversight", "raw_note": "疏忽，监督", "normalized_terms": ["oversight"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 533, "raw_term": "exoplanet", "raw_note": "外行星，外星球", "normalized_terms": ["exoplanet"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 534, "raw_term": "occult", "raw_note": "神秘的，使变暗，隐蔽", "normalized_terms": ["occult"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 535, "raw_term": "symbiotic, interdependent", "raw_note": "共生的，相互依赖的", "normalized_terms": ["symbiotic", "interdependent"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 536, "raw_term": "didactic", "raw_note": "教学的，迂腐的", "normalized_terms": ["didactic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 537, "raw_term": "disregard", "raw_note": "不理会，忽视", "normalized_terms": ["disregard"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 538, "raw_term": "retribution", "raw_note": "应得的惩罚，报复，报答", "normalized_terms": ["retribution"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 539, "raw_term": "forswear", "raw_note": "放弃，发誓否定 (renounce)", "normalized_terms": ["forswear"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 540, "raw_term": "renounce", "raw_note": "宣布放弃", "normalized_terms": ["renounce"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 541, "raw_term": "denounce", "raw_note": "谴责", "normalized_terms": ["denounce"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 542, "raw_term": "helix", "raw_note": "螺旋 (double helix of DNA)", "normalized_terms": ["helix"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 543, "raw_term": "preemptive", "raw_note": "先发制人的 (preventive, proactive, anticipatory, blocking and reactive)", "normalized_terms": ["preemptive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 544, "raw_term": "expeditious", "raw_note": "敏捷的，迅速的", "normalized_terms": ["expeditious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 545, "raw_term": "inexhaustible", "raw_note": "无穷无尽的", "normalized_terms": ["inexhaustible"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 546, "raw_term": "contention", "raw_note": "争论，观点", "normalized_terms": ["contention"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 547, "raw_term": "compunction", "raw_note": "regret, scruple, reluctance, qualm, second thoughts (悔恨，顾虑)", "normalized_terms": ["compunction"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 548, "raw_term": "strew", "raw_note": "散播，洒", "normalized_terms": ["strew"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 549, "raw_term": "douse", "raw_note": "熄灭，泼水，浸液体里 (drench, soak, souse)", "normalized_terms": ["douse"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 550, "raw_term": "appropriate", "raw_note": "v. 拨款，占用，私吞", "normalized_terms": ["appropriate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 551, "raw_term": "eschew", "raw_note": "避开，远离", "normalized_terms": ["eschew"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 552, "raw_term": "emulate", "raw_note": "imitate, follow, mimic (模仿，效仿)", "normalized_terms": ["emulate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 553, "raw_term": "covert", "raw_note": "隐秘的", "normalized_terms": ["covert"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 554, "raw_term": "covet", "raw_note": "crave, hanker (觊觎，垂涎)", "normalized_terms": ["covet"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 555, "raw_term": "calumny", "raw_note": "slander, defamation, denigration, misrepresentation (诽谤，中伤)", "normalized_terms": ["calumny"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 556, "raw_term": "caricature", "raw_note": "漫画，漫画手法，夸张的描述", "normalized_terms": ["caricature"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 557, "raw_term": "digression", "raw_note": "离题", "normalized_terms": ["digression"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 558, "raw_term": "amalgamation", "raw_note": "混合，合并", "normalized_terms": ["amalgamation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 559, "raw_term": "exogenous", "raw_note": "外生的，外成的，外因的", "normalized_terms": ["exogenous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 560, "raw_term": "proscribe", "raw_note": "禁止，剥夺公权", "normalized_terms": ["proscribe"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 561, "raw_term": "dissimulation", "raw_note": "掩饰，虚伪，装糊涂", "normalized_terms": ["dissimulation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 562, "raw_term": "contagion", "raw_note": "传染，蔓延", "normalized_terms": ["contagion"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 563, "raw_term": "quizzical", "raw_note": "疑问的，戏弄的", "normalized_terms": ["quizzical"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 564, "raw_term": "ecstatic, rapturous", "raw_note": "狂喜的", "normalized_terms": ["ecstatic", "rapturous"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 565, "raw_term": "raucous", "raw_note": "喧闹的，刺耳的", "normalized_terms": ["raucous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 566, "raw_term": "incredulous", "raw_note": "不轻信的，怀疑的", "normalized_terms": ["incredulous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 567, "raw_term": "vehemence", "raw_note": "热切，强烈，激烈", "normalized_terms": ["vehemence"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 573, "raw_term": "bifurcation", "raw_note": "双分，二分状态，分叉", "normalized_terms": ["bifurcation"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 574, "raw_term": "conceal", "raw_note": "隐藏", "normalized_terms": ["conceal"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 575, "raw_term": "consolidate", "raw_note": "巩固，合并", "normalized_terms": ["consolidate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 576, "raw_term": "lyricism", "raw_note": "抒情", "normalized_terms": ["lyricism"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 577, "raw_term": "handicap", "raw_note": "残疾，障碍", "normalized_terms": ["handicap"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 578, "raw_term": "purview", "raw_note": "范围，眼界", "normalized_terms": ["purview"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 579, "raw_term": "ramification", "raw_note": "分支，后果，影响", "normalized_terms": ["ramification"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 580, "raw_term": "cumulative", "raw_note": "累积的", "normalized_terms": ["cumulative"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 581, "raw_term": "simmer", "raw_note": "充满势将爆发的，炖", "normalized_terms": ["simmer"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 582, "raw_term": "revanchism", "raw_note": "复仇主义", "normalized_terms": ["revanchism"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 583, "raw_term": "ruthless", "raw_note": "无情的", "normalized_terms": ["ruthless"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 584, "raw_term": "judicious", "raw_note": "精明的，有见地的", "normalized_terms": ["judicious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 585, "raw_term": "jaded", "raw_note": "精疲力竭的，厌烦的", "normalized_terms": ["jaded"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 586, "raw_term": "rapacity", "raw_note": "掠夺，贪婪 (reciprocity: 回报)", "normalized_terms": ["rapacity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 587, "raw_term": "meddle", "raw_note": "干涉", "normalized_terms": ["meddle"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 588, "raw_term": "authoritative / definitive", "raw_note": "权威的，决定性的", "normalized_terms": ["authoritative", "definitive"], "relation": "slash_group", "lemmas": {}, "review_flags": ["ambiguous_term"]}
+{"source_file": "verbalword.md", "source_line": 589, "raw_term": "subvert", "raw_note": "颠覆，推翻", "normalized_terms": ["subvert"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 590, "raw_term": "discrete", "raw_note": "分离的，独立的", "normalized_terms": ["discrete"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 591, "raw_term": "ominous", "raw_note": "预兆的，不吉利的", "normalized_terms": ["ominous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 597, "raw_term": "attendant upon", "raw_note": "伴随的", "normalized_terms": ["attendant upon"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 598, "raw_term": "lexical", "raw_note": "词汇的", "normalized_terms": ["lexical"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 599, "raw_term": "rebound", "raw_note": "弹回，反弹", "normalized_terms": ["rebound"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 600, "raw_term": "amphibian", "raw_note": "两栖动物", "normalized_terms": ["amphibian"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 601, "raw_term": "effluvium", "raw_note": "臭气，恶臭", "normalized_terms": ["effluvium"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 602, "raw_term": "statute", "raw_note": "法规", "normalized_terms": ["statute"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 603, "raw_term": "incidental", "raw_note": "偶然的，附带的", "normalized_terms": ["incidental"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 604, "raw_term": "thwarted", "raw_note": "阻挠", "normalized_terms": ["thwarted"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 605, "raw_term": "conventional, mainstream", "raw_note": "传统的，主流的", "normalized_terms": ["conventional", "mainstream"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 606, "raw_term": "overrated", "raw_note": "估计过高的", "normalized_terms": ["overrated"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 607, "raw_term": "grandiloquent", "raw_note": "夸张的，夸大的", "normalized_terms": ["grandiloquent"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 608, "raw_term": "edifying", "raw_note": "有教训意味的，开导的", "normalized_terms": ["edifying"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 609, "raw_term": "obstreperous", "raw_note": "喧嚣的，吵闹的", "normalized_terms": ["obstreperous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 610, "raw_term": "endearing", "raw_note": "讨人喜欢的", "normalized_terms": ["endearing"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 611, "raw_term": "subtle", "raw_note": "细腻精妙的", "normalized_terms": ["subtle"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 612, "raw_term": "affected", "raw_note": "装模作样的", "normalized_terms": ["affected"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 613, "raw_term": "constitution", "raw_note": "宪法，体质，构成", "normalized_terms": ["constitution"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 614, "raw_term": "oracular", "raw_note": "神谕的，庄严的", "normalized_terms": ["oracular"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 615, "raw_term": "mediocrity", "raw_note": "平庸", "normalized_terms": ["mediocrity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 616, "raw_term": "tautology", "raw_note": "同义反复，恒真命题", "normalized_terms": ["tautology"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 617, "raw_term": "inextricable", "raw_note": "无法摆脱的", "normalized_terms": ["inextricable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 618, "raw_term": "impervious", "raw_note": "无法穿透的，不受影响的", "normalized_terms": ["impervious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 619, "raw_term": "choreograph", "raw_note": "设计舞蹈动作", "normalized_terms": ["choreograph"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 620, "raw_term": "rattle", "raw_note": "发出敲击声；使慌乱", "normalized_terms": ["rattle"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 621, "raw_term": "mix-up", "raw_note": "混乱，混战", "normalized_terms": ["mix-up"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 622, "raw_term": "hodgepodge, pastiche", "raw_note": "大杂烩", "normalized_terms": ["hodgepodge", "pastiche"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 623, "raw_term": "proclivity, disposition", "raw_note": "倾向", "normalized_terms": ["proclivity", "disposition"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 624, "raw_term": "concede", "raw_note": "承认", "normalized_terms": ["concede"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 625, "raw_term": "sanguine", "raw_note": "乐天的，红润的", "normalized_terms": ["sanguine"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 626, "raw_term": "apathetic", "raw_note": "冷淡的", "normalized_terms": ["apathetic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 627, "raw_term": "unrelenting", "raw_note": "严厉的，不屈不挠的", "normalized_terms": ["unrelenting"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 628, "raw_term": "accentuate", "raw_note": "重读，强调", "normalized_terms": ["accentuate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 629, "raw_term": "incisive", "raw_note": "深刻的，尖锐的", "normalized_terms": ["incisive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 630, "raw_term": "tantalizing", "raw_note": "挑逗性的，迷人的", "normalized_terms": ["tantalizing"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 631, "raw_term": "trenchant", "raw_note": "犀利的", "normalized_terms": ["trenchant"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 632, "raw_term": "derision", "raw_note": "嘲弄", "normalized_terms": ["derision"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 633, "raw_term": "resentment", "raw_note": "忿恨", "normalized_terms": ["resentment"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 634, "raw_term": "dismissal", "raw_note": "解雇，驳回", "normalized_terms": ["dismissal"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 635, "raw_term": "conviction", "raw_note": "确信，定罪", "normalized_terms": ["conviction"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 636, "raw_term": "impediment", "raw_note": "妨碍", "normalized_terms": ["impediment"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 637, "raw_term": "harbinger", "raw_note": "预兆", "normalized_terms": ["harbinger"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 638, "raw_term": "hedonist", "raw_note": "快乐主义者", "normalized_terms": ["hedonist"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 639, "raw_term": "terrible bore", "raw_note": "无聊透顶", "normalized_terms": ["terrible bore"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 640, "raw_term": "gregarious", "raw_note": "合群的", "normalized_terms": ["gregarious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 641, "raw_term": "insipid, bland", "raw_note": "淡而无味的", "normalized_terms": ["insipid", "bland"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 642, "raw_term": "imperious", "raw_note": "专横的", "normalized_terms": ["imperious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 643, "raw_term": "labyrinthine", "raw_note": "迷宫式的，曲折的", "normalized_terms": ["labyrinthine"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 644, "raw_term": "ablaze", "raw_note": "着火的", "normalized_terms": ["ablaze"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 645, "raw_term": "obsessive", "raw_note": "着迷的，强迫性的，难释怀的", "normalized_terms": ["obsessive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 646, "raw_term": "alleged", "raw_note": "声称的，可疑的", "normalized_terms": ["alleged"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 647, "raw_term": "interminably", "raw_note": "漫无止境的，没完没了的", "normalized_terms": ["interminably"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 648, "raw_term": "heavy-handed", "raw_note": "手段强硬的，拙劣的", "normalized_terms": ["heavy-handed"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 649, "raw_term": "reminiscences", "raw_note": "怀旧，回忆录", "normalized_terms": ["reminiscences"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 655, "raw_term": "furtive", "raw_note": "偷偷摸摸的", "normalized_terms": ["furtive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 656, "raw_term": "eccentric", "raw_note": "古怪的", "normalized_terms": ["eccentric"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 657, "raw_term": "impunity", "raw_note": "免受惩罚", "normalized_terms": ["impunity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 658, "raw_term": "incentive, motivation, inducement, spur", "raw_note": "动机，刺激，鼓励", "normalized_terms": ["incentive", "motivation", "inducement", "spur"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 659, "raw_term": "dismiss", "raw_note": "解雇，驳回", "normalized_terms": ["dismiss"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 660, "raw_term": "snobbery", "raw_note": "势利，摆架子 (a. snobbish)", "normalized_terms": ["snobbery"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 661, "raw_term": "exotic", "raw_note": "异国的", "normalized_terms": ["exotic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 662, "raw_term": "miscellaneous", "raw_note": "各种各样的，杂项的", "normalized_terms": ["miscellaneous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 663, "raw_term": "erratic", "raw_note": "古怪的，反复无常的", "normalized_terms": ["erratic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 664, "raw_term": "expedient", "raw_note": "权宜的，方便的", "normalized_terms": ["expedient"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 665, "raw_term": "facetious", "raw_note": "幽默的，滑稽的", "normalized_terms": ["facetious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 666, "raw_term": "solidify", "raw_note": "使成为固体，巩固", "normalized_terms": ["solidify"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 667, "raw_term": "antithesis, paradox", "raw_note": "对立，矛盾", "normalized_terms": ["antithesis", "paradox"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 668, "raw_term": "avatar", "raw_note": "化身", "normalized_terms": ["avatar"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 669, "raw_term": "anodyne", "raw_note": "止痛剂", "normalized_terms": ["anodyne"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 670, "raw_term": "trump", "raw_note": "胜过", "normalized_terms": ["trump"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 671, "raw_term": "underwrite", "raw_note": "承保，签划", "normalized_terms": ["underwrite"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 672, "raw_term": "notoriety", "raw_note": "恶名", "normalized_terms": ["notoriety"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 673, "raw_term": "retrospective, surveying", "raw_note": "追溯的，回顾的", "normalized_terms": ["retrospective", "surveying"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 674, "raw_term": "plagued by", "raw_note": "受...干扰/折磨", "normalized_terms": ["plagued by"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 675, "raw_term": "hindsight", "raw_note": "事后诸葛亮，后见之明", "normalized_terms": ["hindsight"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 676, "raw_term": "incidental, related, accompanying", "raw_note": "附带发生的，次要的，非有意的，偶然的", "normalized_terms": ["incidental", "related", "accompanying"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 677, "raw_term": "subsidiary", "raw_note": "辅助的，次要的", "normalized_terms": ["subsidiary"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 678, "raw_term": "counterpart, parallel", "raw_note": "对应物，平行物", "normalized_terms": ["counterpart", "parallel"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 679, "raw_term": "streamline", "raw_note": "简化，精简", "normalized_terms": ["streamline"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 680, "raw_term": "encumber", "raw_note": "阻碍，负担", "normalized_terms": ["encumber"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 681, "raw_term": "buttress, support", "raw_note": "支持", "normalized_terms": ["buttress", "support"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 682, "raw_term": "extraneous", "raw_note": "外来的，无关的", "normalized_terms": ["extraneous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 683, "raw_term": "oblivious", "raw_note": "不注意的，忘却的", "normalized_terms": ["oblivious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 684, "raw_term": "prevent, preclude, obscure", "raw_note": "阻止，隐藏，使模糊", "normalized_terms": ["prevent", "preclude", "obscure"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 685, "raw_term": "pastime", "raw_note": "消遣，娱乐", "normalized_terms": ["pastime"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 686, "raw_term": "disreputable, notorious", "raw_note": "声名狼藉的", "normalized_terms": ["disreputable", "notorious"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 687, "raw_term": "reputable", "raw_note": "声誉好的", "normalized_terms": ["reputable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 688, "raw_term": "repute", "raw_note": "声誉，认为，评价", "normalized_terms": ["repute"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 689, "raw_term": "repudiate", "raw_note": "拒绝承认，断绝关系", "normalized_terms": ["repudiate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 690, "raw_term": "eccentric", "raw_note": "a. n. 古怪的 (人)", "normalized_terms": ["eccentric"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 691, "raw_term": "disquieting", "raw_note": "令人不安的", "normalized_terms": ["disquieting"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 692, "raw_term": "dilettante", "raw_note": "玩赏家，半吊子，业余爱好者", "normalized_terms": ["dilettante"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 693, "raw_term": "unassailable, airtight", "raw_note": "无懈可击的，密不透风的", "normalized_terms": ["unassailable", "airtight"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 694, "raw_term": "resentment", "raw_note": "忿恨", "normalized_terms": ["resentment"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 695, "raw_term": "dismissal", "raw_note": "驳回，解雇", "normalized_terms": ["dismissal"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 696, "raw_term": "esteem", "raw_note": "尊敬", "normalized_terms": ["esteem"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 697, "raw_term": "forthcoming", "raw_note": "坦诚的，即将来临的", "normalized_terms": ["forthcoming"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 698, "raw_term": "gregarious", "raw_note": "合群的", "normalized_terms": ["gregarious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 699, "raw_term": "dismiss", "raw_note": "解散，排除，对...不屑一顾", "normalized_terms": ["dismiss"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 700, "raw_term": "spontaneous", "raw_note": "自发的", "normalized_terms": ["spontaneous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 701, "raw_term": "conceit", "raw_note": "自负，骄傲", "normalized_terms": ["conceit"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 702, "raw_term": "clarify, illuminate", "raw_note": "说明，阐明", "normalized_terms": ["clarify", "illuminate"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 703, "raw_term": "auto company", "raw_note": "汽车制造厂", "normalized_terms": ["auto company"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 704, "raw_term": "inimical", "raw_note": "敌意的，有害的", "normalized_terms": ["inimical"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 705, "raw_term": "autocratic", "raw_note": "独裁的，专断的", "normalized_terms": ["autocratic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 706, "raw_term": "bristle", "raw_note": "刚毛；发怒，竖起", "normalized_terms": ["bristle"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 707, "raw_term": "prosecutor", "raw_note": "起诉人，检察官", "normalized_terms": ["prosecutor"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 708, "raw_term": "hardboiled", "raw_note": "不动感情的，强硬的", "normalized_terms": ["hardboiled"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 709, "raw_term": "retard", "raw_note": "延迟，阻碍", "normalized_terms": ["retard"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 710, "raw_term": "idiosyncratic", "raw_note": "怪异的，特有的", "normalized_terms": ["idiosyncratic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 711, "raw_term": "intercept", "raw_note": "截取，拦截", "normalized_terms": ["intercept"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 712, "raw_term": "proffer, provide", "raw_note": "提供", "normalized_terms": ["proffer", "provide"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 713, "raw_term": "revel", "raw_note": "作乐，狂欢，着迷 n. v.", "normalized_terms": ["revel"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 714, "raw_term": "exiguity", "raw_note": "微小，稀少", "normalized_terms": ["exiguity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 715, "raw_term": "vindicate", "raw_note": "澄清，证实", "normalized_terms": ["vindicate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 716, "raw_term": "downplay", "raw_note": "贬低，轻视", "normalized_terms": ["downplay"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 717, "raw_term": "alarmist", "raw_note": "危言耸听者", "normalized_terms": ["alarmist"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 718, "raw_term": "judicious", "raw_note": "有判断力的，明智的", "normalized_terms": ["judicious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 719, "raw_term": "dispense", "raw_note": "分发，免除", "normalized_terms": ["dispense"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 720, "raw_term": "contingency", "raw_note": "意外事故，可能性，偶发事件", "normalized_terms": ["contingency"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 721, "raw_term": "inexplicable", "raw_note": "无法说明的，费解的", "normalized_terms": ["inexplicable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 722, "raw_term": "expediency", "raw_note": "适宜，方便，合算，利己", "normalized_terms": ["expediency"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 728, "raw_term": "disservice", "raw_note": "伤害，虐待，不当行为", "normalized_terms": ["disservice"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 729, "raw_term": "claptrap", "raw_note": "讨好的，应酬的噱头", "normalized_terms": ["claptrap"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 730, "raw_term": "supercilious", "raw_note": "高傲的", "normalized_terms": ["supercilious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 731, "raw_term": "predicament", "raw_note": "difficulty, quandary, pickle (困境)", "normalized_terms": ["predicament"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 732, "raw_term": "unpretentious", "raw_note": "不炫耀的，朴素的", "normalized_terms": ["unpretentious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 733, "raw_term": "capacious", "raw_note": "容量大的，宽敞的", "normalized_terms": ["capacious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 734, "raw_term": "elucidation, explication, illumination", "raw_note": "说明，阐明", "normalized_terms": ["elucidation", "explication", "illumination"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 735, "raw_term": "culmination, peak, zenith, finale", "raw_note": "顶点，终点，高潮", "normalized_terms": ["culmination", "peak", "zenith", "finale"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 736, "raw_term": "divination", "raw_note": "预言，占卜", "normalized_terms": ["divination"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 737, "raw_term": "illustrious", "raw_note": "辉煌的，著名的", "normalized_terms": ["illustrious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 738, "raw_term": "feigned", "raw_note": "假装的，虚构的", "normalized_terms": ["feigned"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 739, "raw_term": "kilt", "raw_note": "苏格兰短裙", "normalized_terms": ["kilt"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 740, "raw_term": "lucid, articulate, pellucid", "raw_note": "表达清晰的，易懂的", "normalized_terms": ["lucid", "articulate", "pellucid"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 741, "raw_term": "indefatigably", "raw_note": "不厌倦地，不屈不挠地", "normalized_terms": ["indefatigably"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 742, "raw_term": "wallow", "raw_note": "沉迷，打滚", "normalized_terms": ["wallow"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 743, "raw_term": "dispersed", "raw_note": "分散的", "normalized_terms": ["dispersed"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 744, "raw_term": "irreverent", "raw_note": "不尊敬的", "normalized_terms": ["irreverent"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 745, "raw_term": "censorious", "raw_note": "吹毛求疵的，挑剔的", "normalized_terms": ["censorious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 746, "raw_term": "boorish", "raw_note": "粗野的，粗鲁的", "normalized_terms": ["boorish"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 747, "raw_term": "forbear", "raw_note": "克制，忍耐", "normalized_terms": ["forbear"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 748, "raw_term": "arbitrariness", "raw_note": "任意，专断", "normalized_terms": ["arbitrariness"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 749, "raw_term": "broach", "raw_note": "提出，开始讨论，扩孔器", "normalized_terms": ["broach"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 750, "raw_term": "impatient, keen", "raw_note": "急切的，热心的", "normalized_terms": ["impatient", "keen"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 751, "raw_term": "repudiate", "raw_note": "正式否认，拒绝", "normalized_terms": ["repudiate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 752, "raw_term": "supersede", "raw_note": "取代", "normalized_terms": ["supersede"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 753, "raw_term": "recapitulate", "raw_note": "总结，概括", "normalized_terms": ["recapitulate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 754, "raw_term": "codify", "raw_note": "编成法典，编纂", "normalized_terms": ["codify"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 755, "raw_term": "redress", "raw_note": "救济，补偿，纠正", "normalized_terms": ["redress"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 756, "raw_term": "corroborate", "raw_note": "确证，证实", "normalized_terms": ["corroborate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 757, "raw_term": "factitious", "raw_note": "contrived, artificial, simulated, unnatural (人为的，虚假的)", "normalized_terms": ["factitious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 758, "raw_term": "fitting, apposite", "raw_note": "适当的，恰当的", "normalized_terms": ["fitting", "apposite"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 759, "raw_term": "obviate, remove, avoid", "raw_note": "排除，消除，避免", "normalized_terms": ["obviate", "remove", "avoid"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 760, "raw_term": "diffident, shy", "raw_note": "羞怯的，自卑的", "normalized_terms": ["diffident", "shy"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 761, "raw_term": "verbose", "raw_note": "冗长的，唠叨的", "normalized_terms": ["verbose"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 762, "raw_term": "perforce", "raw_note": "必然，被迫", "normalized_terms": ["perforce"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 763, "raw_term": "accretion", "raw_note": "堆积，增生", "normalized_terms": ["accretion"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 764, "raw_term": "introspective", "raw_note": "自省的，反省的", "normalized_terms": ["introspective"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 765, "raw_term": "affective", "raw_note": "感情的，表达感情的", "normalized_terms": ["affective"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 766, "raw_term": "instill", "raw_note": "逐步灌输，滴注", "normalized_terms": ["instill"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 767, "raw_term": "ardor", "raw_note": "热心，热情", "normalized_terms": ["ardor"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 768, "raw_term": "dispassionate", "raw_note": "平心静气的，公正的", "normalized_terms": ["dispassionate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 769, "raw_term": "rash", "raw_note": "仓促的，鲁莽的", "normalized_terms": ["rash"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 770, "raw_term": "inept, clumsy, maladroit", "raw_note": "无能的，笨拙的，不合适的", "normalized_terms": ["inept", "clumsy", "maladroit"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 771, "raw_term": "unequal", "raw_note": "不平等的，不胜任的", "normalized_terms": ["unequal"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 772, "raw_term": "fret", "raw_note": "担忧，苦恼，激怒", "normalized_terms": ["fret"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 773, "raw_term": "enthrall, enamor", "raw_note": "迷住，吸引住", "normalized_terms": ["enthrall", "enamor"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 774, "raw_term": "sterility, unfruitfulness, infertility", "raw_note": "不育，贫瘠", "normalized_terms": ["sterility", "unfruitfulness", "infertility"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 775, "raw_term": "serviceable", "raw_note": "有用的，耐用的", "normalized_terms": ["serviceable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 776, "raw_term": "reductive", "raw_note": "还原的，简化的", "normalized_terms": ["reductive"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 777, "raw_term": "incontrovertible", "raw_note": "无可辩驳的", "normalized_terms": ["incontrovertible"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 778, "raw_term": "synchronicity", "raw_note": "同步性", "normalized_terms": ["synchronicity"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 779, "raw_term": "albeit", "raw_note": "虽然，尽管 (though)", "normalized_terms": ["albeit"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 780, "raw_term": "unscrupulous", "raw_note": "肆无忌惮的，无道德的", "normalized_terms": ["unscrupulous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 781, "raw_term": "schematic", "raw_note": "纲要的，示意的，有章法的", "normalized_terms": ["schematic"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 782, "raw_term": "precocious", "raw_note": "早熟的", "normalized_terms": ["precocious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 783, "raw_term": "autonomous", "raw_note": "自洽的，自主的", "normalized_terms": ["autonomous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 784, "raw_term": "incremental", "raw_note": "增加的，增量的", "normalized_terms": ["incremental"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 785, "raw_term": "proxy, represent", "raw_note": "代理，代表", "normalized_terms": ["proxy", "represent"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 786, "raw_term": "chimera", "raw_note": "幻想，虚构的怪物", "normalized_terms": ["chimera"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 787, "raw_term": "liability", "raw_note": "责任，不利因素", "normalized_terms": ["liability"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 788, "raw_term": "protagonist", "raw_note": "主角", "normalized_terms": ["protagonist"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 789, "raw_term": "antagonize", "raw_note": "使对立，引起反感", "normalized_terms": ["antagonize"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 790, "raw_term": "auspicious, propitious", "raw_note": "吉利的，顺利的", "normalized_terms": ["auspicious", "propitious"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 791, "raw_term": "misappropriate", "raw_note": "不正确使用，挪用，侵吞", "normalized_terms": ["misappropriate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 792, "raw_term": "inapplicable", "raw_note": "不适用的", "normalized_terms": ["inapplicable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 793, "raw_term": "unwarranted", "raw_note": "没有根据的", "normalized_terms": ["unwarranted"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 794, "raw_term": "inexpedient", "raw_note": "谋略不当的，不妥当的", "normalized_terms": ["inexpedient"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 795, "raw_term": "discomfiture", "raw_note": "挫败，尴尬", "normalized_terms": ["discomfiture"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 796, "raw_term": "presumptuousness", "raw_note": "自以为是，专横，冒失", "normalized_terms": ["presumptuousness"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 797, "raw_term": "awkwardness", "raw_note": "笨拙，尴尬", "normalized_terms": ["awkwardness"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 803, "raw_term": "consistent, pervasive", "raw_note": "贯穿的，普遍的", "normalized_terms": ["consistent", "pervasive"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 804, "raw_term": "consolidate", "raw_note": "合并，巩固", "normalized_terms": ["consolidate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 805, "raw_term": "instantaneous", "raw_note": "瞬时的，即刻的", "normalized_terms": ["instantaneous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 806, "raw_term": "impediment", "raw_note": "障碍 (impede v.)", "normalized_terms": ["impediment"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 807, "raw_term": "querulous", "raw_note": "抱怨的", "normalized_terms": ["querulous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 808, "raw_term": "notwithstanding", "raw_note": "虽然，尽管", "normalized_terms": ["notwithstanding"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 809, "raw_term": "subtle", "raw_note": "微妙的", "normalized_terms": ["subtle"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 810, "raw_term": "ogre", "raw_note": "吃人巨妖，可怕的人", "normalized_terms": ["ogre"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 811, "raw_term": "inertial", "raw_note": "惯性的", "normalized_terms": ["inertial"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 812, "raw_term": "purveyor", "raw_note": "供货商", "normalized_terms": ["purveyor"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 813, "raw_term": "hypocritical", "raw_note": "伪善的", "normalized_terms": ["hypocritical"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 814, "raw_term": "calculated", "raw_note": "计算出的，有计划的，适当地", "normalized_terms": ["calculated"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 815, "raw_term": "opprobrious", "raw_note": "无礼的，骂人的", "normalized_terms": ["opprobrious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 816, "raw_term": "pugnacious", "raw_note": "好战的，好挑衅的", "normalized_terms": ["pugnacious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 817, "raw_term": "platitudinous", "raw_note": "陈腐的，中规中矩的", "normalized_terms": ["platitudinous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 818, "raw_term": "supercilious", "raw_note": "高傲的", "normalized_terms": ["supercilious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 819, "raw_term": "mixed", "raw_note": "矛盾的，混合的", "normalized_terms": ["mixed"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 820, "raw_term": "augur", "raw_note": "预言", "normalized_terms": ["augur"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 821, "raw_term": "intoxication", "raw_note": "陶醉，醉酒", "normalized_terms": ["intoxication"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 822, "raw_term": "accountability", "raw_note": "有责任，有义务", "normalized_terms": ["accountability"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 823, "raw_term": "unruliness", "raw_note": "无法无天，任性，难驾驭", "normalized_terms": ["unruliness"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 824, "raw_term": "warble", "raw_note": "吟唱，发颤音", "normalized_terms": ["warble"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 825, "raw_term": "croon", "raw_note": "低声吟唱", "normalized_terms": ["croon"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 826, "raw_term": "solve / address", "raw_note": "彻底解决 / 尝试解决", "normalized_terms": ["solve", "address"], "relation": "slash_group", "lemmas": {}, "review_flags": ["ambiguous_term"]}
+{"source_file": "verbalword.md", "source_line": 827, "raw_term": "fret", "raw_note": "激怒，烦躁", "normalized_terms": ["fret"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 828, "raw_term": "liken", "raw_note": "把...比作", "normalized_terms": ["liken"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 829, "raw_term": "ascribe", "raw_note": "把...归因于", "normalized_terms": ["ascribe"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 830, "raw_term": "quell", "raw_note": "用武力制止，镇压", "normalized_terms": ["quell"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 831, "raw_term": "elucidate", "raw_note": "阐明", "normalized_terms": ["elucidate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 832, "raw_term": "outright", "raw_note": "彻底地", "normalized_terms": ["outright"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 833, "raw_term": "backhanded", "raw_note": "讽刺挖苦的，假惺惺的，反手击球的", "normalized_terms": ["backhanded"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 834, "raw_term": "impeccable", "raw_note": "无可指摘的", "normalized_terms": ["impeccable"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 835, "raw_term": "insidious", "raw_note": "诡诈的，暗中危害的", "normalized_terms": ["insidious"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 836, "raw_term": "dupe", "raw_note": "欺骗，哄骗", "normalized_terms": ["dupe"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 837, "raw_term": "convert", "raw_note": "转变信仰，转换", "normalized_terms": ["convert"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 838, "raw_term": "patrician", "raw_note": "贵族的", "normalized_terms": ["patrician"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 839, "raw_term": "peck", "raw_note": "挑刺，指摘", "normalized_terms": ["peck"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 845, "raw_term": "intercept", "raw_note": "拦截", "normalized_terms": ["intercept"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 846, "raw_term": "supremacy", "raw_note": "至高无上，最高地位", "normalized_terms": ["supremacy"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 847, "raw_term": "bourgeois", "raw_note": "中产阶级", "normalized_terms": ["bourgeois"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 848, "raw_term": "capitulate", "raw_note": "投降", "normalized_terms": ["capitulate"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 849, "raw_term": "rationalize", "raw_note": "使合理化", "normalized_terms": ["rationalize"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 850, "raw_term": "ascribe", "raw_note": "把...归因于，认为...归于", "normalized_terms": ["ascribe"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 851, "raw_term": "truism", "raw_note": "自明之理，老生常谈", "normalized_terms": ["truism"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 852, "raw_term": "overly", "raw_note": "过度地", "normalized_terms": ["overly"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 853, "raw_term": "gossamer", "raw_note": "蛛丝，轻盈的", "normalized_terms": ["gossamer"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 854, "raw_term": "contrivance", "raw_note": "发明，想出的办法", "normalized_terms": ["contrivance"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 855, "raw_term": "monotonous", "raw_note": "单调乏味的", "normalized_terms": ["monotonous"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 856, "raw_term": "jockey", "raw_note": "赛马师；操作，欺骗，耍花招", "normalized_terms": ["jockey"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 857, "raw_term": "whim, whimsical", "raw_note": "奇思妙想，古怪的", "normalized_terms": ["whim", "whimsical"], "relation": "synonym_group", "lemmas": {}, "review_flags": ["possible_wrong_synonym"]}
+{"source_file": "verbalword.md", "source_line": 858, "raw_term": "concomitant", "raw_note": "伴随发生的事，伴随物", "normalized_terms": ["concomitant"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 859, "raw_term": "slighted", "raw_note": "轻视的", "normalized_terms": ["slighted"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 860, "raw_term": "slumber", "raw_note": "睡眠", "normalized_terms": ["slumber"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 861, "raw_term": "complexion", "raw_note": "肤色，面色", "normalized_terms": ["complexion"], "relation": "single", "lemmas": {}, "review_flags": []}
+{"source_file": "verbalword.md", "source_line": 862, "raw_term": "constitution", "raw_note": "构成，本质，体质，宪法", "normalized_terms": ["constitution"], "relation": "single", "lemmas": {}, "review_flags": []}

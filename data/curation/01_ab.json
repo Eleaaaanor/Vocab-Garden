@@ -1,0 +1,577 @@
+{
+  "words": {
+    "abdicate": {
+      "chinese": ["放弃（王位、权力、责任）"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To renounce or give up (a throne, a right, or a responsibility), especially formally."}
+      ],
+      "synonyms": ["renounce", "relinquish", "resign", "forsake", "surrender"],
+      "example": {
+        "sentence": "Rather than abdicate responsibility for the failed policy, the minister blamed his subordinates.",
+        "translation": "这位大臣没有为失败的政策承担责任，反而把责任推给了下属。"
+      },
+      "notes": ["GRE 常考搭配：abdicate responsibility（推卸/放弃责任），与 renounce 同义但多指放弃权力或义务。"],
+      "clear_flags": ["missing_example"]
+    },
+    "aberrant": {
+      "chinese": ["反常的，异常的，偏离常轨的"],
+      "example": {
+        "sentence": "The astronomer dismissed the aberrant reading as an instrument fault rather than evidence of a new planet.",
+        "translation": "这位天文学家把这一反常的读数当作仪器故障，而非新行星的证据。"
+      },
+      "derivatives": [{"term": "aberration", "relation": "noun: a deviation from the norm"}],
+      "clear_flags": ["missing_example"]
+    },
+    "abeyant": {
+      "example": {
+        "sentence": "The proposed regulation has remained abeyant for three years, neither enacted nor formally withdrawn.",
+        "translation": "该拟议法规已搁置三年，既未颁布也未正式撤回。"
+      },
+      "derivatives": [{"term": "abeyance", "relation": "noun: the state of being suspended"}],
+      "notes": ["GRE 常见考法：in abeyance（暂缓、搁置）几乎总以名词短语出现，abeyant 是其形容词形式。"],
+      "clear_flags": ["missing_example"]
+    },
+    "abnegation": {
+      "chinese": ["（对自身利益或欲望的）克制，放弃"],
+      "example": {
+        "sentence": "Her self-abnegation was so complete that colleagues mistook it for a lack of ambition.",
+        "translation": "她的自我克制如此彻底，以致同事误以为她缺乏抱负。"
+      },
+      "confusables": [
+        {"term": "abdicate", "distinction": "abnegation 指克制私欲（自我放弃）；abdicate 指正式放弃王位或责任，对象是权力而非欲望。"}
+      ],
+      "notes": ["常与 self- 连用：self-abnegation（自我牺牲式的克制）。"],
+      "clear_flags": ["missing_example"]
+    },
+    "abstemiousness": {
+      "synonyms": ["temperance", "moderation", "sobriety", "self-restraint"],
+      "example": {
+        "sentence": "His abstemiousness at the banquet surprised those who remembered his earlier excesses.",
+        "translation": "他在宴会上的节制让那些记得他早年放纵的人感到意外。"
+      },
+      "derivatives": [{"term": "abstemious", "relation": "adjective form"}],
+      "confusables": [
+        {"term": "abstinence", "distinction": "abstemiousness 强调饮食有节、适度；abstinence 强调完全戒除（如滴酒不沾）。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "abstruse": {
+      "chinese": ["深奥的，难解的"],
+      "example": {
+        "sentence": "The lecture, though abstruse, rewarded the patient listener with a genuinely original argument.",
+        "translation": "这场讲座虽然深奥，却以真正独到的论证回报了耐心的听众。"
+      },
+      "confusables": [
+        {"term": "obtuse", "distinction": "abstruse 指内容深奥难懂；obtuse 指人迟钝、不敏锐，或（几何）钝角。"},
+        {"term": "obscure", "distinction": "abstruse 指本身艰深；obscure 指表达含混或声名不显。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "accentuate": {
+      "chinese": ["强调，突出"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To emphasize or make (a feature, difference, or quality) more noticeable."}
+      ],
+      "synonyms": ["emphasize", "highlight", "underscore", "accent", "stress"]
+    },
+    "acclaimed": {
+      "synonyms": ["celebrated", "lauded", "renowned", "hailed", "applauded"]
+    },
+    "accommodating": {
+      "synonyms": ["obliging", "helpful", "amenable", "complaisant", "cooperative"]
+    },
+    "accompanying": {
+      "chinese": ["伴随的，随同发生的"],
+      "synonyms": ["attendant", "concomitant", "coincident", "concurrent"],
+      "confusables": [
+        {"term": "incidental", "distinction": "accompanying 指同时伴随发生；incidental 指次要的、偶然附带的。"}
+      ]
+    },
+    "accretion": {
+      "chinese": ["逐渐积累，堆积；增加物"],
+      "synonyms": ["accumulation", "buildup", "accrual", "growth", "increase"]
+    },
+    "acerbic": {
+      "chinese": ["（言辞）尖刻的，刻薄的；（味道）酸涩的"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Sharp and biting in tone or manner; caustic in speech or writing."},
+        {"pos": "adjective", "definition": "Sour or bitter in taste."}
+      ],
+      "synonyms": ["caustic", "mordant", "biting", "acrid", "sarcastic"],
+      "example": {
+        "sentence": "Her acerbic review spared neither the author's prose nor his scholarship.",
+        "translation": "她那篇尖刻的书评对作者的文笔和学术功底都毫不留情。"
+      },
+      "confusables": [
+        {"term": "acrid", "distinction": "acerbic 多形容言辞尖刻；acrid 多形容气味或烟雾刺鼻，也可指言辞辛辣。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "address": {
+      "pos": ["verb"],
+      "chinese": ["应对，处理（问题）；向…讲话"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To deal with, confront, or attend to (a problem, question, or need)."},
+        {"pos": "verb", "definition": "To speak or write to (a person or audience)."}
+      ],
+      "synonyms": ["tackle", "confront", "handle", "attend to", "approach"],
+      "example": {
+        "sentence": "The report addresses the shortage of teachers without proposing any way to pay for a remedy.",
+        "translation": "该报告讨论了师资短缺问题，却没有提出任何出资解决的办法。"
+      },
+      "confusables": [
+        {"term": "solve", "distinction": "address 指着手应对、处理问题；solve 指彻底解决，使问题不再存在。"}
+      ],
+      "notes": ["GRE 阅读与填空中 address 几乎只考动词义“应对、处理”，而非名词义“地址、演讲”。"],
+      "clear_flags": ["ambiguous_term", "missing_definition"]
+    },
+    "adulation": {
+      "synonyms": ["flattery", "fawning", "obsequiousness", "worship", "praise"],
+      "notes": ["含贬义：指过分的、谄媚的捧场，与中性的 praise 不同。"]
+    },
+    "affective": {
+      "synonyms": ["emotional", "emotive"],
+      "confusables": [
+        {"term": "effective", "distinction": "affective 指情感的（心理学用语）；effective 指有效的。"}
+      ]
+    },
+    "albeit": {
+      "example": {
+        "sentence": "The theory is elegant, albeit difficult to test with existing instruments.",
+        "translation": "这一理论很优美，尽管用现有仪器难以检验。"
+      },
+      "notes": ["albeit 引导让步状语，后接形容词、副词或短语，不能直接接完整从句（此时用 although）。"],
+      "clear_flags": ["missing_example"]
+    },
+    "aloof": {
+      "pos": ["adjective", "adverb"],
+      "chinese": ["冷淡的，疏远的；不参与的"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Reserved and distant in manner; uninvolved or detached."},
+        {"pos": "adverb", "definition": "At a distance, especially in feeling or interest."}
+      ],
+      "synonyms": ["detached", "distant", "standoffish", "remote", "uninvolved"],
+      "example": {
+        "sentence": "He remained aloof from the departmental squabbles, preferring to let others fight.",
+        "translation": "他对系里的纷争始终保持疏远，宁愿让别人去争斗。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "altar": {
+      "example": {
+        "sentence": "The reformers treated precedent as an altar rather than a guide.",
+        "translation": "改革者把先例奉为圣坛，而非当作指南。"
+      },
+      "confusables": [
+        {"term": "alter", "distinction": "altar 是名词“祭坛”；alter 是动词“改变”。两者读音相同，是 GRE 高频拼写陷阱。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "amalgamation": {
+      "synonyms": ["merger", "consolidation", "fusion", "blend", "combination"],
+      "example": {
+        "sentence": "The amalgamation of the two departments produced more paperwork than synergy.",
+        "translation": "两个部门的合并产生的文书工作多于协同效应。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "amphibian": {
+      "pos": ["noun", "adjective"],
+      "chinese": ["两栖动物；（形容词）两栖的"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "An animal, such as a frog or salamander, that lives both in water and on land."},
+        {"pos": "adjective", "definition": "Of or relating to animals that live both in water and on land."}
+      ],
+      "derivatives": [{"term": "amphibious", "relation": "adjective: able to operate on land and in water"}],
+      "confusables": [
+        {"term": "amphibious", "distinction": "amphibian 多为名词（两栖动物）；amphibious 为形容词（两栖的，如 amphibious vehicle）。"}
+      ]
+    },
+    "animus": {
+      "chinese": ["敌意，仇恨，恶意"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "A strong feeling of dislike or hostility; animosity."}
+      ],
+      "synonyms": ["animosity", "enmity", "hostility", "antipathy", "ill will"],
+      "example": {
+        "sentence": "Beneath the polite exchange of letters ran a current of personal animus.",
+        "translation": "在礼貌的书信往来之下，涌动着一股个人的敌意。"
+      },
+      "notes": ["GRE 只考“敌意”义；心理学中“支配行为的本能”一义不在考试范围内。"],
+      "clear_flags": ["missing_example"]
+    },
+    "anodyne": {
+      "pos": ["adjective", "noun"],
+      "chinese": ["（言论）平淡无奇的，不得罪人的；止痛的；止痛药"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Deliberately inoffensive and unlikely to provoke disagreement; bland."},
+        {"pos": "adjective", "definition": "Relieving or soothing pain."},
+        {"pos": "noun", "definition": "Something that relieves pain or soothes distress."}
+      ],
+      "synonyms": ["bland", "innocuous", "inoffensive", "palliative", "soothing"],
+      "confusables": [
+        {"term": "antidote", "distinction": "anodyne 是止痛、抚慰之物，或指平淡无奇的言论；antidote 是解毒剂、矫正办法。"}
+      ],
+      "notes": ["GRE 高频考法：anodyne 形容言论“温和到毫无锋芒”，含轻微贬义。"]
+    },
+    "antecedent": {
+      "chinese": ["先行的，先前的；前事，先例"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Preceding in time or order; prior."},
+        {"pos": "noun", "definition": "A thing or event that precedes and influences another."}
+      ]
+    },
+    "anthropogenic": {
+      "chinese": ["人为的，人类活动造成的"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Originating in human activity, especially as a cause of environmental change."}
+      ],
+      "synonyms": ["man-made", "human-caused"]
+    },
+    "anthropomorphism": {
+      "synonyms": ["personification", "anthropomorphizing"],
+      "example": {
+        "sentence": "Attributing resentment to the storm is anthropomorphism, not meteorology.",
+        "translation": "把怨恨归于风暴是拟人化，而非气象学。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "antithesis": {
+      "chinese": ["对立面；对立，对照"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "The direct opposite of something; a contrast or opposition between two things."}
+      ],
+      "synonyms": ["opposite", "contrary", "antipode", "converse"],
+      "example": {
+        "sentence": "His pragmatism stood in sharp antithesis to her idealism.",
+        "translation": "他的务实与她的理想主义形成鲜明对立。"
+      },
+      "confusables": [
+        {"term": "paradox", "distinction": "antithesis 指两个事物的对立或某物的对立面；paradox 指自相矛盾因而费解的陈述。二者不是同义词。"}
+      ],
+      "notes": ["常见搭配：the antithesis of（…的对立面）。"],
+      "clear_flags": ["possible_wrong_synonym", "missing_example"]
+    },
+    "antithetical": {
+      "synonyms": ["opposed", "contrary", "diametrically opposed", "incompatible", "antagonistic"]
+    },
+    "apathetic": {
+      "chinese": ["冷漠的，无动于衷的"],
+      "notes": ["与 impassive（不动声色）不同：apathetic 指缺乏关切，impassive 指不流露情感。"]
+    },
+    "aphorism": {
+      "example": {
+        "sentence": "The aphorism is memorable precisely because it is too neat to be entirely true.",
+        "translation": "这句格言之所以令人难忘，正是因为它过于工整而未必全然正确。"
+      },
+      "confusables": [
+        {"term": "dictum", "distinction": "aphorism 是简洁凝练的格言；dictum 侧重“权威性的断言”，常暗示说话者的专断。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "aplomb": {
+      "synonyms": ["poise", "composure", "equanimity", "self-assurance", "sangfroid"]
+    },
+    "apposite": {
+      "confusables": [
+        {"term": "opposite", "distinction": "apposite 意为“贴切、恰当”；opposite 意为“相反的”。拼写相近，词义无关。"},
+        {"term": "appropriate", "distinction": "apposite 强调切中要害、恰如其分；appropriate 泛指合适、恰当。"}
+      ]
+    },
+    "appropriate": {
+      "chinese": ["占用，挪用；拨（款）；（形容词）适当的"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To take (something) for one's own use, often without permission; to set apart for a purpose."}
+      ]
+    },
+    "arcane": {
+      "chinese": ["神秘的，晦涩的，只有少数内行才懂的"],
+      "confusables": [
+        {"term": "archaic", "distinction": "arcane 指深奥隐匿、需专门知识；archaic 指古老过时的。"}
+      ]
+    },
+    "ardor": {
+      "example": {
+        "sentence": "The ardor of his early advocacy cooled once he read the opposing briefs.",
+        "translation": "读过对方的辩护状后，他早期主张的热情便冷却了。"
+      },
+      "confusables": [
+        {"term": "arduous", "distinction": "ardor 是名词“热情”；arduous 是形容词“艰巨的、费力的”。同源但词义不同。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "artificial": {
+      "confusables": [
+        {"term": "affected", "distinction": "artificial 可指人造的，也可指矫揉造作；affected 只指举止做作、不自然。"}
+      ]
+    },
+    "ascetic": {
+      "confusables": [
+        {"term": "aesthetic", "distinction": "ascetic 指苦行的、禁欲的；aesthetic 指美学的、审美的。拼写仅差一个字母，是 GRE 高频混淆点。"}
+      ]
+    },
+    "ascribe": {
+      "chinese": ["把…归因于，把…归于"],
+      "confusables": [
+        {"term": "subscribe", "distinction": "ascribe 是“归因于”；subscribe 是“订阅、赞同（subscribe to）”。"},
+        {"term": "prescribe", "distinction": "prescribe 是“规定、开处方”；ascribe 是“归因”。"}
+      ]
+    },
+    "astringent": {
+      "pos": ["adjective", "noun"],
+      "chinese": ["（味道）涩的；严厉的，尖刻的；（名词）收敛剂"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Sharp, severe, or caustic in manner or style."},
+        {"pos": "adjective", "definition": "Causing a dry, puckering sensation in the mouth; sour or bitter."},
+        {"pos": "noun", "definition": "A substance that contracts body tissue, especially to stop bleeding."}
+      ],
+      "synonyms": ["caustic", "harsh", "severe", "biting", "sour"],
+      "example": {
+        "sentence": "The critic's astringent prose left little room for sentimental reading.",
+        "translation": "这位评论家尖刻的文笔几乎不容许感伤的解读。"
+      },
+      "clear_flags": ["missing_example", "multiple_possible_pos"]
+    },
+    "at odds with": {
+      "synonyms": ["in conflict with", "at variance with", "in disagreement with"],
+      "notes": ["GRE 填空常考：A is at odds with B（A 与 B 相悖），提示前后语义相反。"],
+      "clear_flags": ["api_mismatch"]
+    },
+    "attendant upon": {
+      "synonyms": ["accompanying", "consequent on", "resulting from", "following from"],
+      "example": {
+        "sentence": "The privileges attendant upon high office seldom survive its loss.",
+        "translation": "伴随高位而来的特权很少在其失去后依然存在。"
+      },
+      "clear_flags": ["api_mismatch", "missing_example"]
+    },
+    "attest": {
+      "synonyms": ["confirm", "verify", "corroborate", "testify to", "bear witness to"]
+    },
+    "augur": {
+      "pos": ["verb", "noun"],
+      "chinese": ["预示，成为…的预兆；（名词）占卜师"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To be a sign or portent of (a future event); to foretell."},
+        {"pos": "noun", "definition": "A diviner who foretells events from omens."}
+      ],
+      "confusables": [
+        {"term": "augment", "distinction": "augur 是“预示”；augment 是“增加、增大”。拼写相近，词义无关。"}
+      ],
+      "notes": ["GRE 常考搭配：augur well/ill for（预示着好/坏的结果）。", "作形容词的 august（/ɔːˈɡʌst/，威严的）与月份 August 拼写相同而读音、词义不同。"]
+    },
+    "august": {
+      "synonyms": ["majestic", "venerable", "dignified", "imposing", "stately"],
+      "notes": ["作形容词时重音在后（/ɔːˈɡʌst/），意为“威严的”，与月份 August 无关。"]
+    },
+    "auspicious": {
+      "chinese": ["吉利的，有前途的，预示成功的"]
+    },
+    "authoritative": {
+      "chinese": ["权威的，可信的；专断的，命令式的"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Reliable and accepted as accurate because it comes from an expert or official source."},
+        {"pos": "adjective", "definition": "Commanding and self-assured in manner; expecting to be obeyed."}
+      ],
+      "confusables": [
+        {"term": "authoritarian", "distinction": "authoritative 指“有权威的、可信的”；authoritarian 指“专制的、要求绝对服从的”，含贬义。"}
+      ],
+      "clear_flags": ["ambiguous_term"]
+    },
+    "auto company": {
+      "example": {
+        "sentence": "The auto company retooled its plants to build electric vehicles.",
+        "translation": "这家汽车公司改造工厂以生产电动汽车。"
+      },
+      "notes": ["出自 GRE 阅读中的具体语境，属篇章词汇，考试价值在于快速识别而非辨析。"],
+      "clear_flags": ["api_mismatch", "missing_example"]
+    },
+    "avatar": {
+      "chinese": ["化身，具体体现；（网络）头像"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "An embodiment or concrete manifestation of an abstract quality or idea."},
+        {"pos": "noun", "definition": "A figure representing a person in a computer game or online forum."}
+      ],
+      "notes": ["GRE 语境中取“化身”义，如 an avatar of rationalism。"],
+      "clear_flags": ["ambiguous_term"]
+    },
+    "backhanded": {
+      "synonyms": ["left-handed", "indirect", "sarcastic", "equivocal"],
+      "example": {
+        "sentence": "His praise was so backhanded that it amounted to an insult.",
+        "translation": "他的赞扬如此明褒暗贬，几乎等同于侮辱。"
+      },
+      "notes": ["GRE 常考搭配：backhanded compliment（明褒暗贬的恭维）。"],
+      "clear_flags": ["missing_example"]
+    },
+    "balanced reflection": {
+      "example": {
+        "sentence": "The committee's report offered a balanced reflection of the competing testimony.",
+        "translation": "委员会的报告对相互对立的证词作了公允的反映。"
+      },
+      "notes": ["篇章短语，多出现在评价史料或叙述是否客观的语境中。"],
+      "clear_flags": ["api_mismatch", "missing_example"]
+    },
+    "befuddled": {
+      "example": {
+        "sentence": "The befuddled witness contradicted his own earlier statement twice.",
+        "translation": "这位困惑的证人两次与他自己先前的陈述相矛盾。"
+      },
+      "confusables": [
+        {"term": "bemused", "distinction": "befuddled 指被弄糊涂、思路混乱；bemused 指困惑不解，也可指觉得好笑。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "belie": {
+      "chinese": ["显出…的虚假；与…不符，掩盖"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To show (something) to be false or to give a false impression of it."}
+      ],
+      "synonyms": ["contradict", "misrepresent", "give the lie to", "disguise"],
+      "example": {
+        "sentence": "Her calm tone belied the alarm she actually felt.",
+        "translation": "她平静的语气掩盖了她实际感到的惊慌。"
+      },
+      "derivatives": [{"term": "belied", "relation": "past tense and past participle"}],
+      "notes": ["GRE 高频考点：belie 的宾语是被推翻或被掩盖的东西，如 X belies Y 表示“X 与 Y 不符/使 Y 显得虚假”。"],
+      "clear_flags": ["api_mismatch", "missing_example", "possible_wrong_synonym"]
+    },
+    "belligerence": {
+      "synonyms": ["aggression", "bellicosity", "combativeness", "hostility", "pugnacity"],
+      "example": {
+        "sentence": "The negotiations collapsed not over substance but over the belligerence of the two delegations.",
+        "translation": "谈判破裂并非因为实质问题，而是因为两个代表团的敌对态度。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "bemuse": {
+      "synonyms": ["bewilder", "confuse", "perplex", "befuddle"],
+      "derivatives": [{"term": "bemused", "relation": "adjective: puzzled or mildly amused"}],
+      "confusables": [
+        {"term": "amuse", "distinction": "bemuse 指使人困惑、发愣；amuse 指使人发笑、消遣。"}
+      ]
+    },
+    "bifurcation": {
+      "example": {
+        "sentence": "The bifurcation of the party into two factions proved irreversible.",
+        "translation": "该党分裂为两个派系，这一分化已不可逆转。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "bobcat": {
+      "example": {
+        "sentence": "The camera trap recorded a bobcat crossing the ridge at dawn.",
+        "translation": "红外相机记录下一只山猫在黎明时穿过山脊。"
+      },
+      "notes": ["出自 GRE 阅读中关于捕食者与猎物的篇章，属于篇章专有名词，重点是与 cougar（美洲狮）等区分。"],
+      "clear_flags": ["missing_example"]
+    },
+    "bog down": {
+      "chinese": ["使停滞不前，使陷入困境"],
+      "synonyms": ["stall", "entangle", "encumber", "hamper"],
+      "example": {
+        "sentence": "The inquiry soon bogged down in procedural disputes.",
+        "translation": "调查很快陷入程序争议而停滞不前。"
+      },
+      "confusables": [
+        {"term": "boggle", "distinction": "bog down 指陷入困境、进展受阻；boggle 指（因难以置信而）犹豫或使人大吃一惊。拼写相近，词义无关。"}
+      ],
+      "clear_flags": ["ambiguous_term"]
+    },
+    "boggle": {
+      "pos": ["verb"],
+      "chinese": ["（因难以置信而）犹豫不前；使大为吃惊"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To be overwhelmed or baffled by something; to hesitate as if startled."}
+      ],
+      "synonyms": ["balk", "stagger", "flabbergast", "demur"],
+      "example": {
+        "sentence": "The audacity of the proposal made even seasoned observers boggle.",
+        "translation": "这项提议之大胆，连资深观察人士都感到震惊。"
+      },
+      "confusables": [
+        {"term": "bog down", "distinction": "boggle 指因震惊而迟疑或难以置信；bog down 指使陷入困境、停滞。"}
+      ],
+      "clear_flags": ["ambiguous_term", "missing_example"]
+    },
+    "bolster": {
+      "pos": ["verb", "noun"],
+      "chinese": ["支持，增强，改善；（名词）长枕，垫枕"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To support, strengthen, or shore up (a claim, a case, or a position)."},
+        {"pos": "noun", "definition": "A long, thick pillow or cushion."}
+      ],
+      "synonyms": ["support", "reinforce", "shore up", "boost", "strengthen"],
+      "example": {
+        "sentence": "The new evidence did not create the theory but certainly bolstered it.",
+        "translation": "新证据并未创立这一理论，但无疑强化了它。"
+      },
+      "notes": ["GRE 填空常见：bolster 与 undermine（削弱）为反义对应。"],
+      "clear_flags": ["missing_example", "multiple_possible_pos"]
+    },
+    "boorish": {
+      "synonyms": ["uncouth", "loutish", "rude", "coarse", "oafish"],
+      "example": {
+        "sentence": "His boorish interruption embarrassed even his own supporters.",
+        "translation": "他粗鲁的打断让连他自己的支持者都感到尴尬。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "bootless": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Useless; without benefit or advantage; unprofitable."}
+      ],
+      "synonyms": ["futile", "fruitless", "unavailing", "pointless", "in vain"],
+      "example": {
+        "sentence": "They soon discovered that further appeals to the committee were bootless.",
+        "translation": "他们很快发现，继续向委员会申诉是徒劳的。"
+      },
+      "notes": ["GRE 只考“无益的、徒劳的”义，与“没有靴子”的字面义无关。"],
+      "clear_flags": ["missing_example", "missing_definition"]
+    },
+    "bourgeois": {
+      "chinese": ["中产阶级的；市侩的，庸俗的"]
+    },
+    "bristle": {
+      "chinese": ["（毛发）竖立；发怒，勃然大怒；（名词）刚毛"],
+      "synonyms": ["bridle", "take offense", "stiffen", "seethe"]
+    },
+    "broach": {
+      "pos": ["verb"],
+      "chinese": ["提出（话题）；（首次）开启"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To raise (a subject) for discussion, especially a delicate one."}
+      ],
+      "synonyms": ["bring up", "raise", "introduce", "mention", "ventilate"],
+      "example": {
+        "sentence": "She was reluctant to broach the question of his retirement at the dinner table.",
+        "translation": "她不愿在餐桌上提起他退休的问题。"
+      },
+      "notes": ["GRE 只考动词“提出（难题、话题）”，与名词“扩孔器”无关。"],
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "bulwark": {
+      "synonyms": ["rampart", "bastion", "stronghold", "safeguard", "mainstay"],
+      "example": {
+        "sentence": "Independent courts are the strongest bulwark against arbitrary rule.",
+        "translation": "独立的法院是抵御专断统治最坚固的屏障。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "buttress": {
+      "pos": ["verb", "noun"],
+      "chinese": ["支持，加固，支撑；（名词）（建筑）扶壁"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To support, strengthen, or reinforce (an argument, a structure, or a claim)."},
+        {"pos": "noun", "definition": "A projecting structure built against a wall to support it."}
+      ],
+      "synonyms": ["support", "reinforce", "bolster", "shore up", "underpin"],
+      "example": {
+        "sentence": "The author buttresses his claim with a series of marginal examples.",
+        "translation": "作者用一系列边缘性的例子来支撑自己的论断。"
+      },
+      "notes": ["GRE 填空中 buttress 与 bolster、shore up 常作为同义呼应出现。"],
+      "clear_flags": ["possible_wrong_synonym", "missing_example", "multiple_possible_pos"]
+    }
+  }
+}

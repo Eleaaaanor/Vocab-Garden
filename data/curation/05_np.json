@@ -1,0 +1,437 @@
+{
+  "words": {
+    "nebulous": {
+      "example": {
+        "sentence": "The proposal remained nebulous on the one point that mattered: who would pay.",
+        "translation": "这项提案在唯一要紧的问题上始终含糊不清：由谁来付钱。"
+      },
+      "notes": ["GRE 常考引申义“模糊不清、缺乏明确界定的”，常修饰 plans、concepts、notions。"],
+      "clear_flags": ["missing_example"]
+    },
+    "nepotism": {
+      "confusables": [
+        {"term": "cronyism", "distinction": "nepotism 特指偏袒亲属（裙带关系）；cronyism 泛指任人唯亲、重用亲信朋友。"}
+      ]
+    },
+    "notoriety": {
+      "example": {
+        "sentence": "The theory gained notoriety long before it gained serious scrutiny.",
+        "translation": "这一理论在受到认真审视之前，早就落下了恶名。"
+      },
+      "confusables": [
+        {"term": "notability", "distinction": "notoriety 指因坏事而出的恶名；notability 指出众、知名（中性或褒义）。"}
+      ],
+      "notes": ["GRE 注意：notoriety 带贬义，不等于 fame。"],
+      "clear_flags": ["missing_example"]
+    },
+    "notwithstanding": {
+      "chinese": ["尽管，虽然；尽管如此"]
+    },
+    "obfuscation": {
+      "synonyms": ["confusion", "obscurity", "muddle", "bewilderment"],
+      "derivatives": [{"term": "obfuscate", "relation": "verb form"}],
+      "notes": ["GRE 常考：obfuscate 指有意使问题变得难懂，与 clarify、elucidate 反义。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "oblivious": {
+      "synonyms": ["unaware", "unmindful", "heedless", "insensible", "unconscious of"]
+    },
+    "obscure": {
+      "chinese": ["晦涩的，鲜为人知的；（动词）使模糊，掩盖"],
+      "synonyms": ["unclear", "abstruse", "unknown", "hazy", "conceal"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "obstreperous": {
+      "example": {
+        "sentence": "The obstreperous minority drowned out every attempt at debate.",
+        "translation": "喧闹吵闹的少数派压过了每一次辩论的尝试。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "obtrusive": {
+      "chinese": ["显眼的，招人反感的；爱管闲事的"]
+    },
+    "obviate": {
+      "example": {
+        "sentence": "Careful scheduling obviates the need for a second shift.",
+        "translation": "通过仔细排班，就不必再增设第二班次了。"
+      },
+      "notes": ["GRE 高频：obviate the need for（使…不再必要），与 preclude、forestall 同向。"],
+      "clear_flags": ["missing_example"]
+    },
+    "occult": {
+      "pos": ["adjective", "noun"],
+      "chinese": ["神秘的，玄奥的，超自然的；（名词）神秘学"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Relating to supernatural or mystical powers; beyond ordinary understanding."},
+        {"pos": "noun", "definition": "Supernatural or mystical beliefs and practices."}
+      ],
+      "synonyms": ["mystical", "esoteric", "arcane", "supernatural"],
+      "notes": ["GRE 常考形容词义“神秘的、晦涩难解的”，与 the occult（神秘学）区分。"],
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "officious": {
+      "synonyms": ["meddlesome", "intrusive", "interfering", "overzealous"],
+      "confusables": [
+        {"term": "official", "distinction": "officious 指好管闲事、爱越权插手的（贬义）；official 指官方的、正式的。"}
+      ],
+      "notes": ["GRE 常考：officious 与 indifferent、unobtrusive 反义。", "与 obtrusive 近似，但 officious 更强调主动越界提供帮助或干预。"]
+    },
+    "ogre": {
+      "synonyms": ["monster", "brute", "fiend", "tyrant"],
+      "notes": ["GRE 常用引申义“残暴可怕的人”，而非仅指神话中的食人巨妖。"]
+    },
+    "ophthalmology": {
+      "derivatives": [{"term": "ophthalmologist", "relation": "noun: a physician specializing in the eye"}],
+      "notes": ["GRE 自然科学类篇章中的医学专业名词，认识即可，重点在于识别词根 ophthalm-（眼）。"],
+      "clear_flags": ["missing_example"]
+    },
+    "opprobrious": {
+      "synonyms": ["scornful", "abusive", "contemptuous", "disgraceful", "vituperative"],
+      "example": {
+        "sentence": "The editorial was an opprobrious attack on the senator's character rather than her record.",
+        "translation": "这篇社论抨击的是参议员的人格而非她的政绩，用语充满辱骂。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "opprobrium": {
+      "example": {
+        "sentence": "The decision brought opprobrium on the court from every quarter.",
+        "translation": "这一裁决使法院遭到来自各方的谴责。"
+      },
+      "confusables": [
+        {"term": "opprobrious", "distinction": "opprobrium 是名词“公开的谴责、耻辱”；opprobrious 是形容词“辱骂性的、可耻的”。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "oracular": {
+      "synonyms": ["prophetic", "cryptic", "enigmatic", "vatic"],
+      "example": {
+        "sentence": "The chairman's oracular remarks left the board no clearer about his intentions.",
+        "translation": "董事长那番神谕般的讲话，并未让董事会更明白他的意图。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "originate": {
+      "chinese": ["起源，发源；创始，开创"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To have a specified beginning; to arise or come into being."},
+        {"pos": "verb", "definition": "To cause (something) to begin; to initiate."}
+      ],
+      "synonyms": ["arise", "stem", "derive", "initiate", "give rise to"],
+      "notes": ["GRE 常用搭配：originate in/from（起源于）与 originate with（由某人首创）。"],
+      "clear_flags": ["possible_wrong_synonym", "missing_definition"]
+    },
+    "overrated": {
+      "synonyms": ["overestimated", "overvalued", "overstated", "overpraised"]
+    },
+    "oversight": {
+      "synonyms": ["omission", "lapse", "neglect", "supervision", "surveillance"],
+      "notes": ["GRE 常考双义：(1) 疏忽、遗漏；(2) 监督、照管。须依上下文判断。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "paleontologist": {
+      "derivatives": [{"term": "paleontology", "relation": "noun: the study of fossil remains"}],
+      "example": {
+        "sentence": "The paleontologist spent two seasons excavating a single specimen.",
+        "translation": "这位古生物学家花了两个野外季挖掘一件标本。"
+      },
+      "notes": ["GRE 自然科学篇章常见，重点在于识别词根 paleo-（古老）。"],
+      "clear_flags": ["missing_example"]
+    },
+    "paradox": {
+      "chinese": ["悖论，自相矛盾的命题；看似矛盾实则可能成立的说法"],
+      "synonyms": ["contradiction", "antinomy", "absurdity", "self-contradiction"],
+      "confusables": [
+        {"term": "antithesis", "distinction": "paradox 指自相矛盾、看似荒谬的陈述；antithesis 指对立面或两者间的对立关系。"}
+      ],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "parallel": {
+      "pos": ["adjective", "noun", "verb"],
+      "chinese": ["平行的，类似的；（名词）对应物，相似之处；（动词）与…相当"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Similar in character, course, or tendency; analogous."},
+        {"pos": "noun", "definition": "A person or thing that is similar or analogous to another."}
+      ],
+      "synonyms": ["analogous", "comparable", "corresponding", "similar", "equivalent"],
+      "clear_flags": ["possible_wrong_synonym", "multiple_possible_pos"]
+    },
+    "parity": {
+      "synonyms": ["equality", "equivalence", "uniformity", "balance", "equipoise"]
+    },
+    "parsimonious": {
+      "example": {
+        "sentence": "The foundation was parsimonious in administration and generous in grants.",
+        "translation": "该基金会在管理上十分节省，在资助上却很大方。"
+      },
+      "notes": ["GRE 常考：parsimonious 与 miserly、stingy 同向，与 prodigal、extravagant 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "patrician": {
+      "synonyms": ["aristocratic", "noble", "highborn", "genteel"]
+    },
+    "paucity": {
+      "example": {
+        "sentence": "The paucity of surviving letters makes any biography conjectural.",
+        "translation": "留存书信的稀少使任何传记都只能凭借推测。"
+      },
+      "notes": ["GRE 常考搭配：a paucity of（…的缺乏），与 a dearth of 同义，与 an abundance of 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "peck": {
+      "synonyms": ["nibble", "pick at", "carp at", "nag at"],
+      "notes": ["GRE 语境中多取引申义“（反复地）挑刺、找碴”，如 peck away at someone's argument。"]
+    },
+    "pedantic": {
+      "confusables": [
+        {"term": "didactic", "distinction": "pedantic 指迂腐地纠缠细枝末节、卖弄学问；didactic 指好为人师、意在教导（也可含贬义）。"}
+      ],
+      "notes": ["GRE 常考：pedantic 常与 meticulous、punctilious 等表示细致的词构成同向或反向呼应。"]
+    },
+    "pellucid": {
+      "example": {
+        "sentence": "Her prose is pellucid enough for undergraduates yet exact enough for specialists.",
+        "translation": "她的文字清晰透彻，本科生读得懂，专家读来也足够精确。"
+      },
+      "notes": ["GRE 常考：pellucid 兼指“（水、玻璃）透明的”与“（文风）清晰易懂的”，与 opaque 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "perforce": {
+      "example": {
+        "sentence": "Having lost the vote, the minority perforce accepted the majority's plan.",
+        "translation": "少数派既已输掉表决，只能接受多数派的方案。"
+      },
+      "notes": ["副词，意为“不得已、必然”，多用于书面语。"],
+      "clear_flags": ["missing_example"]
+    },
+    "perplexing": {
+      "chinese": ["令人困惑的，费解的"]
+    },
+    "placate": {
+      "example": {
+        "sentence": "The concession was intended to placate the unions before the vote.",
+        "translation": "这一让步意在表决前安抚各工会。"
+      },
+      "notes": ["GRE 常考：placate 与 appease、mollify、pacify 同义，与 antagonize、provoke 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "plagued by": {
+      "synonyms": ["afflicted by", "beset by", "troubled by", "tormented by"],
+      "notes": ["GRE 填空常见搭配，后接持续性的问题，如 plagued by delays（屡遭延误困扰）。"],
+      "clear_flags": ["api_mismatch"]
+    },
+    "plastic": {
+      "pos": ["adjective", "noun"],
+      "chinese": ["可塑的，易受影响的；（名词）塑料"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Easily shaped or molded; capable of being influenced or modified."},
+        {"pos": "noun", "definition": "A synthetic material that can be molded when soft."}
+      ],
+      "notes": ["GRE 常考抽象义“可塑的、易受塑造的”，如 plastic minds、the plastic quality of a language。"],
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "platitudinous": {
+      "synonyms": ["trite", "hackneyed", "banal", "commonplace", "clichéd"],
+      "example": {
+        "sentence": "The graduation address was platitudinous but mercifully brief.",
+        "translation": "这场毕业演说陈腐乏味，所幸很短。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "portent": {
+      "synonyms": ["omen", "sign", "augury", "foreboding"],
+      "notes": ["多指凶兆，与 auspicious（吉利的）反义呼应。"]
+    },
+    "precede": {
+      "chinese": ["在…之前，先于；领先于"]
+    },
+    "preclude": {
+      "chinese": ["排除，阻止，使不可能发生"],
+      "synonyms": ["prevent", "rule out", "forestall", "obviate", "prohibit"],
+      "confusables": [
+        {"term": "prelude", "distinction": "preclude 是动词“排除、阻止”；prelude 是名词“前奏、序曲”。拼写相近，词性词义均不同。"}
+      ],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "predation": {
+      "synonyms": ["hunting", "preying", "plunder", "depredation"]
+    },
+    "predicament": {
+      "chinese": ["困境，窘境"],
+      "synonyms": ["quandary", "dilemma", "plight", "difficulty"],
+      "example": {
+        "sentence": "The committee found itself in a predicament of its own making.",
+        "translation": "委员会陷入了自己造成的困境。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "preemptive": {
+      "synonyms": ["preventive", "anticipatory", "precautionary", "preclusive"]
+    },
+    "premise": {
+      "synonyms": ["assumption", "proposition", "presupposition", "postulate"],
+      "notes": ["GRE 论证题核心词：premise（前提）与 conclusion（结论）相对；on the premise that 意为“以…为前提”。"]
+    },
+    "prescient": {
+      "example": {
+        "sentence": "Her review proved prescient: every objection she raised was later confirmed.",
+        "translation": "她的评论证明极具先见之明：她提出的每一点异议后来都被证实了。"
+      },
+      "notes": ["GRE 常考：prescient 与 farsighted、prognostic 同向，与 myopic、shortsighted 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "presuppose": {
+      "synonyms": ["assume", "presume", "postulate", "take for granted"],
+      "example": {
+        "sentence": "The argument presupposes that all parties share the same definition of fairness.",
+        "translation": "这一论证预设了各方对“公平”有相同的定义。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "prevent": {
+      "chinese": ["阻止，防止，预防"],
+      "synonyms": ["preclude", "avert", "forestall", "hinder", "thwart"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "primate": {
+      "chinese": ["灵长类动物；大主教"]
+    },
+    "probity": {
+      "example": {
+        "sentence": "The audit was intended to vouch for the treasurer's probity.",
+        "translation": "这次审计意在证明司库的品行端正。"
+      },
+      "confusables": [
+        {"term": "propriety", "distinction": "probity 指品行正直、廉洁；propriety 指合乎礼节、得体。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "proclivity": {
+      "chinese": ["倾向，癖性（尤指不良的）"],
+      "notes": ["GRE 常考搭配：a proclivity for/to（对…的癖好），常含贬义。"]
+    },
+    "proffer": {
+      "pos": ["verb", "noun"],
+      "chinese": ["（正式）提出，提供；（名词）提议，提供之物"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To offer or present (something) for acceptance, especially formally."},
+        {"pos": "noun", "definition": "An offer made; something proposed for acceptance."}
+      ],
+      "synonyms": ["offer", "tender", "propose", "volunteer", "extend"],
+      "clear_flags": ["possible_wrong_synonym", "multiple_possible_pos"]
+    },
+    "prognosis": {
+      "synonyms": ["forecast", "prediction", "outlook", "projection"],
+      "example": {
+        "sentence": "The prognosis for the peace talks was poor from the outset.",
+        "translation": "和谈的前景从一开始就不乐观。"
+      },
+      "notes": ["GRE 常考引申义“（对局势发展的）预测、前景”，不限于医学预后。"],
+      "clear_flags": ["missing_example"]
+    },
+    "proliferate": {
+      "synonyms": ["multiply", "increase", "mushroom", "spread", "burgeon"],
+      "notes": ["GRE 常考：proliferate 强调数量迅速增多、大量繁殖，与 dwindle 反义。"]
+    },
+    "prolixity": {
+      "synonyms": ["verbosity", "wordiness", "long-windedness", "diffuseness"],
+      "example": {
+        "sentence": "The editor cut the prolixity without losing a single argument.",
+        "translation": "编辑删去了冗赘之处，却未丢失任何一处论证。"
+      },
+      "confusables": [
+        {"term": "proximity", "distinction": "prolixity 指冗长啰嗦；proximity 指接近、邻近。拼写相近，词义无关。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "propitious": {
+      "confusables": [
+        {"term": "auspicious", "distinction": "propitious 侧指有利的、适合的时机或条件；auspicious 侧重预示好运的征兆。"}
+      ],
+      "notes": ["GRE 常考搭配：propitious moment/conditions（有利的时机、条件）。"]
+    },
+    "proscribe": {
+      "synonyms": ["forbid", "prohibit", "ban", "outlaw", "interdict"],
+      "confusables": [
+        {"term": "prescribe", "distinction": "proscribe 意为禁止；prescribe 意为规定、开处方。前缀相反，词义也相反，是 GRE 高频陷阱。"}
+      ],
+      "clear_flags": ["missing_definition"]
+    },
+    "prosecutor": {
+      "synonyms": ["prosecuting attorney", "the prosecution", "district attorney"]
+    },
+    "protagonist": {
+      "synonyms": ["main character", "leading figure", "hero", "principal"],
+      "confusables": [
+        {"term": "antagonist", "distinction": "protagonist 是主角、主要人物；antagonist 是对手、反派。前缀决定了对立关系。"}
+      ],
+      "example": {
+        "sentence": "The novel's protagonist is less a hero than a witness.",
+        "translation": "这部小说的主角与其说是英雄，不如说是见证者。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "provenance": {
+      "synonyms": ["origin", "source", "derivation", "provenience"],
+      "notes": ["GRE 艺术史与文献学语境高频词，指（文物、手稿等的）来源与流传经过。"]
+    },
+    "provide": {
+      "chinese": ["提供，供给；规定；（provide for）抚养，为…作准备"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To supply or make available (something needed or wanted)."},
+        {"pos": "verb", "definition": "To stipulate or establish in a law or agreement."}
+      ],
+      "synonyms": ["supply", "furnish", "afford", "stipulate"],
+      "clear_flags": ["possible_wrong_synonym", "missing_definition"]
+    },
+    "provocative": {
+      "chinese": ["挑动性的，煽动性的；引人思考的"]
+    },
+    "proxy": {
+      "pos": ["noun", "adjective"],
+      "chinese": ["代理人，代表；（名词）代理权；（形容词）代理的"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "A person authorized to act on behalf of another; a substitute or representative."},
+        {"pos": "noun", "definition": "The authority to act for another."}
+      ],
+      "synonyms": ["agent", "substitute", "delegate", "representative", "deputy"],
+      "notes": ["GRE 常考搭配：by proxy（由他人代理）、a proxy for（…的替代指标）。"],
+      "clear_flags": ["possible_wrong_synonym", "multiple_possible_pos"]
+    },
+    "pugnacious": {
+      "synonyms": ["combative", "bellicose", "aggressive", "truculent", "antagonistic"],
+      "example": {
+        "sentence": "His pugnacious style won him few allies on the committee.",
+        "translation": "他好斗的作风使他在委员会中少有人支持。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "pugnacity": {
+      "synonyms": ["combativeness", "bellicosity", "aggressiveness", "truculence"],
+      "example": {
+        "sentence": "The debate's pugnacity obscured how much the two sides agreed on.",
+        "translation": "辩论中的好斗气氛掩盖了双方其实多有共识这一事实。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "purveyor": {
+      "confusables": [
+        {"term": "purview", "distinction": "purveyor 指供货商、传播者；purview 指范围、职权范围。拼写相近，词义无关。"}
+      ],
+      "notes": ["GRE 常用引申义：传播某种观点或消息的人，如 a purveyor of rumor。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "purview": {
+      "synonyms": ["scope", "range", "compass", "ambit", "remit"],
+      "example": {
+        "sentence": "The question lies outside the purview of this committee.",
+        "translation": "这个问题不在本委员会的职权范围之内。"
+      },
+      "confusables": [
+        {"term": "preview", "distinction": "purview 指范围、职权范围；preview 指预览、预演。"}
+      ],
+      "clear_flags": ["missing_example"]
+    }
+  }
+}

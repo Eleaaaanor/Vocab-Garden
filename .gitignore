@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets / local environment variables (e.g. OPENAI_API_KEY)
+.env
+.env.*
+
+# Generated build output (python tools\build.py -> dist/<lang>-<count>.html)
+dist/
+
+# Cached dictionary / API responses (regenerable, not source data)
+data/enrichment_cache/
+
+# Temporary working files
+data/tmp*
+
+# Local backups created by tools/remove_words.py
+data/backups/

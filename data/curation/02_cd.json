@@ -1,0 +1,664 @@
+{
+  "words": {
+    "camaraderie": {
+      "example": {
+        "sentence": "The camaraderie of the research team survived even the failure of the experiment.",
+        "translation": "即使实验失败，研究团队的情谊也依然存在。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "camouflage": {
+      "synonyms": ["disguise", "concealment", "masquerade", "guise"],
+      "example": {
+        "sentence": "The proposal was an old policy in new camouflage.",
+        "translation": "这项提案不过是旧政策换上了新的伪装。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "candid": {
+      "chinese": ["坦白的，直率的；公正的"]
+    },
+    "capacious": {
+      "example": {
+        "sentence": "The capacious lecture hall swallowed the overflow crowd without apparent effort.",
+        "translation": "宽敞的讲堂毫不费力地容纳了多出的听众。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "captious": {
+      "example": {
+        "sentence": "He was captious about details that had no bearing on the argument.",
+        "translation": "他对与论证无关的细节吹毛求疵。"
+      },
+      "confusables": [
+        {"term": "capacious", "distinction": "captious 指吹毛求疵；capacious 指容量大的、宽敞的。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "caricature": {
+      "synonyms": ["lampoon", "parody", "burlesque", "travesty", "mockery"],
+      "example": {
+        "sentence": "The biography descends, in places, into caricature.",
+        "translation": "这部传记在某些地方沦为了漫画式的夸张。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "carnivores": {
+      "lemma": "carnivore",
+      "english_definitions": [
+        {"pos": "noun", "definition": "An animal that feeds on the flesh of other animals."}
+      ],
+      "synonyms": ["predator", "meat-eater"],
+      "notes": ["GRE 阅读中的生态学词汇，与 herbivore（食草动物）、omnivore（杂食动物）形成对照。"],
+      "clear_flags": ["missing_definition", "possible_wrong_synonym"]
+    },
+    "chimera": {
+      "chinese": ["妄想，虚构的幻象；（神话）喀迈拉"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "An impossible or illusory idea; a fanciful, unfounded notion."}
+      ],
+      "notes": ["GRE 常考引申义“凭空的妄想、不可实现的幻想”，而非神话怪兽本身。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "choreograph": {
+      "synonyms": ["orchestrate", "arrange", "stage", "maneuver"],
+      "example": {
+        "sentence": "The scandal was choreographed by his rivals long before it became public.",
+        "translation": "这场丑闻早在公之于众之前就由他的对手精心策划好了。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "christen": {
+      "synonyms": ["baptize", "name", "dub", "designate"],
+      "notes": ["GRE 语境的引申义为“首次使用、命名”，如 christen a ship。"]
+    },
+    "chronology": {
+      "synonyms": ["timeline", "sequence", "chronological order"],
+      "example": {
+        "sentence": "The chronology of the two manuscripts is still disputed.",
+        "translation": "这两份手抄本的年代先后至今仍有争议。"
+      }
+    },
+    "circulatory": {
+      "derivatives": [{"term": "circulation", "relation": "noun form"}],
+      "notes": ["GRE 阅读中多与 circulatory system（循环系统）搭配，属篇章词汇。"],
+      "clear_flags": ["missing_example"]
+    },
+    "circumscribe": {
+      "synonyms": ["limit", "restrict", "confine", "encircle", "delimit"],
+      "example": {
+        "sentence": "The new statute circumscribes the powers that the agency had exercised for decades.",
+        "translation": "新法规限制了该机构行使了数十年的权力。"
+      },
+      "confusables": [
+        {"term": "circumvent", "distinction": "circumscribe 是“限制、划定范围”；circumvent 是“规避、绕过（规定）”。"},
+        {"term": "circumspect", "distinction": "circumspect 是形容词“谨慎的、周密的”，与 circumscribe 词根相同而词义不同。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "circumstantial": {
+      "confusables": [
+        {"term": "circumstantial evidence", "distinction": "指间接证据：由情况推断而非直接目击得出的证据。"}
+      ]
+    },
+    "circumvent": {
+      "synonyms": ["evade", "bypass", "get around", "sidestep", "skirt"],
+      "example": {
+        "sentence": "Firms circumvented the import quota by shipping components separately.",
+        "translation": "各公司通过分开装运零部件来规避进口配额。"
+      },
+      "notes": ["GRE 常考“用迂回手段绕过规定或障碍”，与 obey、comply with 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "claptrap": {
+      "example": {
+        "sentence": "The speech was applauded widely and remembered as claptrap.",
+        "translation": "这篇演讲广受喝彩，事后却被视为哗众取宠的空话。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "cling": {
+      "pos": ["verb"],
+      "chinese": ["紧抓，紧抱；依附，坚持"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To hold on tightly; to remain attached or faithful to (a belief, practice, or person)."}
+      ],
+      "synonyms": ["hold on to", "adhere", "stick", "cleave"],
+      "notes": ["GRE 常考搭配：cling to a belief/hope（固执地坚持某种信念或希望）。"],
+      "clear_flags": ["missing_example", "multiple_possible_pos"]
+    },
+    "cliquish": {
+      "synonyms": ["clannish", "exclusive", "insular", "closed"],
+      "example": {
+        "sentence": "The department's cliquish culture discouraged new hires from speaking up.",
+        "translation": "该系派系林立的文化让新员工不敢发声。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "complexion": {
+      "synonyms": ["character", "nature", "aspect", "hue", "tint"],
+      "notes": ["GRE 常考引申义“（事物的）性质、总体面貌”，如 alter the complexion of the debate。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "comportment": {
+      "synonyms": ["demeanor", "bearing", "conduct", "deportment"],
+      "confusables": [
+        {"term": "compartment", "distinction": "comportment 指举止、仪态；compartment 指分隔间、隔层。"}
+      ]
+    },
+    "comprehensive": {
+      "chinese": ["全面的，详尽的，包罗广泛的"]
+    },
+    "compunction": {
+      "example": {
+        "sentence": "He fired the veteran employees without the slightest compunction.",
+        "translation": "他毫无愧疚地解雇了那些老员工。"
+      },
+      "confusables": [
+        {"term": "compulsion", "distinction": "compunction 指内疚、良心不安；compulsion 指强迫、不可抗拒的冲动。拼写相近，含义完全不同。"}
+      ],
+      "notes": ["GRE 常考否定形式：without compunction（毫不犹豫、毫无顾忌地）。"],
+      "clear_flags": ["missing_example"]
+    },
+    "conceit": {
+      "english_definitions": [
+        {"pos": "noun", "definition": "Excessive pride in oneself; vanity."},
+        {"pos": "noun", "definition": "An elaborate or fanciful metaphor, especially in poetry."}
+      ],
+      "synonyms": ["vanity", "arrogance", "conceitedness", "egotism", "self-importance"],
+      "notes": ["GRE 文学评论语境下 conceit 指“奇喻”，即把两个极不相干的事物强行类比的修辞手法。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "concomitant": {
+      "example": {
+        "sentence": "Inflation and its concomitant social unrest dominated the election.",
+        "translation": "通货膨胀及其伴随而来的社会动荡主导了这次选举。"
+      },
+      "notes": ["GRE 高频：常作形容词表“伴随而来的”，与 attendant、accompanying 同义呼应。"],
+      "clear_flags": ["missing_example"]
+    },
+    "confer": {
+      "synonyms": ["grant", "bestow", "accord", "consult", "deliberate"],
+      "notes": ["两义并考：(1) 授予、赋予（confer a degree/honor）；(2) 商谈、协商（confer with colleagues）。"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "conference": {
+      "chinese": ["会议，研讨会；商谈"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "A formal meeting of people with a shared interest, typically lasting several days."},
+        {"pos": "noun", "definition": "The act of consulting together; discussion."}
+      ],
+      "synonyms": ["meeting", "convention", "congress", "symposium", "colloquium"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "conflicting": {
+      "synonyms": ["contradictory", "incompatible", "at odds", "clashing", "mutually exclusive"],
+      "example": {
+        "sentence": "The two studies reached conflicting conclusions from the same data.",
+        "translation": "这两项研究从同一批数据得出了相互矛盾的结论。"
+      }
+    },
+    "conflate": {
+      "chinese": ["合并；混淆（两个不同的事物）"]
+    },
+    "conjectural": {
+      "chinese": ["推测的，猜测性的"],
+      "example": {
+        "sentence": "The attribution of the painting remains entirely conjectural.",
+        "translation": "这幅画的作者归属完全是推测性的。"
+      },
+      "clear_flags": ["ambiguous_term", "missing_example"]
+    },
+    "conjure": {
+      "synonyms": ["summon", "invoke", "call up", "evoke"],
+      "notes": ["GRE 常考搭配：conjure up（使浮现、唤起），如 conjure up images of the past；文中常不指“变魔术”。"]
+    },
+    "consolidate": {
+      "synonyms": ["merge", "combine", "unify", "strengthen", "solidify"]
+    },
+    "conspicuous": {
+      "chinese": ["显眼的，显著的，引人注目的"],
+      "confusables": [
+        {"term": "inconspicuous", "distinction": "反义词，指不显眼的、不惹人注意的。"}
+      ]
+    },
+    "constituent": {
+      "synonyms": ["component", "element", "ingredient", "voter", "elector"]
+    },
+    "constitution": {
+      "chinese": ["宪法；构成，组成；体质"]
+    },
+    "contagion": {
+      "synonyms": ["infection", "transmission", "spread", "epidemic"],
+      "example": {
+        "sentence": "Economists fear a contagion of the debt crisis across the currency union.",
+        "translation": "经济学家担心债务危机在货币联盟内蔓延传染。"
+      },
+      "notes": ["GRE 常考引申义“（危机、情绪的）蔓延传染”，如 the contagion of fear。"],
+      "clear_flags": ["missing_example"]
+    },
+    "contentious": {
+      "synonyms": ["controversial", "disputatious", "combative", "quarrelsome", "polemical"],
+      "example": {
+        "sentence": "The most contentious clause was left to be settled after the election.",
+        "translation": "最具争议的条款被留待选举之后再解决。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "contingency": {
+      "example": {
+        "sentence": "The plan made no provision for the contingency of a sudden rise in interest rates.",
+        "translation": "该计划没有对利率骤然上升这一意外情况作出安排。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "copious": {
+      "synonyms": ["abundant", "plentiful", "profuse", "ample", "bountiful"]
+    },
+    "corroborate": {
+      "synonyms": ["confirm", "verify", "substantiate", "attest", "validate"],
+      "notes": ["GRE 填空常见：corroborate 与 confirm、substantiate 构成同义呼应，与 refute、contradict 反义。"]
+    },
+    "counterpart": {
+      "chinese": ["对应的人（或物），地位相当者"],
+      "synonyms": ["equivalent", "analogue", "opposite number", "peer"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "covet": {
+      "chinese": ["觊觎，垂涎（他人的东西）"]
+    },
+    "coveted": {
+      "synonyms": ["sought-after", "desired", "prized", "in demand"],
+      "example": {
+        "sentence": "The fellowship is the most coveted award in the field.",
+        "translation": "这项奖学金是该领域最令人垂涎的奖项。"
+      }
+    },
+    "crass": {
+      "synonyms": ["crude", "coarse", "unrefined", "insensitive", "gross"],
+      "example": {
+        "sentence": "Even his allies called the remark crass.",
+        "translation": "连他的盟友也称这番话粗俗无礼。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "cronyism": {
+      "example": {
+        "sentence": "The committee's findings described a system of cronyism rather than merit.",
+        "translation": "委员会的调查结果描述的是一种任人唯亲而非择优的制度。"
+      },
+      "confusables": [
+        {"term": "nepotism", "distinction": "cronyism 指任人唯亲、重用朋友；nepotism 特指任人唯亲中偏袒亲属（裙带关系）。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "culmination": {
+      "chinese": ["顶点，高潮，最终结果"],
+      "example": {
+        "sentence": "The treaty was the culmination of a decade of patient diplomacy.",
+        "translation": "该条约是十年耐心外交的最终成果。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "culprit": {
+      "synonyms": ["offender", "wrongdoer", "perpetrator", "miscreant"]
+    },
+    "cumulative": {
+      "synonyms": ["accumulative", "collective", "additive", "increasing"]
+    },
+    "cur": {
+      "synonyms": ["mongrel", "scoundrel", "rogue", "wretch"],
+      "notes": ["GRE 语境中多取其贬义引申“卑鄙的人、无赖”，而非“野狗”。"]
+    },
+    "cynical": {
+      "synonyms": ["distrustful", "skeptical", "jaded", "scornful", "misanthropic"]
+    },
+    "cynicism": {
+      "synonyms": ["distrust", "skepticism", "scorn", "pessimism"]
+    },
+    "definitive": {
+      "chinese": ["权威性的，决定性的；最完整可靠的"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Authoritative and conclusive; serving as the final, most reliable account."}
+      ],
+      "synonyms": ["authoritative", "conclusive", "decisive", "definite"],
+      "example": {
+        "sentence": "Her biography remains the definitive account of the period.",
+        "translation": "她的传记至今仍是关于那一时期最权威的记述。"
+      },
+      "confusables": [
+        {"term": "definite", "distinction": "definitive 指有权威、具决定性的；definite 仅指明确、确定无疑。"}
+      ],
+      "clear_flags": ["ambiguous_term"]
+    },
+    "deflate": {
+      "synonyms": ["reduce", "diminish", "puncture", "devalue"],
+      "example": {
+        "sentence": "One counterexample sufficed to deflate the whole argument.",
+        "translation": "一个反例就足以使整个论证失去分量。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "defraud": {
+      "synonyms": ["swindle", "cheat", "deceive", "fleece", "bilk"],
+      "example": {
+        "sentence": "He was convicted of conspiring to defraud investors of millions.",
+        "translation": "他因合谋诈骗投资者数百万而被定罪。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "degradation": {
+      "example": {
+        "sentence": "Grazing beyond the land's capacity led to its steady degradation.",
+        "translation": "过度放牧超出土地承载能力，导致其持续退化。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "delusive": {
+      "synonyms": ["deceptive", "misleading", "illusory", "deceitful"],
+      "example": {
+        "sentence": "The delusive simplicity of the model concealed its shaky assumptions.",
+        "translation": "这个模型看似简单，却掩盖了其站不住脚的假设。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "demise": {
+      "chinese": ["终止，消亡；（人的）死亡"],
+      "example": {
+        "sentence": "The demise of the local newspaper left the town without a watchdog.",
+        "translation": "当地报纸的停办使这座小城失去了监督者。"
+      },
+      "notes": ["GRE 常考“机构、制度或事物的终结”，比“死亡”更常用。"],
+      "clear_flags": ["missing_example"]
+    },
+    "derision": {
+      "synonyms": ["mockery", "ridicule", "scorn", "contempt"],
+      "example": {
+        "sentence": "The proposal was met with derision in the press.",
+        "translation": "这项提案在报界遭到嘲笑。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "detestation": {
+      "synonyms": ["loathing", "abhorrence", "hatred", "revulsion"]
+    },
+    "devalue": {
+      "example": {
+        "sentence": "Overuse has devalued the word until it means almost nothing.",
+        "translation": "由于过度使用，这个词已被贬低到几乎不具含义。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "dictate": {
+      "pos": ["verb", "noun"],
+      "chinese": ["（动词）规定，支配，命令；（名词）命令，规定"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To determine or control (something) decisively; to prescribe with authority."},
+        {"pos": "noun", "definition": "An authoritative order or command."}
+      ],
+      "synonyms": ["prescribe", "ordain", "command", "determine", "govern"],
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "dictator": {
+      "synonyms": ["tyrant", "despot", "autocrat", "oppressor"]
+    },
+    "dictum": {
+      "synonyms": ["maxim", "aphorism", "saying", "pronouncement"],
+      "example": {
+        "sentence": "The essay examines the dictum that history is written by the victors.",
+        "translation": "这篇文章考察了“历史由胜利者书写”这一断言。"
+      },
+      "confusables": [
+        {"term": "verdict", "distinction": "dictum 是权威性的断言或格言；verdict 是（陪审团或权威者的）裁定、判决。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "didactic": {
+      "pos": ["adjective"],
+      "chinese": ["教导的，说教的；（贬）迂腐说教的"],
+      "derivatives": [{"term": "didacticism", "relation": "noun: the quality of being didactic"}]
+    },
+    "diffident": {
+      "synonyms": ["timid", "self-effacing", "unassuming", "bashful", "hesitant"],
+      "example": {
+        "sentence": "His diffident manner in the seminar belied an unusually sharp critical eye.",
+        "translation": "他在研讨会上羞怯的举止掩盖了其异常敏锐的批评眼光。"
+      },
+      "confusables": [
+        {"term": "confident", "distinction": "diffident 意为“缺乏自信的、羞怯的”；confident 意为“自信的”。拼写仅差几个字母，含义相反。"},
+        {"term": "indifferent", "distinction": "indifferent 意为“漠不关心的、平庸的”，与 diffident 不同。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "dilettante": {
+      "synonyms": ["amateur", "dabbler", "nonprofessional", "tyro"],
+      "example": {
+        "sentence": "Specialists dismissed him as a dilettante who dabbled in too many fields.",
+        "translation": "专家们斥他为涉猎过广的半吊子。"
+      },
+      "notes": ["含贬义：指浅尝辄止、不求甚解的业余爱好者，与 expert、specialist 相对。"],
+      "clear_flags": ["missing_example"]
+    },
+    "diminish": {
+      "chinese": ["减少，缩小；贬低，轻视"]
+    },
+    "discomfiture": {
+      "synonyms": ["embarrassment", "discomposure", "unease", "chagrin", "confusion"],
+      "example": {
+        "sentence": "His visible discomfiture at the question told the committee all it needed to know.",
+        "translation": "他面对这个问题时显而易见的窘迫，让委员会完全明白了情况。"
+      },
+      "confusables": [
+        {"term": "discomfort", "distinction": "discomfiture 指窘迫、狼狈、方寸大乱，比身体或轻微的 discomfort（不适）程度更重。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "discrete": {
+      "synonyms": ["distinct", "separate", "individual", "discontinuous"],
+      "confusables": [
+        {"term": "discreet", "distinction": "discrete 指分离的、不连续的；discreet 指言行谨慎、不张扬的。这是 GRE 最高频的拼写混淆对之一。"}
+      ]
+    },
+    "discretion": {
+      "synonyms": ["judgment", "prudence", "discernment", "tact", "circumspection"],
+      "notes": ["GRE 常考搭配：at one's discretion（由某人自行决定）、the age of discretion（有判断力的年龄）。", "同源形容词：discreet（言行谨慎的）、discretionary（可自行裁量的）。"]
+    },
+    "disenchanted": {
+      "synonyms": ["disillusioned", "disabused", "disappointed", "cynical"],
+      "example": {
+        "sentence": "Disenchanted with party politics, she turned to local organizing.",
+        "translation": "对政党政治不再抱幻想后，她转向了地方组织工作。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "disparage": {
+      "pos": ["verb"],
+      "chinese": ["贬低，轻视，诋毁"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To belittle or speak slightingly of; to represent as of little value."}
+      ],
+      "synonyms": ["belittle", "denigrate", "deprecate", "decry", "discredit"],
+      "notes": ["GRE 填空常见：disparage 与 belittle、denigrate 同义，与 extol、laud 反义。"],
+      "clear_flags": ["missing_definition", "multiple_possible_pos"]
+    },
+    "disparities": {
+      "lemma": "disparity",
+      "english_definitions": [
+        {"pos": "noun", "definition": "Great differences or inequalities, especially of a kind considered unfair."}
+      ],
+      "synonyms": ["differences", "gaps", "imbalances", "discrepancies", "inequalities"],
+      "clear_flags": ["missing_definition"]
+    },
+    "disparity": {
+      "chinese": ["差异，悬殊，不平等"],
+      "synonyms": ["difference", "gap", "imbalance", "discrepancy", "inequality"],
+      "notes": ["GRE 常考搭配：disparity between/among（…之间的悬殊差距）。"]
+    },
+    "dispassionate": {
+      "example": {
+        "sentence": "A dispassionate reading of the record fails to support either charge.",
+        "translation": "不偏不倚地阅读记录，两项指控都得不到支持。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "dispassionately": {
+      "synonyms": ["impartially", "objectively", "disinterestedly", "calmly"],
+      "example": {
+        "sentence": "She reviewed the evidence dispassionately, refusing to be swayed by either side.",
+        "translation": "她平心静气地审查证据，拒绝被任何一方左右。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "dispel": {
+      "notes": ["宾语多为抽象事物：dispel doubts/rumors/fears（消除疑虑、谣言、恐惧）。"]
+    },
+    "dispense": {
+      "synonyms": ["distribute", "administer", "allocate", "provide"],
+      "notes": ["GRE 常考搭配：dispense with（免除、省去），如 dispense with formalities。"],
+      "clear_flags": ["missing_definition"]
+    },
+    "dispersal": {
+      "synonyms": ["scattering", "dispersion", "diffusion", "dissipation"],
+      "example": {
+        "sentence": "The dispersal of the protesters took the organizers by surprise.",
+        "translation": "抗议者的散去让组织者措手不及。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "dispersed": {
+      "synonyms": ["scattered", "spread out", "strewn", "disseminated"],
+      "example": {
+        "sentence": "The findings were dispersed across a dozen journals, none of them prominent.",
+        "translation": "这些发现散见于十余种期刊，且都不是重要刊物。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "disposition": {
+      "chinese": ["性情，倾向；安排，布置"],
+      "synonyms": ["temperament", "inclination", "tendency", "arrangement", "bent"],
+      "notes": ["GRE 常考双重义：既可指人的性情倾向，也可指事物的安排布局。"]
+    },
+    "disquieting": {
+      "synonyms": ["unsettling", "troubling", "disturbing", "alarming", "perturbing"],
+      "example": {
+        "sentence": "The disquieting silence in the archive suggested that records had been removed.",
+        "translation": "档案室里令人不安的沉寂，暗示有记录被抽走了。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "disreputable": {
+      "example": {
+        "sentence": "The journal was disreputable long before the retractions began.",
+        "translation": "早在撤稿开始之前，这份期刊就已声名不佳。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "dissemblance": {
+      "synonyms": ["dissimulation", "pretense", "concealment", "hypocrisy"],
+      "example": {
+        "sentence": "His courteous dissemblance fooled no one who had read his private letters.",
+        "translation": "读过他私人信件的人，都不会被他彬彬有礼的伪饰所骗。"
+      },
+      "clear_flags": ["ambiguous_term", "missing_example"]
+    },
+    "dissemble": {
+      "synonyms": ["feign", "disguise", "conceal", "pretend", "simulate"],
+      "example": {
+        "sentence": "Asked directly about the memo, he dissembled rather than answer.",
+        "translation": "被直接问到那份备忘录时，他闪烁其词而不作答。"
+      },
+      "confusables": [
+        {"term": "disassemble", "distinction": "dissemble 意为“掩饰、伪装（真实情感或意图）”；disassemble 意为“拆卸（机器）”。这是 GRE 高频拼写陷阱。"}
+      ],
+      "notes": ["GRE 核心词：dissemble/dissimulation 指掩盖真实想法，常与 candor、forthrightness 反义呼应。"],
+      "clear_flags": ["missing_example"]
+    },
+    "dissimulation": {
+      "chinese": ["掩饰，伪装，虚伪"],
+      "example": {
+        "sentence": "The memoir treats its author's dissimulation as a virtue.",
+        "translation": "这部回忆录把作者的掩饰当作一种美德来写。"
+      },
+      "clear_flags": ["ambiguous_term", "missing_example"]
+    },
+    "dissent": {
+      "pos": ["noun", "verb"],
+      "chinese": ["异议，不同意；（动词）持异议"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "Disagreement with an established or official opinion."},
+        {"pos": "verb", "definition": "To disagree with an accepted or official view."}
+      ],
+      "synonyms": ["disagreement", "objection", "opposition", "differ", "demur"],
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "disservice": {
+      "synonyms": ["harm", "wrong", "injury", "disfavor", "detriment"],
+      "notes": ["GRE 常考搭配：do someone a disservice（帮倒忙、损害某人）。"]
+    },
+    "distortion": {
+      "chinese": ["扭曲，变形；曲解，失实"]
+    },
+    "divination": {
+      "synonyms": ["prophecy", "soothsaying", "augury", "foretelling"]
+    },
+    "dour": {
+      "example": {
+        "sentence": "The dour portrait of rural life left no room for nostalgia.",
+        "translation": "这幅阴郁的乡村生活图景没有给怀旧留下余地。"
+      },
+      "notes": ["GRE 常用义为“阴郁严峻、不苟言笑的”，与 sullen、stern 同向。"],
+      "clear_flags": ["missing_example"]
+    },
+    "douse": {
+      "synonyms": ["drench", "soak", "souse", "extinguish", "quench"],
+      "example": {
+        "sentence": "Protesters doused the effigy and set it alight.",
+        "translation": "抗议者往人像上浇了液体后将其点燃。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "downplay": {
+      "example": {
+        "sentence": "Officials downplayed the severity of the contamination for weeks.",
+        "translation": "官员们数周来一直淡化污染的严重程度。"
+      },
+      "confusables": [
+        {"term": "underplay", "distinction": "两者都指“轻描淡写”，但 downplay 更常用；与 play down 同义。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "duplicity": {
+      "synonyms": ["deceit", "double-dealing", "dishonesty", "hypocrisy"],
+      "example": {
+        "sentence": "The report accused the firm of duplicity in its dealings with regulators.",
+        "translation": "报告指控该公司在与监管机构打交道时表里不一。"
+      },
+      "confusables": [
+        {"term": "duplication", "distinction": "duplicity 指两面三刀、奸诈；duplication 指复制、重复。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "dwell": {
+      "pos": ["verb"],
+      "chinese": ["居住；（dwell on）老是想着，详述"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To live in a place; to reside."},
+        {"pos": "verb", "definition": "To think, speak, or write about (something) at length, especially with anxiety."}
+      ],
+      "synonyms": ["reside", "inhabit", "linger over", "brood on"],
+      "notes": ["GRE 最常考搭配为 dwell on/upon（反复思量、絮絮不休地谈论），而非本义“居住”。"],
+      "clear_flags": ["missing_definition", "multiple_possible_pos"]
+    },
+    "dwindle": {
+      "chinese": ["逐渐减少，缩小"],
+      "example": {
+        "sentence": "Enrollment dwindled until the department could no longer justify its staff.",
+        "translation": "招生人数不断减少，直到该系再也无法证明其师资配置的合理性。"
+      },
+      "confusables": [
+        {"term": "swindle", "distinction": "dwindle 指逐渐减少；swindle 指诈骗、骗取钱财。拼写相近，词义完全不同。"}
+      ],
+      "clear_flags": ["ambiguous_term", "missing_example"]
+    }
+  }
+}

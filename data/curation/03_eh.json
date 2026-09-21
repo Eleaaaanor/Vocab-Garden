@@ -1,0 +1,530 @@
+{
+  "words": {
+    "eccentric": {
+      "pos": ["adjective", "noun"],
+      "chinese": ["古怪的，反常的；（名词）行为古怪的人"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Departing from conventional or accepted usage, especially in an odd or whimsical way."},
+        {"pos": "noun", "definition": "A person who behaves in an unconventional or odd manner."}
+      ],
+      "example": {
+        "sentence": "His eccentric habits made him a difficult but indispensable colleague.",
+        "translation": "他古怪的习惯使他成为难以相处却又不可或缺的同事。"
+      }
+    },
+    "edifying": {
+      "synonyms": ["instructive", "enlightening", "improving", "informative"],
+      "example": {
+        "sentence": "The debate was more edifying than the lectures that preceded it.",
+        "translation": "这场辩论比之前的那些讲座更有教益。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "efficacious": {
+      "chinese": ["有效的，见效的"],
+      "synonyms": ["effective", "effectual", "potent", "efficient"]
+    },
+    "effluvium": {
+      "synonyms": ["emanation", "effluence", "vapor", "stench"],
+      "example": {
+        "sentence": "An effluvium of decay hung over the drained marsh.",
+        "translation": "排干的沼泽上空弥漫着一股腐臭的气味。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "egregious": {
+      "synonyms": ["flagrant", "blatant", "glaring", "outrageous", "notorious"],
+      "confusables": [
+        {"term": "gregarious", "distinction": "egregious 指极其恶劣、臭名昭著的；gregarious 指爱交际、喜群居的。拼写相近而褒贬相反，是 GRE 高频陷阱。"}
+      ],
+      "notes": ["egregious 在现代英语中几乎只用于负面语境，如 egregious error/violation。"]
+    },
+    "elucidate": {
+      "example": {
+        "sentence": "The footnote does little to elucidate the passage it annotates.",
+        "translation": "这条脚注对其所注释的段落几乎没有起到阐明作用。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "emulate": {
+      "chinese": ["模仿，效仿；努力赶上（或超过）"],
+      "synonyms": ["imitate", "mimic", "follow", "match", "rival"]
+    },
+    "encomium": {
+      "synonyms": ["eulogy", "panegyric", "tribute", "laudation"],
+      "notes": ["正式语体的“颂词、高度赞扬”，常与 eulogy 互换，但 eulogy 也可指悼词。", "名词，复数为 encomiums 或 encomia；语气庄重，多用于书面语。"]
+    },
+    "encumber": {
+      "synonyms": ["burden", "hamper", "hinder", "weigh down", "saddle"],
+      "example": {
+        "sentence": "The estate was encumbered with debts that no heir wished to assume.",
+        "translation": "这份产业背负着无人愿意承担的债务。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "encyclopedic": {
+      "chinese": ["百科全书式的，知识渊博广博的"]
+    },
+    "entail": {
+      "pos": ["verb"],
+      "chinese": ["需要，使…成为必要；导致，牵连"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To involve or require as a necessary consequence; to make necessary."}
+      ],
+      "synonyms": ["require", "necessitate", "involve", "imply", "bring about"],
+      "notes": ["GRE 常考：entail 强调“必然伴随、必然导致”，与 necessitate 同义。"],
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "entailed": {
+      "lemma": "entail",
+      "synonyms": ["required", "necessitated", "involved", "implied"],
+      "example": {
+        "sentence": "The reforms entailed costs that the government had never disclosed.",
+        "translation": "这些改革带来的代价，政府从未披露过。"
+      },
+      "clear_flags": ["missing_example", "missing_definition"]
+    },
+    "enthrall": {
+      "example": {
+        "sentence": "The lecturer enthralled an audience that had come prepared to be bored.",
+        "translation": "这位讲演者让原本准备无聊地坐着的听众听得神魂颠倒。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "entity": {
+      "synonyms": ["being", "existence", "thing", "unit", "organization"],
+      "example": {
+        "sentence": "The agency acts as a legal entity distinct from the ministry that funds it.",
+        "translation": "该机构作为独立于其出资部委的法人实体运作。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "entrenched": {
+      "pos": ["adjective"],
+      "chinese": ["根深蒂固的，确立已久的"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Firmly established and difficult to change, especially of a belief, practice, or institution."}
+      ],
+      "synonyms": ["ingrained", "deep-rooted", "established", "embedded", "well-established"],
+      "example": {
+        "sentence": "The practice is too entrenched to be abolished by a single directive.",
+        "translation": "这种做法根深蒂固，一纸指令无法废除。"
+      },
+      "clear_flags": ["missing_example", "missing_definition", "multiple_possible_pos"]
+    },
+    "ephemera": {
+      "chinese": ["短命之物，转瞬即逝的事物"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "Things that exist or are of interest for only a very short time."}
+      ],
+      "synonyms": ["transient things", "short-lived items"],
+      "derivatives": [{"term": "ephemeral", "relation": "adjective: lasting for a very short time"}],
+      "clear_flags": ["missing_definition"]
+    },
+    "erroneous": {
+      "chinese": ["错误的，不正确的"],
+      "synonyms": ["incorrect", "mistaken", "fallacious", "inaccurate", "untrue"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "eschew": {
+      "synonyms": ["avoid", "shun", "abstain from", "refrain from", "forgo"],
+      "example": {
+        "sentence": "The author eschews technical vocabulary in order to reach a wider readership.",
+        "translation": "作者避免使用专业术语，以便拥有更广泛的读者。"
+      },
+      "notes": ["GRE 常考：eschew 与 shun、avoid 同义，与 embrace、adopt 反义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "evocative": {
+      "example": {
+        "sentence": "The photographs are evocative of a city that no longer exists.",
+        "translation": "这些照片让人想起一座已不复存在的城市。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "exact": {
+      "pos": ["adjective", "verb"],
+      "chinese": ["精确的，确切的；（动词）强求，勒索"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Precisely accurate or correct; neither more nor less than stated."},
+        {"pos": "verb", "definition": "To demand and obtain (something) by force or authority; to extort."}
+      ],
+      "confusables": [
+        {"term": "exacting", "distinction": "exact 作形容词指“精确的”，作动词指“强求、勒索”；exacting 作形容词指“苛求的、难以满足的”。"}
+      ]
+    },
+    "exasperation": {
+      "synonyms": ["irritation", "frustration", "annoyance", "vexation", "exacerbation"],
+      "example": {
+        "sentence": "In exasperation, the editor returned the manuscript unread.",
+        "translation": "编辑一气之下，未读原稿便将其退回。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "exhaustive": {
+      "chinese": ["全面的，彻底的，无遗漏的"]
+    },
+    "exhilarating": {
+      "example": {
+        "sentence": "The discovery was exhilarating precisely because it overturned a settled consensus.",
+        "translation": "这一发现之所以令人振奋，恰恰因为它推翻了既有的共识。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "exiguity": {
+      "example": {
+        "sentence": "The exiguity of the evidence made any firm conclusion impossible.",
+        "translation": "证据之稀少使任何确定的结论都无法得出。"
+      },
+      "derivatives": [{"term": "exiguous", "relation": "adjective: scanty, meager"}],
+      "clear_flags": ["missing_example"]
+    },
+    "exogenous": {
+      "synonyms": ["external", "extrinsic", "outside"],
+      "example": {
+        "sentence": "The collapse was driven less by internal flaws than by exogenous shocks.",
+        "translation": "这次崩溃与其说源于内部缺陷，不如说是外部冲击造成的。"
+      },
+      "confusables": [
+        {"term": "endogenous", "distinction": "exogenous 指外因造成的、外生的；endogenous 指内生的、源于内部的。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "exoplanet": {
+      "example": {
+        "sentence": "The first confirmed exoplanet orbited a star nothing like the Sun.",
+        "translation": "第一颗被确认的系外行星所环绕的恒星与太阳毫无相似之处。"
+      },
+      "notes": ["GRE 阅读天文类篇章常见，与 solar system、orbit 等词同现。"],
+      "clear_flags": ["missing_example"]
+    },
+    "exotic": {
+      "synonyms": ["foreign", "alien", "outlandish", "unfamiliar", "imported"]
+    },
+    "expansionist": {
+      "synonyms": ["imperialist", "annexationist", "interventionist"],
+      "example": {
+        "sentence": "The regime's expansionist ambitions alarmed its neighbors.",
+        "translation": "该政权的扩张野心令邻国感到惊恐。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "expediency": {
+      "chinese": ["权宜之计，便利；利己的考虑"],
+      "example": {
+        "sentence": "The decision was governed by expediency rather than principle.",
+        "translation": "这一决定的出发点是一时之便，而非原则。"
+      },
+      "notes": ["GRE 常考：expediency 与 principle 构成对立，含“只顾眼前便利”的贬义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "expedite": {
+      "synonyms": ["hasten", "accelerate", "speed up", "facilitate", "dispatch"]
+    },
+    "expiation": {
+      "example": {
+        "sentence": "He treated decades of public service as expiation for a youthful betrayal.",
+        "translation": "他把数十年的公共服务当作对年轻时背叛行为的赎罪。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "explication": {
+      "synonyms": ["explanation", "interpretation", "elucidation", "exposition"],
+      "example": {
+        "sentence": "The seminar offered a line-by-line explication of the poem.",
+        "translation": "这次研讨会对这首诗作了逐行阐释。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "extirpate": {
+      "example": {
+        "sentence": "The campaign sought to extirpate the disease rather than merely control it.",
+        "translation": "这场运动的目的是根除这种疾病，而不仅仅是控制它。"
+      },
+      "notes": ["GRE 常考：extirpate 强调连根拔除，与 eradicate、uproot 同义。"],
+      "clear_flags": ["missing_example"]
+    },
+    "facetious": {
+      "synonyms": ["flippant", "glib", "jocular", "irreverent", "tongue-in-cheek"],
+      "confusables": [
+        {"term": "factious", "distinction": "facetious 指开玩笑的、不严肃的；factious 指派系纷争的、好结党倾轧的。"},
+        {"term": "fractious", "distinction": "fractious 指易怒的、难以管束的；facetious 指诙谐轻浮的。"}
+      ],
+      "notes": ["facetious / factious / fractious 三词形近义远，是 GRE 填空的高频干扰项。"]
+    },
+    "factitious": {
+      "synonyms": ["artificial", "contrived", "manufactured", "sham", "spurious"],
+      "example": {
+        "sentence": "The controversy felt factitious, manufactured to sell newspapers.",
+        "translation": "这场争论显得是人为制造的，为的是推销报纸。"
+      },
+      "confusables": [
+        {"term": "fictitious", "distinction": "factitious 指人为制造的、不自然的；fictitious 指虚构的、非真实的。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "fallacious": {
+      "chinese": ["谬误的，不合逻辑的，站不住脚的"],
+      "synonyms": ["erroneous", "false", "flawed", "illogical", "unsound"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "fallibility": {
+      "synonyms": ["imperfection", "errancy", "frailty", "liability to error"],
+      "example": {
+        "sentence": "The experiment was designed to expose the fallibility of expert judgment.",
+        "translation": "该实验旨在揭示专家判断的易错性。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "false": {
+      "chinese": ["不真实的，虚假的；错误的；不忠实的"],
+      "synonyms": ["untrue", "erroneous", "fallacious", "spurious", "unfounded"],
+      "clear_flags": ["possible_wrong_synonym"]
+    },
+    "fastidious": {
+      "example": {
+        "sentence": "She was fastidious about sources in an era when nobody else bothered.",
+        "translation": "在无人讲究出处的年代，她对史料来源极为苛求细致。"
+      },
+      "notes": ["GRE 常考：fastidious 既可指“一丝不苟、极为讲究”，也可指“过分挑剔、难以取悦”。"],
+      "clear_flags": ["missing_example"]
+    },
+    "feat": {
+      "synonyms": ["achievement", "accomplishment", "exploit", "deed", "coup"],
+      "english_definitions": [
+        {"pos": "noun", "definition": "An impressive or difficult achievement."}
+      ],
+      "clear_flags": ["missing_definition"]
+    },
+    "feigned": {
+      "synonyms": ["pretended", "simulated", "counterfeit", "sham", "affected"]
+    },
+    "felicitous": {
+      "synonyms": ["apt", "well-chosen", "appropriate", "fitting", "happy"],
+      "example": {
+        "sentence": "The essay is distinguished less by argument than by its felicitous phrasing.",
+        "translation": "这篇文章的出色之处与其说在论证，不如说在措辞的贴切。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "flagrant": {
+      "example": {
+        "sentence": "The violation was so flagrant that even sympathetic observers objected.",
+        "translation": "这一违规行为如此明目张胆，连持同情态度的观察者都提出异议。"
+      },
+      "confusables": [
+        {"term": "fragrant", "distinction": "flagrant 指明目张胆的、恶劣的；fragrant 指芳香的。拼写仅差一个字母，词义无关。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "flout": {
+      "example": {
+        "sentence": "The company flouted the safety code for years without penalty.",
+        "translation": "这家公司多年来公然无视安全规范，却未受到处罚。"
+      },
+      "confusables": [
+        {"term": "flaunt", "distinction": "flout 指公然违反、蔑视（法律、规则）；flaunt 指炫耀、招摇地展示。这是 GRE 最常见的混淆对之一。"}
+      ],
+      "notes": ["固定搭配：flout the rules/law/convention。"],
+      "clear_flags": ["missing_example"]
+    },
+    "forbear": {
+      "synonyms": ["refrain", "abstain", "desist", "hold back", "forgo"],
+      "confusables": [
+        {"term": "forebear", "distinction": "forbear 是动词“克制、忍耐”；forebear 是名词“祖先”。拼写仅差一个字母。"}
+      ]
+    },
+    "foster": {
+      "pos": ["verb", "adjective"],
+      "chinese": ["促进，培养，鼓励；收养的"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To encourage or promote the development of (something desirable)."},
+        {"pos": "adjective", "definition": "Providing parental care to a child not related by birth."}
+      ],
+      "synonyms": ["promote", "encourage", "nurture", "cultivate", "stimulate"],
+      "notes": ["GRE 常考搭配：foster innovation/growth/cooperation（促进创新、增长、合作）。"],
+      "clear_flags": ["multiple_possible_pos"]
+    },
+    "founder on": {
+      "synonyms": ["fail on", "collapse over", "be defeated by", "run aground on"],
+      "example": {
+        "sentence": "The negotiations foundered on the question of who would bear the cost.",
+        "translation": "谈判在由谁承担费用的问题上失败。"
+      },
+      "clear_flags": ["api_mismatch", "missing_example"]
+    },
+    "foundering": {
+      "lemma": "founder",
+      "chinese": ["（船只）沉没；（计划、事业）失败，崩溃"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "Sinking or filling with water; failing or coming to grief."}
+      ],
+      "synonyms": ["sinking", "collapsing", "faltering", "failing"],
+      "clear_flags": ["missing_definition"]
+    },
+    "fret": {
+      "synonyms": ["worry", "chafe", "agonize", "fuss", "brood"]
+    },
+    "furtive": {
+      "example": {
+        "sentence": "Their furtive glances at the door suggested they expected to be interrupted.",
+        "translation": "他们偷偷瞥向门口的举动，表明他们料到自己会被打断。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "futility": {
+      "synonyms": ["uselessness", "pointlessness", "fruitlessness", "vanity", "ineffectiveness"],
+      "notes": ["GRE 常考：futility 与 vanity 在“徒劳无益”义上可互换。"]
+    },
+    "generates": {
+      "lemma": "generate",
+      "chinese": ["产生，引起，导致"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "Produces or brings about; causes (something) to arise."}
+      ],
+      "synonyms": ["produces", "creates", "gives rise to", "engenders", "yields"],
+      "clear_flags": ["possible_wrong_synonym", "missing_definition"]
+    },
+    "gossamer": {
+      "synonyms": ["delicate", "filmy", "gauzy", "sheer", "diaphanous"],
+      "example": {
+        "sentence": "The argument rests on a gossamer chain of inference.",
+        "translation": "这一论证建立在极其纤弱的推理链条上。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "grandiloquent": {
+      "synonyms": ["bombastic", "pompous", "magniloquent", "high-flown", "turgid"],
+      "example": {
+        "sentence": "His grandiloquent preface promised far more than the book delivered.",
+        "translation": "他那浮夸的序言所作的承诺，远超过全书实际提供的内容。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "gregarious": {
+      "example": {
+        "sentence": "The species is unusually gregarious, nesting in colonies of thousands.",
+        "translation": "该物种异常群居，营巢于数以千计的群体中。"
+      },
+      "confusables": [
+        {"term": "egregious", "distinction": "gregarious 指爱交际的、群居的（中性或褒义）；egregious 指极其恶劣的（贬义）。"}
+      ],
+      "clear_flags": ["missing_example"]
+    },
+    "grimy": {
+      "synonyms": ["dirty", "filthy", "soiled", "begrimed", "smudged"]
+    },
+    "hallmark": {
+      "synonyms": ["trademark", "distinctive feature", "signature", "badge", "mark"],
+      "example": {
+        "sentence": "Restraint is the hallmark of her later work.",
+        "translation": "克制是她后期作品的标志性特征。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "hamstring": {
+      "pos": ["verb", "noun"],
+      "chinese": ["使瘫痪，严重削弱；（名词）腘绳肌腱"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To cripple or severely weaken the effectiveness of (a person, plan, or organization)."},
+        {"pos": "noun", "definition": "A tendon at the back of the knee in humans, or the corresponding part in quadrupeds."}
+      ],
+      "synonyms": ["cripple", "disable", "hobble", "undermine", "sabotage"],
+      "example": {
+        "sentence": "The rule was intended to hamstring the agency without appearing to abolish it.",
+        "translation": "这条规则的用意是在不显得废除该机构的情况下使其瘫痪。"
+      },
+      "clear_flags": ["missing_example", "multiple_possible_pos"]
+    },
+    "handicap": {
+      "synonyms": ["hindrance", "impediment", "disadvantage", "burden", "liability"]
+    },
+    "hardboiled": {
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Tough, unsentimental, and matter-of-fact, especially in the face of hardship."}
+      ],
+      "synonyms": ["tough", "unsentimental", "cynical", "callous", "hard-nosed"],
+      "example": {
+        "sentence": "Even the most hardboiled reporters were shaken by the testimony.",
+        "translation": "连最铁石心肠的记者也被这份证词震动了。"
+      },
+      "clear_flags": ["missing_example", "missing_definition"]
+    },
+    "hedonist": {
+      "example": {
+        "sentence": "The novel's narrator presents himself as a hedonist but behaves like a moralist.",
+        "translation": "小说叙述者自称享乐主义者，行为却像个道德家。"
+      },
+      "derivatives": [{"term": "hedonism", "relation": "noun: the pursuit of pleasure"}],
+      "clear_flags": ["missing_example"]
+    },
+    "heterogeneity": {
+      "synonyms": ["diversity", "variety", "dissimilarity", "disparateness"],
+      "example": {
+        "sentence": "The heterogeneity of the sample made the averages almost meaningless.",
+        "translation": "样本的异质性使这些平均值几乎失去意义。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "heterogeneous": {
+      "chinese": ["异质的，成分不同的，由不同成分组成的"],
+      "confusables": [
+        {"term": "homogeneous", "distinction": "heterogeneous 指成分多样、异质；homogeneous 指成分一致、同质。二者是 GRE 填空的经典对立对。"}
+      ]
+    },
+    "high-minded": {
+      "synonyms": ["idealistic", "principled", "noble", "high-principled", "lofty"],
+      "example": {
+        "sentence": "His high-minded refusal to compromise cost the party the election.",
+        "translation": "他出于高尚原则拒绝妥协，使该党输掉了选举。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "hollow": {
+      "pos": ["adjective", "noun", "verb"],
+      "chinese": ["空洞的，虚伪的；（名词）洞，凹陷处；（动词）挖空"],
+      "english_definitions": [
+        {"pos": "adjective", "definition": "Lacking real value, substance, or sincerity; empty or insincere."},
+        {"pos": "noun", "definition": "A depression or cavity in a surface."}
+      ],
+      "synonyms": ["empty", "insincere", "meaningless", "vacuous", "false"],
+      "notes": ["GRE 常考抽象义：hollow promise/claim/victory（空洞的承诺、主张、胜利）。"],
+      "example": {
+        "sentence": "The apology rang hollow because no restitution followed.",
+        "translation": "这次道歉听着空洞，因为其后并无任何补偿。"
+      },
+      "clear_flags": ["possible_wrong_synonym", "missing_definition"]
+    },
+    "hortatory": {
+      "example": {
+        "sentence": "The speech was hortatory rather than analytical, urging action without weighing costs.",
+        "translation": "这篇演讲是鼓动性的而非分析性的，只催促行动而不权衡代价。"
+      },
+      "clear_flags": ["missing_example"]
+    },
+    "husband": {
+      "pos": ["verb", "noun"],
+      "chinese": ["节俭使用，节约利用；（名词）丈夫"],
+      "english_definitions": [
+        {"pos": "verb", "definition": "To use (resources) economically; to manage prudently and sparingly."},
+        {"pos": "noun", "definition": "A man in a marriage or marital relationship."}
+      ],
+      "synonyms": ["conserve", "economize", "ration", "save", "budget"],
+      "example": {
+        "sentence": "The director husbanded her small budget by reusing sets from earlier productions.",
+        "translation": "这位导演重复使用早先剧目的布景，以节省她有限的预算。"
+      },
+      "notes": ["GRE 高频考法：husband 作动词，指“节约使用（资源）”，与 squander 反义。"],
+      "clear_flags": ["missing_definition", "multiple_possible_pos"]
+    },
+    "hyperbolic": {
+      "synonyms": ["exaggerated", "overblown", "inflated"],
+      "example": {
+        "sentence": "The hyperbolic claims in the abstract were quietly softened in the body of the paper.",
+        "translation": "摘要中夸张的论断在正文里被悄然缓和了。"
+      },
+      "notes": ["修辞语境中指“夸张的”，数学语境中指“双曲线的”，需依上下文判断。"],
+      "clear_flags": ["missing_example"]
+    }
+  }
+}
