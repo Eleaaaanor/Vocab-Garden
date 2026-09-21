@@ -1,4 +1,4 @@
-# Vocab Garden — GRE Wordbank
+# Vocab Garden — A Wordbank
 
 A personal, offline GRE vocabulary flashcard app. The whole wordbank is compiled into a
 single self-contained HTML file you can open in any browser (desktop or phone) — no server,
