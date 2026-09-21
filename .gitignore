@@ -11,13 +11,18 @@ venv/
 .env.*
 
 # Generated build output (python tools\build.py -> dist/<lang>-<count>.html)
-dist/
+# Exception: dist/En-735.html is kept in the repo as the example demo build.
+dist/*
+!dist/En-735.html
 
 # Cached dictionary / API responses (regenerable, not source data)
 data/enrichment_cache/
 
 # Temporary working files
 data/tmp*
+
+# Personal vocabulary notes corpus (learner-specific; everyone builds their own)
+verbalword.md
 
 # Local backups created by tools/remove_words.py
 data/backups/
